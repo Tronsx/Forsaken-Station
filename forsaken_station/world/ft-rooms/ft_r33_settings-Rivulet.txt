@@ -1,0 +1,10 @@
+Template: FT_SettingsTemplate_ZeroCaves
+DangerType: Flood
+Clouds: 0.9021739
+Effects: ReflectiveWater-0.6086956-18-84-LerpAngle:100-Alpha:120.1848-LerpAngle:100-Alpha:120.1848-LerpAngle:100-Alpha:120.1848-LerpAngle:100-Alpha:120.1848, Lightning-1-287-34, 
+PlacedObjects: CustomDecal><702.5526><323.7188><-3~198~710~229~667~-21~-402~-186~0.04347826~1~0~blackrust2~0.5652174~1~0.2934783~1~0.6304348~1~0.5~1, InsectGroup><1066.929><406.6871><267~48~0~0~GrassHopper~0.3043478, InsectGroup><1716.504><362.8><0~100~0~0~TinyDragonFly~0.1521739, LillyPuck><1716.429><342.2093><0~0~2~3, 
+AmbientSounds: SPOT><so_wat-pour.ogg><452.1939><568.799><0.3586957><1><1723.194><339.799><-79.35535><-84.35535><0><0.1, SPOT><so_wat-openflow.ogg><256.6786><431.5901><0.25><1><1881.679><523.5901><-92.35535><-58.35535><0><0.1, OMNI><am_rain-rumbles.ogg><707.9465><265.7125><0.4021739><1, OMNI><am_nat-forestrain.ogg><708.4434><340.1991><0.3043478><1, 
+FadePalette: 174, 0.5, 0.5
+MorePalette0: 10, 0.3043478, 0.3043478
+MorePalette1: 11, 0.2065217, 0.2065217
+MorePalette2: 17, 0.3586957, 0.3586957

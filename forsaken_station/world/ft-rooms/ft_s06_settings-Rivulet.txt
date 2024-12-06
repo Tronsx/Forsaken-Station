@@ -1,0 +1,15 @@
+Template: NONE
+WaveSpeed: 0.5051789
+WaveLength: 0.9932439
+WaveAmplitude: 0.009770921
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.9021739
+Grime: 0
+BkgDroneVolume: 0
+Palette: 330
+Effects: SkyAndLightBloom-0.1521739-281-83, RockFlea-0.3043478-20-20, Wasp-0.5-14-86, ReplaceEffectColorA-0.3043478-529-554-Color-1-1-0, ReplaceEffectColorB-0.2065217-701-414-Color-0.2717391-0-0.2826087, 
+AmbientSounds: OMNI><am_sub-blankstate.ogg><703.1745><163.9023><0.4021739><0.6478261, OMNI><am_win-nicewnd.ogg><700.7097><243.1959><0.25><1, OMNI><am_rain-mehthunder.ogg><708.6483><306.1158><0.4021739><1, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.3043478
+MorePalette1: 17, 0.05434782

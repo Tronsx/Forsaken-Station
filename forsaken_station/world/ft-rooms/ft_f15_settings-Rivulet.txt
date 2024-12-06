@@ -1,0 +1,7 @@
+Template: FT_SettingsTemplate_Behindworks
+EffectColorB: 3
+Effects: FairyParticles-1-32-79, DenseFog-0.01086957-308-91, RockFlea-0.3043478-297-30, 
+PlacedObjects: LightSource><-195.5777><271.8985><0.1086956~White~1185~28~50~86.60254~0~1~None~0~0, FairyParticleSettings><91.97076><120.6979><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+FadePalette: 171, 0.3586957
+MorePalette0: 11, 0.1521739
+MorePalette1: 17, 0.5

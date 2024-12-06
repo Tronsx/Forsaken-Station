@@ -1,0 +1,7 @@
+Template: FT_SettingsTemplate_Foghorizon
+BkgDroneVolume: 0
+Effects: AboveCloudsView-1-288-23, DenseFog-0.4021739-268-142, DenseFogSoundVolume-0.3043478-5-140, 
+PlacedObjects: CustomDecal><-196.0676><-44.68822><1~755~1353~758~1354~-1~0~0~0~1~0~bonetype~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, FairyParticleSettings><117.4084><122.1778><5~8.660254~1~2.717391~0~0~1~2.877452~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, 
+AmbientSounds: OMNI><noise wind.wav><732.7248><169.3016><0.2065217><1.391304, 
+BackgroundOffset: 0,217
+BackgroundType: atc_mountain_far

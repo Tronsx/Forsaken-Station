@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.7498527
+WaveLength: 0.509542
+WaveAmplitude: 0.07019375
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 171
+EffectColorA: 9
+EffectColorB: 3
+Effects: RockFlea-0.2065217-14-81, Moth-0.3043478-276-85, DenseFog-0.3586957-20-20, FairyParticles-1-255-148, DenseFogSoundVolume-0.05434782-0-0, 
+PlacedObjects: CustomDecal><-179.8973><27.11472><8~607~2357~598~2362~2~0~0~0~1~0~bonetype~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, CustomDecal><807.8076><-9.941544><-5~590~307~587~307~14~0~0~0.2282609~1~0~rust1~0.5~1~0.2826087~1~0.5108696~1~0.3804348~1, DataPearl><1062.392><251.1412><0~0~0~0~Misc~0, FairyParticleSettings><128.8036><128.2878><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+AmbientSounds: OMNI><FT_ENV_UnknownFactory.ogg><706.9849><519.0505><0.2065217><0.4130435, OMNI><msc-subtundra.ogg><693.8207><443.5629><0.3043478><0.55, SPOT><so_ind-winfan.ogg><732.6644><218.386><0.25><1><980.6643><336.386><-84.35535><-72.35535><0><0.1, OMNI><am_ind-factory02.ogg><689.805><353.2944><0.25><0.4717391, OMNI><am_rain-mehthunder.ogg><513.7596><349.9498><0.4021739><1, 
+FadePalette: 174, 0.5, 0.5
+MorePalette0: 10, 0.5, 0.5
+MorePalette1: 11, 0.1521739, 0.1521739
+MorePalette2: 17, 0.2065217, 0.2065217

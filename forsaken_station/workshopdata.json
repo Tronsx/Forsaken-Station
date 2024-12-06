@@ -1,0 +1,19 @@
+{
+  "Title": "Forsaken Station",
+  "Description": "After a long long time, Forsaken Station finally has been finished, with over 400 screens, you can enjoy this region that took me 2 years or more in development. There is also other people that help me to make this region possible\r\n\r\n- M4rbleL1ne: For helping with all the code within the region, without their help, it couldn\u0027t what it is now.\r\n- Mayhemmm: For helping with the code and fixing\r\n- 4slugcats: For doing an amazing region art for the mod\r\n- Roasted\u0026Toasted: For doing all threat themes and 1 song\r\n- Serpanoy: For doing an incredible song\r\n- Millisec: For doing another moody song\r\n- Alekus: For giving a cool long song\r\n- Snoodle: For doing an outstanding echo song\r\n- Aprilistheworstmonth: For doing cool sky and mountain backgrounds\r\n- Merfaruk: For doing the background of the wall\r\n- Nautillo: For helping doing the palettes for the region\r\n- Alduris: For doing the arenas for the region\r\n- qt_pi: For doing the cornifer map\r\n- Klumquart: For making a harrowing sound\r\n\r\n- And all the people that playtested and followed closely the development of my region.\r\n\r\nNow, what can you expect for this region?\r\n\r\n- Connects to Subterranean, Industrial Complex\r\n- Custom creatures\r\n- Data pearls\r\n- Echo\r\n- Rivulet Timeline changes\r\n- Arenas\r\n- Safari\r\n\r\nAt the moment the Saint Timeline changes is being worked on, so i don\u0027t recommend visiting it unless you want to get a small teaser from it\r\n\r\nThere is some gates that leads nowhere, this because connects to other custom regions, so when those get released, then you can look for going through those \r\n\r\nAlso there will be added more custom creatures hopefully, aswell more sound tracks throughout the region that will be updated\r\n\r\nIt is recommended to use the 64 bit mod, this because the sheer size of the region may cause memory leaks in the game more often.\r\n\r\nEnjoy my region and try to not get lost",
+  "ID": "forsaken_station",
+  "Version": "2.9.1",
+  "TargetGameVersion": "v1.9.06",
+  "Requirements": "regionkit,crs,lb-fgf-m4r-ik.modpack",
+  "RequirementNames": "RegionKit,Custom Regions Support,The M4rblelous Entity Pack",
+  "Authors": "Tronsx",
+  "Visibility": "Public",
+  "Tags": [
+    "Regions",
+    "Creatures",
+    "Game Mechanics"
+  ],
+  "WorkshopID": 3304867363,
+  "UploadFilesOnly": false,
+  "UploadThumbnail": false
+}

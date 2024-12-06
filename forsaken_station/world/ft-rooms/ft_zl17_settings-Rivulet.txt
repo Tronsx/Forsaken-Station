@@ -1,0 +1,5 @@
+Template: FT_SettingsTemplate_Deepside
+CeilingDrips: 1
+BkgDroneVolume: 0
+Effects: GlowingSwimmers-0-30-30, 
+FadePalette: 10, 0.9021739

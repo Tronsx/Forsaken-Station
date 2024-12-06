@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0.2065217
+BkgDroneVolume: 0
+Palette: 175
+PlacedObjects: LightSource><491.7969><285.3056><0.25~Environment~-1~211~50~86.60254~0~0~None~0~0, 
+AmbientSounds: SPOT><so_ind-hvac.ogg><458.6193><511.1513><0.2065217><1><493.6193><320.1513><-130.3553><-88.35535><0><0.1, 
+FadePalette: 10, 0.4021739
+MorePalette0: 11, 0.1521739
+MorePalette1: 17, 0.5

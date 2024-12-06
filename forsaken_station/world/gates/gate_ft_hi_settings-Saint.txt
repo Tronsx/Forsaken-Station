@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.2391304
+RumbleIntensity: 0.25
+WaveSpeed: 0.5001758
+WaveLength: 0.9999121
+WaveAmplitude: 3.921117E-12
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1630435
+Grime: 0.1847826
+BkgDroneVolume: 0
+Palette: 0
+EffectColorB: 2
+PlacedObjects: NoSpearStickZone><478.6975><236.9686><4~236, ExitSymbolShelter><735.5745><385.1542><, 
+AmbientSounds: OMNI><am_ind-utility02.ogg><456.5147><568.5505><0.4021739><1, OMNI><am_ind-warehouse01.ogg><459.1637><499.3196><0.4456522><0.8826087, 
+FadePalette: 3346, 0.2608696
+WetTerrain: OFF
+MorePalette0: 15, 0.4565217

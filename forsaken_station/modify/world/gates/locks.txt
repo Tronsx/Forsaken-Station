@@ -1,0 +1,9 @@
+[MERGE]
+GATE_FT_SB : 5 : 3
+GATE_FT_FO : 2 : 2
+GATE_PU_FT : Forbidden : Forbidden
+GATE_GC_FT : Forbidden : Forbidden
+GATE_FT_NC : Forbidden : Forbidden
+GATE_FT_HI : 2 : 5
+GATE_TX_FT : 4 : 2
+[ENDMERGE]

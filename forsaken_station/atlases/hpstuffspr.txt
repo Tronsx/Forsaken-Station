@@ -1,0 +1,44 @@
+{"frames": {
+
+"BlizzorBody.png":
+{
+	"frame": {"x":2,"y":54,"w":53,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":60},
+	"sourceSize": {"w":53,"h":60}
+},
+"BlizzorHead.png":
+{
+	"frame": {"x":2,"y":2,"w":26,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":26},
+	"sourceSize": {"w":26,"h":26}
+},
+"BlizzorTigh.png":
+{
+	"frame": {"x":2,"y":30,"w":50,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":22},
+	"sourceSize": {"w":50,"h":22}
+},
+"icon_MoleSalamander.png":
+{
+	"frame": {"x":30,"y":2,"w":27,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":16},
+	"sourceSize": {"w":27,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hpstuffspr.png",
+	"format": "RGBA8888",
+	"size": {"w":59,"h":116},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d2ff5d52d13610c351d610014ef21f6b:943dc7ee6fca51e9b773281d9de1f22a:918db004c7dbe1f1baeeeffc16f893f0$"
+}
+}

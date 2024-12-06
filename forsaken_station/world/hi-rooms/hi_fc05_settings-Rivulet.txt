@@ -1,0 +1,10 @@
+Template: HI_SettingsTemplate_Inside
+Clouds: 0.9021739
+Palette: 330
+Effects: BkgOnlyLightning-0.4021739-20-20, 
+AmbientSounds: SPOT><so_ind-boiler.ogg><706.9042><230.6756><0.4021739><0.7065217><648.9042><591.6755><-86.35535><-71.35535><0><0.1, OMNI><am_rain-rumbles.ogg><701.8546><345.3627><0.3043478><1, 
+FadePalette: 5, 0.7065217
+MorePalette0: 20, 0.1086956
+MorePalette1: 11, 0.2065217
+MorePalette2: 17, 0.3586957
+MorePalette3: 5, 0.05434782

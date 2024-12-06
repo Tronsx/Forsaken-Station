@@ -1,0 +1,510 @@
+CONDITIONAL LINKS
+
+Rivulet : REPLACEROOM : FT_F01 : FT_ZF01
+Rivulet : REPLACEROOM : FT_F02 : FT_ZF02
+Rivulet : REPLACEROOM : FT_F03 : FT_ZF03
+Rivulet : REPLACEROOM : FT_F04 : FT_ZF04
+Rivulet : REPLACEROOM : FT_F05 : FT_ZF05
+Rivulet : REPLACEROOM : FT_F06 : FT_ZF06
+Rivulet : REPLACEROOM : FT_F10 : FT_ZF10
+Rivulet : REPLACEROOM : FT_F11 : FT_ZF11
+Rivulet : REPLACEROOM : FT_F12 : FT_ZF12
+Rivulet : REPLACEROOM : FT_F13 : FT_ZF13
+Rivulet : REPLACEROOM : FT_F14 : FT_ZF14
+
+Rivulet : REPLACEROOM : FT_L01 : FT_ZL01
+Rivulet : REPLACEROOM : FT_L02 : FT_ZL02
+Rivulet : REPLACEROOM : FT_L03 : FT_ZL03
+Rivulet : REPLACEROOM : FT_L04 : FT_ZL04
+Rivulet : REPLACEROOM : FT_L05 : FT_ZL05
+Rivulet : REPLACEROOM : FT_L06 : FT_ZL06
+Rivulet : REPLACEROOM : FT_L08 : FT_ZL08
+Rivulet : REPLACEROOM : FT_L09 : FT_ZL09
+Rivulet : REPLACEROOM : FT_L10 : FT_ZL10
+Rivulet : REPLACEROOM : FT_L11 : FT_ZL11
+Rivulet : REPLACEROOM : FT_L12 : FT_ZL12
+Rivulet : REPLACEROOM : FT_L14 : FT_ZL14
+Rivulet : REPLACEROOM : FT_L15 : FT_ZL15
+Rivulet : REPLACEROOM : FT_L16 : FT_ZL16
+Rivulet : REPLACEROOM : FT_L17 : FT_ZL17
+
+Rivulet : REPLACEROOM : FT_N02 : FT_ZN02
+Rivulet : REPLACEROOM : FT_N04 : FT_ZN04
+Rivulet : REPLACEROOM : FT_N07 : FT_ZN07
+Rivulet : REPLACEROOM : FT_N08 : FT_ZN08
+Rivulet : REPLACEROOM : FT_N17 : FT_ZN17
+Rivulet : REPLACEROOM : FT_None : FT_ZNone
+
+Rivulet : REPLACEROOM : FT_X01 : FT_ZX01
+Rivulet : REPLACEROOM : FT_X02 : FT_ZX02
+Rivulet : REPLACEROOM : FT_X03 : FT_ZX03
+Rivulet : REPLACEROOM : FT_X04 : FT_ZX04
+Rivulet : REPLACEROOM : FT_X05 : FT_ZX05
+Rivulet : REPLACEROOM : FT_X06 : FT_ZX06
+Rivulet : REPLACEROOM : FT_X07 : FT_ZX07
+Rivulet : REPLACEROOM : FT_X08 : FT_ZX08
+Rivulet : REPLACEROOM : FT_X09 : FT_ZX09
+Rivulet : REPLACEROOM : FT_X10 : FT_ZX10
+Rivulet : REPLACEROOM : FT_X11 : FT_ZX11
+Rivulet : REPLACEROOM : FT_X12 : FT_ZX12
+Rivulet : REPLACEROOM : FT_X13 : FT_ZX13
+Rivulet : REPLACEROOM : FT_X14 : FT_ZX14
+Rivulet : REPLACEROOM : FT_X15 : FT_ZX15
+Rivulet : REPLACEROOM : FT_X16 : FT_ZX16
+Rivulet : REPLACEROOM : FT_X17 : FT_ZX17
+Rivulet : REPLACEROOM : FT_X20 : FT_ZX20
+Rivulet : REPLACEROOM : FT_X21 : FT_ZX21
+Rivulet : REPLACEROOM : FT_X22 : FT_ZX22
+Rivulet : REPLACEROOM : FT_X23 : FT_ZX23
+Rivulet : REPLACEROOM : FT_X24 : FT_ZX24
+Rivulet : REPLACEROOM : FT_X25 : FT_ZX25
+
+Rivulet : REPLACEROOM : GATE_FT_SB : GATE_FT_SB_Z
+
+END CONDITIONAL LINKS
+
+ROOMS
+
+FT_F01 : FT_F03, GATE_FT_SB, FT_F02
+FT_F02 : FT_F38, FT_F39, FT_F12, FT_F01 : PERF_HEAVY 
+FT_F03 : FT_F04, FT_F01
+FT_F04 : FT_F06, FT_F05, FT_F03
+FT_F05 : FT_F10, FT_F04
+FT_F06 : FT_F07, FT_S01, FT_F04
+FT_F07 : FT_F08, FT_F06
+FT_F08 : FT_F07, FT_F09
+FT_F09 : FT_F08, FT_F15, FT_F16
+FT_F10 : FT_F05, FT_F11, FT_F39
+FT_F11 : FT_X15, FT_F10, FT_S14, FT_F38
+FT_F12 : FT_F13, FT_F02
+FT_F13 : FT_F14, FT_F12, FT_L01
+FT_F14 : FT_X14, FT_F13
+FT_F17 : FT_F20, FT_R18, FT_F44
+FT_F18 : FT_F22, FT_R19, FT_F19
+FT_F19 : FT_F21, FT_F18, FT_F20
+FT_F20 : FT_F19, FT_S07, FT_F17, FT_F44
+FT_F21 : FT_F26, FT_Flower, FT_F24, FT_F23, FT_F19
+FT_Flower : FT_F21, DISCONNECTED
+FT_F22 : FT_F28, FT_F18
+FT_F23 : FT_F24, FT_F21, FT_F27
+FT_F24 : FT_F25, FT_F21, FT_F23
+FT_F25 : FT_F29, FT_F24, FT_F35
+FT_F26 : FT_F28, FT_F21
+FT_F27 : FT_F23, FT_F34
+FT_F28 : FT_F30, FT_F26, FT_F22
+FT_F29 : FT_F30, FT_F25 : SWARMROOM
+FT_F30 : FT_F31, FT_F29, FT_F28, FT_F33, FT_S08
+FT_F31 : FT_F32, FT_F30
+FT_F32 : FT_F31
+FT_F33 : FT_F30
+FT_F34 : FT_F27, FT_F37
+FT_F35 : FT_F36, FT_F25
+FT_F36 : FT_F35, FT_R20
+FT_F37 : FT_F34, FT_F44, FT_R23
+FT_F38 : FT_F40, FT_F11, FT_F02 : PERF_HEAVY 
+FT_F39 : FT_F41, FT_F10, FT_F02 : PERF_HEAVY 
+FT_F40 : FT_F42, FT_F45, FT_N14, FT_F38 : PERF_HEAVY 
+FT_F41 : FT_F43, FT_F45, FT_F39 : PERF_HEAVY 
+FT_F42 : FT_F44, FT_F40
+FT_F43 : FT_F44, FT_F41
+FT_F44 : FT_F20, FT_F37, FT_F17, FT_F42, FT_F43
+FT_F45 : FT_F40, FT_F41
+FT_L01 : FT_F13, FT_L14, FT_L17
+FT_L02 : FT_L10, FT_L17, FT_L03
+FT_L03 : FT_L04, FT_L02
+FT_L04 : FT_L12, FT_L05, FT_L10, FT_L03
+FT_L05 : FT_L04, FT_L13
+FT_L06 : FT_L08, FT_L07, FT_L13
+FT_L07 : FT_L06, FT_S02
+FT_L08 : FT_L09, FT_L06
+FT_L09 : FT_X06, FT_L08
+FT_L10 : FT_L11, FT_L02, FT_L04
+FT_L11 : FT_X01, FT_L10
+FT_L12 : FT_X02, FT_L04, FT_L15
+FT_L14 : FT_L01 : SCAVTRADER
+FT_L15 : FT_L12, FT_L16
+FT_L16 : GATE_TX_FT, FT_L15
+FT_L17 : FT_L02, FT_L01, FT_S12
+GATE_TX_FT : DISCONNECTED, FT_L16, DISCONNECTED : GATE
+FT_S01 : FT_F06 : SHELTER
+FT_S02 : FT_L07 : SHELTER
+FT_S03 : FT_X05 : SHELTER
+FT_X01 : FT_X16, FT_X22, FT_X04, FT_L11
+FT_X02 : FT_X07, FT_X03, FT_L12
+FT_X03 : FT_X02, FT_X22
+FT_X04 : FT_X01, FT_X05
+FT_X05 : FT_X13, FT_S03, FT_X04
+FT_X06 : FT_X10, FT_X23, FT_L09
+FT_X07 : FT_X20, FT_X08, FT_X11, FT_X02
+FT_X08 : FT_X09, FT_X07
+FT_X09 : FT_X18, FT_X08, FT_X10
+FT_X10 : FT_X09, FT_X06
+FT_X11 : FT_X07, FT_X12, FT_S15
+FT_X12 : FT_N07, FT_X11, FT_X21 : SWARMROOM
+FT_X13 : FT_X14, FT_X21, FT_X05
+FT_X14 : FT_N09, FT_X13, FT_X15, FT_F14 : SWARMROOM
+FT_X15 : FT_X14, FT_F11
+GATE_FT_SB : DISCONNECTED, FT_F01, DISCONNECTED : GATE
+FT_N01 : GATE_FT_FO, FT_X17
+FT_N02 : FT_N03, FT_N05, FT_N04, FT_X20
+FT_N03 : FT_X19, FT_N02
+FT_N04 : FT_N02, FT_N08
+FT_N05 : FT_N06, FT_S05, FT_N11, FT_N02, FT_N07
+FT_N06 : FT_N20, FT_N05 : SWARMROOM
+FT_N07 : FT_N05, FT_X12
+FT_N08 : FT_N16, FT_N11, FT_N17, FT_N04, FT_None
+FT_N09 : FT_N12, FT_N14, FT_N10, FT_N17, FT_X14
+FT_N10 : FT_N09, FT_F16
+FT_N11 : FT_N18, FT_N05, FT_N08
+FT_N12 : FT_N19, FT_N18, FT_N09
+FT_N13 : FT_R01, FT_N19 : SWARMROOM
+FT_N14 : FT_N15, FT_F40, FT_N09
+FT_N15 : FT_F15, FT_N14
+FT_N16 : FT_R01, FT_N08
+FT_None : FT_N08
+FT_R01 : FT_R02, FT_N20, FT_N13, FT_N16
+FT_R02 : FT_R12, FT_R03, FT_R13, FT_R01
+FT_R03 : FT_R04, FT_R02
+FT_R04 : FT_R06, FT_R03, FT_R05
+FT_R05 : FT_R04, FT_X19
+FT_R06 : FT_R07, FT_R04, FT_R41
+FT_R07 : GATE_PU_FT, FT_R08, FT_R06
+FT_R08 : FT_R10, FT_R09, FT_R07
+FT_R09 : FT_R08 : SWARMROOM
+FT_R10 : FT_R08, FT_S06
+FT_R12 : FT_R16, FT_S13, FT_R11, FT_R02
+FT_R11 : FT_R14, FT_R17, FT_R12
+FT_R13 : FT_R15, FT_R18, FT_R02
+FT_R14 : FT_R19, FT_R11, FT_R15
+FT_R15 : FT_R14, FT_R13
+FT_R16 : FT_R12 : SWARMROOM
+FT_R17 : GATE_GC_FT, FT_R11
+FT_R18 : FT_F17, FT_R13
+FT_R19 : FT_R14, FT_F18
+FT_R20 : FT_R21, FT_F36
+FT_R21 : FT_R26, FT_R20, FT_R22, FT_R25
+FT_R22 : FT_R21, GATE_FT_NC
+FT_R23 : FT_F37, FT_R24, FT_S09
+FT_R24 : FT_R25, FT_R23, FT_R28, FT_R27
+FT_R25 : FT_R21, FT_R24
+FT_R26 : FT_S10, FT_R21 : SWARMROOM
+FT_R27 : FT_R24, FT_R29
+FT_R28 : FT_R24, FT_R30
+FT_R29 : FT_R27, FT_R32
+FT_R30 : FT_R28, FT_R34, FT_R31
+FT_R31 : FT_R30, FT_R36, FT_R38
+FT_R32 : FT_R29, FT_R34, FT_R37, FT_R33
+FT_R33 : FT_R35, FT_R32
+FT_R34 : FT_R30, FT_R32, FT_R35
+FT_R35 : FT_R34, FT_R36, FT_R33, FT_S11
+FT_R36 : FT_R31, FT_R35
+FT_R37 : FT_R32
+FT_R38 : FT_R31, FT_R39
+FT_R39 : GATE_FT_HI, FT_R38
+FT_R40 : FT_R41, FT_X26
+FT_R41 : FT_R06, FT_R40
+FT_X16 : FT_X17, FT_X01
+FT_X17 : FT_N01, FT_X16
+FT_X18 : FT_X19, FT_X25, FT_X09
+FT_X19 : FT_R05, FT_S04, FT_N03, FT_X18
+FT_X20 : FT_N02, FT_X07
+FT_S04 : FT_X19 : SHELTER
+FT_S05 : FT_N05 : SHELTER
+FT_S06 : FT_R10 : SHELTER
+FT_S07 : FT_F20 : SHELTER
+FT_S08 : FT_F30 : SHELTER
+FT_S09 : FT_R23 : SHELTER
+FT_S10 : FT_R26 : SHELTER
+FT_S11 : FT_R35 : SHELTER
+FT_S12 : FT_L17 : SHELTER
+FT_S13 : FT_R12 : SHELTER
+FT_S14 : FT_F11 : SHELTER
+FT_S15 : FT_X11 : SHELTER
+GATE_FT_FO : FT_N01, DISCONNECTED : GATE
+GATE_PU_FT : DISCONNECTED, FT_R07 : GATE
+GATE_GC_FT : FT_R17, DISCONNECTED, DISCONNECTED : GATE
+GATE_FT_NC : DISCONNECTED, FT_R22 : GATE
+GATE_FT_HI : DISCONNECTED, FT_R39, DISCONNECTED : GATE
+FT_F15 : FT_N15, FT_F09
+FT_F16 : FT_N10, FT_F09
+FT_L13 : FT_L06, FT_L05
+FT_N17 : FT_N09, FT_N08
+FT_N18 : FT_N11, FT_N12
+FT_N19 : FT_N13, FT_N12
+FT_N20 : FT_N06, FT_R01
+FT_X21 : FT_X12, FT_X13
+FT_X22 : FT_X03, FT_X01
+FT_X23 : FT_X24, FT_X06
+FT_X24 : FT_X25, FT_X23
+FT_X25 : FT_X26, FT_X18, FT_X24
+FT_X26 : FT_R40, FT_X25
+END ROOMS
+CREATURES
+
+(White,Yellow)FT_L05 : 2-PoleMimic-{14}
+FT_L06 : 3-Mole Salamander
+FT_L04 : 5-Mole Salamander, 4-Mole Salamander
+FT_L02 : 3-Mole Salamander, 4-Mole Salamander-2
+FT_L10 : 3-Mole Salamander
+(White)FT_F14 : 2-Centipede-{0.5}
+(White,Yellow)FT_F04 : 3-BlueLizard
+(White)FT_F10 : 5-BlueLizard
+(White,Yellow)FT_F10 : 3-BigSpider, 6-Centipede
+(Red,Gourmand,Artificer,Spear)FT_F10 : 5-WhiteLizard, 3-SpitterSpider, 6-Scutigera
+FT_F10 : 4-EggBug
+(White,Yellow,Rivulet)FT_F07 : 3-BigSpider, 2-Centipede
+FT_F08 : 3-BlueLizard, 5-EggBug
+(X-Rivulet)FT_F11 : 6-BlueLizard, 4-SmallCentipede-2
+(White,Yellow)FT_F11 : 5-BigSpider, 7-BigSpider, 4-Centipede
+(X-Rivulet)FT_X14 : 5-WhiteLizard
+FT_X14 : 4-DropBug
+(White,Yellow)FT_X13 : 3-WhiteLizard
+(White)FT_X05 : 3-WhiteLizard
+FT_X02 : 3-DropBug
+FT_X06 : 2-DropBug
+(White)FT_X08 : 3-PoleMimic-{24}
+(X-Rivulet)FT_X08 : 2-WhiteLizard
+(X-Rivulet)FT_X03 : 2-YellowLizard
+(Red,Gourmand,Artificer,Spear)FT_L11 : 2-DropBug
+(Red,Gourmand,Artificer,Spear)FT_F03 : 2-BigSpider-2
+FT_F06 : 3-BigSpider
+(Red,Gourmand,Artificer,Spear)FT_F11 : 7-SpitterSpider, 3-TentaclePlant, 5-SpitterSpider, 4-Scutigera
+(Red,Gourmand,Artificer,Spear)FT_F07 : 3-SpitterSpider, 2-Scutigera
+(Red,Gourmand,Artificer,Spear)FT_F04 : 3-WhiteLizard
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_F14 : 2-Scutigera
+(Red,Gourmand,Artificer,Spear)FT_X14 : 4-DropBug
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_X08 : 3-TentaclePlant
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_L05 : 2-TentaclePlant
+(Red,Gourmand,Artificer,Spear)FT_L04 : 4-Mole Salamander, 5-Mole Salamander
+(White,Red)FT_L01 : 2-DropBug
+(Red,Gourmand,Artificer,Spear)FT_L01 : 3-DropBug
+(Artificer)OFFSCREEN : 0-Elite
+OFFSCREEN : 0-BigEel-2, 0-Scavenger-10, 0-Vulture-3, 0-Blizzor-25
+{#com.rainworldgame.shroudedassembly.plugin}OFFSCREEN : 0-FogVulture-1
+(White,Yellow,Rivulet)FT_F03 : 2-BigSpider
+FT_F09 : 4-DropBug, 3-PinkLizard
+(White,Yellow,Red)FT_N14 : 3-GreenLizard
+FT_N14 : 6-PinkLizard, 5-EggBug
+(Red)FT_N14 : 4-GreenLizard
+FT_N13 : 6-CicadaA, 6-CicadaB, 5-BigNeedleWorm, 5-SmallNeedleWorm, 3-BigNeedleWorm, 3-SmallNeedleWorm-2
+(Red,Gourmand,Artificer,Spear)OFFSCREEN : 0-KingVulture-2
+FT_N12 : 5-GreenLizard, 3-PoleMimic-{16}
+FT_N10 : 2-PoleMimic-{12}
+(Red,Gourmand,Artificer,Spear)FT_N09 : 6-PinkLizard
+FT_N09 : 6-PinkLizard, 5-PinkLizard
+FT_X16 : 2-EggBug
+(Red,Gourmand,Artificer,Spear)FT_L12 : 2-SpitterSpider
+(Red,Gourmand,Artificer,Spear)FT_X18 : 2-BlueLizard
+FT_N03 : 3-GreenLizard, 2-CicadaB, 2-CicadaB, 2-CicadaA, 4-PinkLizard
+(Red,Gourmand,Artificer,Spear)FT_X19 : 7-WhiteLizard, 4-CyanLizard
+FT_X19 : 6-BigNeedleWorm, 6-SmallNeedleWorm, 5-BlueLizard
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_N02 : 5-TentaclePlant
+FT_N05 : 7-BigNeedleWorm, 7-SmallNeedleWorm, 5-GreenLizard
+(Red,Gourmand,Artificer,Spear)FT_N05 : 6-PinkLizard
+(White,Yellow)FT_N02 : 4-BlueLizard, 5-PoleMimic-{15}
+FT_N11 : 3-PinkLizard
+(X-Rivulet)FT_N08 : 7-GreenLizard
+FT_N08 : 5-EggBug
+(Red,Gourmand,Artificer,Spear)FT_N08 : 8-GreenLizard
+FT_R01 : 5-BlueLizard, 4-BlueLizard
+(Red,Gourmand,Artificer,Spear)FT_R01 : 7-WhiteLizard, 8-CyanLizard, 6-CyanLizard
+(X-Red)FT_R01 : 8-PinkLizard, 6-PinkLizard
+(Red,Gourmand,Artificer,Spear)FT_X13 : 3-RedLizard
+(Red,Gourmand,Artificer,Spear)FT_X05 : 3-Scutigera
+(Red,Gourmand,Artificer,Spear)FT_N13 : 2-CyanLizard
+(White,Yellow,Rivulet)FT_N10 : 3-WhiteLizard
+(Red,Gourmand,Artificer,Spear)FT_N10 : 3-CyanLizard
+(Red,Gourmand,Artificer,Spear)FT_X09 : 3-Scutigera
+(X-Red)FT_L12 : 2-BigSpider, 2-BigSpider
+(White,Yellow)FT_X09 : 3-PinkLizard
+FT_N15 : 2-CicadaA, 2-CicadaA, 2-CicadaB
+(White,Yellow,Red)FT_R03 : 3-GreenLizard-{Ignorecycle}
+FT_R03 : 2-HoverFly-{Ignorecycle}
+(White,Yellow,Red)FT_R06 : 3-GreenLizard-{Ignorecycle}
+(White,Yellow)FT_R06 : 2-Centipede-{Ignorecycle}, 5-PoleMimic-{18}-{Ignorecycle}
+(White,Yellow,Red)FT_R08 : 5-BigSpider-{Ignorecycle}
+(White,Yellow,Rivulet)FT_R08 : 4-BigSpider-{Ignorecycle}
+FT_R04 : 3-HoverFly-{Ignorecycle}, 5-HoverFly-{Ignorecycle}, 4-SmallCentipede-2-{Ignorecycle}
+FT_R07 : 4-TentaclePlant, 5-Snail-2-{Ignorecycle}
+(White,Yellow)FT_R07 : 3-Centipede-{Ignorecycle}
+FT_R02 : 4-HoverFly-{Ignorecycle}
+(White,Yellow,Red)FT_R02 : 5-GreenLizard-{Ignorecycle}
+FT_R18 : 2-HoverFly-{Ignorecycle}
+(White,Yellow,Red)FT_R18 : 3-GreenLizard-{Ignorecycle}
+FT_R13 : 3-HoverFly-{Ignorecycle}
+FT_R16 : 2-CicadaA,-{Ignorecycle} 2-CicadaB-{Ignorecycle}, 2-Cicada-{Ignorecycle}
+FT_R17 : 2-Centiwing-{Ignorecycle}, 3-HoverFly-{Ignorecycle}
+FT_R11 : 3-Centiwing-{Ignorecycle}, 4-BlueLizard-{Ignorecycle}
+FT_R14 : 4-Centiwing-{Ignorecycle}, 3-HoverFly-{Ignorecycle}
+FT_R12 : 3-PinkLizard-{Ignorecycle}, 6-PinkLizard-{Ignorecycle}
+(White,Yellow,Red)FT_R19 : 2-GreenLizard-{Ignorecycle}
+(White,Yellow,Red)FT_F19 : 5-GreenLizard-{Ignorecycle}
+(White,Yellow,Rivulet)FT_F19 : 3-Centipede-{Ignorecycle}
+FT_F40 : 4-BigNeedleWorm, 4-SmallNeedleWorm, 4-SmallNeedleWorm, 6-BigSpider
+FT_F45 : 2-DropBug
+FT_F17 : 3-DropBug-{Ignorecycle}, 4-Centipede-{Ignorecycle}
+FT_F28 : 5-DropBug-{Ignorecycle}, 4-CicadaA-2-{Ignorecycle}, 4-CicadaB-{Ignorecycle}
+FT_F22 : 2-PinkLizard-{Ignorecycle}
+FT_F18 : 3-SmallCentipede-{Ignorecycle}, 4-SmallCentipede-{Ignorecycle}
+(White,Yellow,Rivulet)FT_F18 : 3-Centipede-{Ignorecycle}
+FT_F26 : 2-BlueLizard-{Ignorecycle}
+FT_F25 : 3-BlueLizard-{Ignorecycle}
+FT_F29 : 2-YellowLizard-{Ignorecycle}, 3-BigNeedleWorm-{Ignorecycle}, 3-SmallNeedleWorm-2-{Ignorecycle}
+(White,Yellow,Rivulet)FT_F31 : 2-BigNeedleWorm-{Ignorecycle}
+(White,Yellow)FT_F31 : 2-SmallNeedleWorm-{Ignorecycle}
+FT_F31 : 3-PoleMimic-{14}-{Ignorecycle}
+FT_F30 : 6-YellowLizard-{Ignorecycle}, 7-YellowLizard-{Ignorecycle}, 5-YellowLizard-2-{Ignorecycle}
+FT_F24 : 3-PinkLizard-{Ignorecycle}
+FT_F35 : 2-DropBug-{Ignorecycle}
+FT_R20 : 2-Centiwing, 3-HoverFly
+FT_R21 : 4-Centiwing
+FT_R22 : 3-Centiwing, 2-HoverFly
+FT_F27 : 2-BlueLizard-{Ignorecycle}
+(White,Yellow,Rivulet)FT_F27 : 3-Centipede-{Ignorecycle}
+FT_F43 : 2-WhiteLizard
+FT_F42 : 2-WhiteLizard
+FT_F39 : 3-WhiteLizard, 5-PoleMimic-{15}
+FT_F38 : 4-WhiteLizard
+FT_F41 : 4-BigSpider, 3-BigSpider
+FT_F21 : 5-DropBug-{Ignorecycle}
+(White,Yellow,Red)FT_R23 : 4-GreenLizard
+FT_R23 : 3-HoverFly
+(White,Yellow,Red)FT_F37 : 3-GreenLizard-{Ignorecycle}
+(White,Yellow,Red)FT_R24 : 7-GreenLizard
+FT_R24 : 5-Centiwing, 6-Centiwing, 4-HoverFly
+FT_R28 : 2-HoverFly
+FT_R25 : 3-PinkLizard, 6-BlueLizard, 2-BigNeedleWorm, 2-SmallNeedleWorm
+(White,Yellow,Rivulet)FT_R25 : 5-BlueLizard
+FT_R26 : 2-BlueLizard
+FT_R30 : 3-CicadaA, 3-CicadaB, 3-Cicada, 5-BlueLizard
+FT_R31 : 3-BlueLizard
+(White,Yellow,Red,Rivulet)FT_R33 : 2-Salamander
+(White,Yellow,Red)FT_R34 : 4-Salamander
+FT_R32 : 4-Snail
+FT_R29 : 2-Snail
+FT_R27 : 2-PinkLizard
+(X-Rivulet)FT_R27 : 4-PinkLizard
+(White,Yellow)FT_R38 : 3-PoleMimic-{20}
+FT_R39 : 3-PinkLizard, 2-PinkLizard
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_R38 : 3-TentaclePlant
+(Red,Gourmand,Artificer,Spear)FT_R31 : 4-CyanLizard
+(Red,Gourmand,Artificer,Spear)FT_R30 : 4-CyanLizard
+(Gourmand,Artificer,Spear)FT_R33 : 2-Eel
+(Gourmand,Artificer,Spear,Rivulet)FT_R34 : 4-Eel
+(Red,Gourmand,Artificer,Spear)FT_R27 : 3-CyanLizard
+(Red,Gourmand,Artificer,Spear)FT_R25 : 4-CyanLizard
+(Red,Gourmand,Artificer,Spear)FT_R26 : 3-CyanLizard
+(Gourmand,Artificer,Spear,Rivulet)FT_R24 : 7-SpitLizard
+(Gourmand,Artificer,Spear,Rivulet)FT_R23 : 4-SpitLizard
+(Gourmand,Artificer,Spear,Rivulet)FT_F37 : 3-SpitLizard
+(Red,Gourmand,Artificer,Spear)FT_F27 : 3-Scutigera-{Ignorecycle}
+(White,Yellow)FT_F21 : 6-Centipede-{Ignorecycle}
+FT_F19 : 3-SmallCentipede-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_F21 : 6-Scutigera-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F19 : 3-Scutigera, 4-RedCentipede-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F25 : 4-WhiteLizard-{Ignorecycle}
+(Red,Gourmand,Spear)FT_F21 : 4-WhiteLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F31 : 2-WhiteLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F26 : 3-Scutigera-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F28 : 3-WhiteLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F22 : 3-CyanLizard-{Ignorecycle}
+(Gourmand,Artificer,Spear,Rivulet)FT_F19 : 5-SpitLizard-{Ignorecycle}
+(Gourmand,Artificer,Spear,Rivulet)FT_R19 : 2-SpitLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F18 : 3-Scutigera-{Ignorecycle}
+(Gourmand,Artificer,Spear,Rivulet)FT_R18 : 3-SpitLizard-{Ignorecycle}
+(Gourmand,Artificer,Spear,Rivulet)FT_R02 : 5-SpitLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_R11 : 5-CyanLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_R16 : 1-CyanLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_R12 : 4-CyanLizard-{Ignorecycle}
+(Artificer,Spear)FT_R12 : 5-CyanLizard-{Ignorecycle}
+(Artificer,Spear)FT_N13 : 4-CyanLizard, 4-CyanLizard
+(Gourmand,Artificer,Spear,Rivulet)FT_R03 : 3-SpitLizard-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_R06 : 2-Scutigera-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_R06 : 5-TentaclePlant
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_R07 : 3-Scutigera-{Ignorecycle}
+(Gourmand,Artificer,Spear,Rivulet)FT_R06 : 3-SpitLizard-{Ignorecycle}
+(Spear)FT_N19 : 2-CyanLizard
+FT_L01 : 4-Mole Salamander
+FT_F20 : 4-EggBug-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_F38 : 3-SpitterSpider
+(Red,Gourmand,Artificer,Spear)FT_F43 : 3-SpitterSpider
+(Red,Gourmand,Artificer,Spear)FT_F42 : 3-SpitterSpider
+(White,Yellow,Red,Rivulet)FT_R36 : 2-Salamander
+(Gourmand,Artificer,Spear)FT_R36 : 2-Eel
+FT_R38 : 2-PinkLizard
+(White,Yellow,Rivulet)FT_F06 : 4-Centipede
+(Red,Gourmand,Artificer,Spear)FT_F06 : 4-Scutigera
+FT_F02 : 5-Snail-3, 4-Snail-2
+(Red,Gourmand,Artificer,Spear)FT_F01 : 4-Salamander-3
+(White,Yellow)FT_F01 : 4-Salamander-2
+FT_F01 : 3-DropBug
+(White,Yellow)FT_F02 : 6-Salamander-2
+(Red,Gourmand,Artificer,Spear)FT_F02 : 6-Salamander-3
+(White,Yellow)FT_F12 : 3-Salamander
+(Red,Gourmand,Artificer,Spear)FT_F12 : 3-Salamander-2
+FT_F12 : 2-Snail-2
+FT_F13 : 4-Snail-3, 3-Salamander, 5-TentaclePlant
+(Gourmand,Artificer,Spear)FT_F11 : 8-MotherSpider
+(Red)FT_F39 : 4-SpitterSpider
+(Gourmand,Artificer,Spear)FT_F39 : 4-MotherSpider
+(White,Yellow,Gourmand)FT_F08 : 4-Centipede
+(Red,Artificer,Spear)FT_F08 : 4-RedCentipede
+(Gourmand,Artificer,Spear,Rivulet)FT_N14 : 3-SpitLizard
+(Red,Gourmand,Artificer,Spear)FT_F40 : 5-WhiteLizard
+(White,Yellow)FT_X07 : 4-YellowLizard-2
+(Red,Gourmand,Artificer,Spear)FT_X07 : 4-YellowLizard-3
+(X-Rivulet)FT_X01 : 4-YellowLizard-2
+FT_F23 : 3-SmallCentipede-2
+FT_N01 : 2-PinkLizard-2
+(X-Rivulet)FT_L08 : 2-SmallCentipede
+(White,Yellow)FT_L08 : 2-Centipede-2
+(Red,Gourmand,Artificer,Spear)FT_L08 : 2-Scutigera
+FT_R05 : 2-Cicada-2, 2-CicadaA
+FT_R10 : 2-CicadaA-2, 2-CicadaB
+(White,Yellow)FT_R34 : 3-Snail-2
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_R34 : 3-TentaclePlant
+FT_R35 : 4-Leech-5
+FT_L15 : 3-TentaclePlant
+FT_L16 : 4-Mole Salamander, 3-Mole Salamander
+(Red,Gourmand,Artificer,Spear)FT_L16 : 5-Mole Salamander, 2-Mole Salamander
+(Red,Gourmand,Artificer,Spear)GATE_TX_FT : 4-Mole Salamander-2
+GATE_TX_FT : 4-Mole Salamander, 3-PoleMimic-{10}
+FT_X23 : 2-BlueLizard
+(X-Rivulet)FT_X24 : 2-PoleMimic-{17}
+FT_R06 : 4-DropBug-{Ignorecycle}
+FT_X26 : 2-WhiteLizard
+(White,Yellow)FT_X25 : 4-PoleMimic-{13}
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_X25 : 4-TentaclePlant
+(X-Rivulet)FT_X25 : 5-BlueLizard
+(White,Yellow)FT_R40 : 2-Centipede-{Ignorecycle}
+FT_R40 : 2-SmallCentipede-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_R40 : 2-Scutigera-{Ignorecycle}
+(Red,Gourmand,Artificer,Spear)FT_R08 : 3-SpitterSpider-{Ignorecycle}
+(Gourmand,Artificer,Spear,Rivulet)FT_R08 : 5-MotherSpider-{Ignorecycle}
+(Rivulet)FT_F01 : 4-Eel
+(Rivulet)FT_F04 : 3-Salamander
+(Rivulet)FT_X25 : 5-Salamander
+(Rivulet)FT_X24 : 2-TentaclePlant
+(Rivulet)FT_X09 : 3-Salamander
+(Rivulet)FT_X07 : 4-Salamander-2
+(Rivulet)FT_X13 : 3-Eel
+(Rivulet)FT_X01 : 4-Salamander-2
+(Rivulet)FT_X05 : 3-Salamander
+(Rivulet)FT_X03 : 2-Eel
+(Rivulet)FT_L08 : 2-AquaCenti
+(Red,Gourmand,Artificer,Spear,Rivulet)FT_X06 : 3-TentaclePlant
+(Rivulet)FT_F12 : 3-Eel
+(Rivulet)FT_F02 : 6-Eel-2
+(Rivulet)FT_F10 : 5-Salamander, 6-AquaCenti
+(Rivulet)FT_F11 : 6-Eel, 4-Snail-2
+(Rivulet)FT_X14 : 5-Eel
+(Rivulet)FT_N08 : 7-Eel, 6-Snail-2
+(X-Rivulet)FT_X17 : 2-CicadaA-2
+(Rivulet)FT_X17 : 2-Snail-2
+(Rivulet)FT_X21 : 2-Snail
+(Rivulet)FT_N02 : 4-Salamander
+(Rivulet)FT_X08 : 2-Snail-3
+(Rivulet)FT_L11 : 2-Snail-2
+(Rivulet)FT_L01 : 3-Mole Salamander
+(Rivulet)FT_R27 : 4-Salamander
+END CREATURES

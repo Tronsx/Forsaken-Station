@@ -1,0 +1,15 @@
+Template: FT_SettingsTemplate_Coldtracks
+DangerType: None
+RainIntensity: 0.2065217
+WaveSpeed: 0.5003294
+WaveLength: 0.9998353
+WaveAmplitude: 2.829476E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.9021739
+Effects: LightRain-0.2065217-295-111, 
+PlacedObjects: FairyParticleSettings><140.5626><115.1803><5~8.660254~1~2.717391~0~0~1~1~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, SnowSource><821.1913><523.1917><Radial~2~136~50~86.60254~0.6739131~1, SnowSource><938.4453><122.3076><Radial~-13~204~-689~16.60254~0.7065217~1, SnowSource><608.3215><244.5903><Radial~0~199~50~86.60254~0.7065217~1, SnowSource><337.6807><384.4142><Radial~1~198~50~86.60254~0.6521739~1, SnowSource><1035.308><334.4431><Radial~-6~158~-487~152.6025~0.6739131~1, 
+AmbientSounds: OMNI><msc-structurestrain.ogg><695.6356><407.664><0><1, OMNI><am_rain-mehthunder.ogg><703.9316><159.4164><0.4021739><1, 
+MorePalette0: 17, 0.05434782
+BackgroundOffset: 0,216.9996
+BackgroundType: atc_forsaken_wall

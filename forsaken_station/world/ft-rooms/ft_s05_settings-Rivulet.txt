@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+Grime: 0.1521739
+BkgDroneVolume: 0
+Palette: 171
+EffectColorB: 3
+Effects: SilenceWater-0.6086956-261-147, DenseFog-0.2065217-273-68, FairyParticles-1-20-20, 
+PlacedObjects: LightBeam><284.8383><194.4294><-166~4~-169~-59~4~-53~-170~195~0.595652~0.3043478~0~0~None~0~0, InsectGroup><546.5955><187.8769><-342~93~0~0~GrassHopper~0.25, FairyParticleSettings><25.58646><111.6151><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+AmbientSounds: OMNI><am_env-wintertrees.ogg><740.9213><244.5661><0.1521739><1, OMNI><am_env-winterhum.ogg><742.9348><325.9391><0><1, OMNI><am_win-wndtone.ogg><741.9869><400.9496><0.25><1, SPOT><am_env-winterhum.ogg><558.8023><364.2196><0.3043478><1><163.8023><172.2196><-100.3553><-61.35535><0><0.1, OMNI><am_env-cricketswnd.ogg><697.328><494.0658><0.3043478><1, SPOT><am_win-medwind.ogg><517.6741><479.5984><0.423913><1><168.6741><168.5984><-138.3553><-93.35535><0><0.1, OMNI><am_rain-mehthunder.ogg><744.1838><168.5789><0.4565217><1, OMNI><am_nat-forestrain.ogg><549.0798><266.8166><0.3043478><1, 
+FadePalette: 10, 0.3695652
+MorePalette0: 11, 0.1521739
+MorePalette1: 17, 0.2065217
+MorePalette2: 10, 0.1521739

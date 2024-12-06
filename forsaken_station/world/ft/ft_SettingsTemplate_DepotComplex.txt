@@ -1,0 +1,21 @@
+DangerType: Flood
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.2065217
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 173
+EffectColorA: 2
+EffectColorB: 0
+Effects: Desaturation-0.3043478-308-167, ReplaceEffectColorB-0.1630435-20-20-Color-0-0.3695652-0, 
+AmbientSounds: OMNI><FT_ENV_UnknownFactory.ogg><298.6826><415.3317><0.25><0.4521739, OMNI><AM_IND-Warehouse03.ogg><102.8049><412.2939><0.2065217><0.8043478, OMNI><AM_IND-Warehouse01.ogg><294.3287><497.1467><0.5><0.8043478, OMNI><AM_IND-12thFloor.ogg><102.4424><502.9453><0.4021739><1, 

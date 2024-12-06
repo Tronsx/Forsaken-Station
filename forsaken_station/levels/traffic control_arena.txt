@@ -1,0 +1,29 @@
+GoalAmount - 5
+DenGroup - DENS - 4,5,6,7,8,9
+
+Creature - Green - dens:DENS - chance:0.6
+Creature - Pink - dens:DENS - chance:1.0
+Creature - Pink - dens:DENS - chance:0.4
+Creature - Blue - dens:DENS - chance:1.0
+Creature - Blue - dens:DENS - chance:0.6
+Creature - White - dens:DENS - chance:0.4
+Creature - Cyan - dens:DENS - chance:0.05 - amount:1-2 - symbol:B1
+Creature - Red - dens:DENS - chance:0.01 - amount:1 - symbol:B2 - RARE
+
+Creature - Vulture - dens:-1 - chance:0.3
+Creature - KingVulture - dens:-1 - chance:0.1 - RARE
+
+CreatureGroup - YELLOWS - chance:0.5
+Creature - Yellow - dens:DENS - chance:1.0 - group:YELLOWS - amount:2-3
+Creature - Yellow - dens:DENS - chance:0.1 - group:YELLOWS
+
+CreatureGroup - WIGS - symbol:A1
+Creature - DropBug - dens:DENS - chance:1.0 - group:WIGS
+
+
+CreatureGroup - NOOTS - chance:0.6 - symbol:A2
+Creature - BigNeedleWorm - dens:DENS - chance:1.0 - group:NOOTS
+Creature - SmallNeedleWorm - dens:DENS - chance:0.5 - group:NOOTS - amount:1-2
+
+CreatureGroup - SQUIDS - chance:0.5 - invSymbol:A3
+Creature - Cicada - dens:DENS - chance:1.0 - group:SQUIDS - amount:1-2

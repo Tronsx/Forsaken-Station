@@ -1,0 +1,19 @@
+Template: VX_SettingsTemplate_FrozenVents
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.8043478
+RumbleIntensity: 0.6086956
+WaveSpeed: 0.5480891
+WaveLength: 0.9759555
+WaveAmplitude: 6.104581E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.1521739
+EffectColorA: 0
+EffectColorB: 21
+Effects: RockFlea-0.3062363-24.02374-87.20126, 
+PlacedObjects: LightSource><1444.207><437.1493><0.2576082~Environment~-15.36749~178.545~50~86.60254~1~0~None~0~0, LightSource><894.4344><377.3672><0.2576088~Environment~-16.22125~199.8888~50~86.60254~1~0~None~0~0, LightSource><1032.899><87.24026><0.2576088~Environment~-4.268738~167.4463~50~86.60254~1~0~None~0~0, LightSource><545.2738><343.8179><0.2576095~Environment~-13.66003~188.79~50~86.60254~1~0~None~0~0, RainSensitiveLights><1406.688><362.4174><, RainSensitiveLights><317.2138><323.0269><, RainSensitiveLights><884.554><310.8054><, CustomDecal><1061.301><430.6198><-8.537506~185.1376~356.7412~180.8687~360.1562~-3.415009~121.2325~-405.5313~0~1~0~BlackRust3~1~1~1~1~1~1~1~1, CustomDecal><347.0458><150.3312><-3.414978~229.5325~396.8676~225.2637~412.235~0~-354.3062~106.7188~0~1~0~BlackRust4~1~1~1~1~1~1~1~1, InsectGroup><545.4814><253.0158><-50.37122~181.1062~0~0~StandardFly~0.305122, InsectGroup><1235.62><508.9737><-45.24872~179.3987~0~0~StandardFly~0.305122, LightSource><1573.134><158.6631><0.25~Environment~2~235~50~86.60254~1~0~None~0~0, 
+AmbientSounds: DIR><SO_IND-HeatDuct.ogg><674.9527><193.4239><0.3557746><0.7661453><90.06021><0, SPOT><SO_IND-Boiler.ogg><777.7284><291.6115><0.351522><0.8496652><897.6633><376.8201><-101.0941><-89.1416><0><0.1556801, OMNI><AM_IND-Utility04.ogg><354.7952><391.49><0.25><1, 
+FadePalette: 3344, 0.4456522, 0.4409238
+WetTerrain: OFF
+MorePalette0: 10, 0.8043478, 0.8043478

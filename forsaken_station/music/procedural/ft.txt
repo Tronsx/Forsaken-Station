@@ -1,0 +1,38 @@
+TH_FT - RAILKICK : NEUTRAL
+TH_FT - RAILCHORDS : NEUTRAL
+TH_FT - RAILBASS : NEUTRAL
+TH_FT - RAILARPS : NEUTRAL
+TH_FT - RAILNOISE : NEUTRAL
+TH_FT - INDUSTRIALARPS : NEUTRAL
+TH_FT - INDUSTRIALKICK : NEUTRAL
+TH_FT - INDUSTRIALLEAD : NEUTRAL
+TH_FT - INDUSTRIALNOISE : NEUTRAL
+TH_FT - INDUSTRIALSEQUENCE : NEUTRAL
+TH_FT - AUXILIARPERC1 : NEUTRAL
+TH_FT - AUXILIARPIANO : NEUTRAL
+TH_FT - AUXILIARSHAKER : NEUTRAL
+TH_FT - VENTILATIONCHORDS : NEUTRAL
+TH_FT - VENTILATIONCRUSH : NEUTRAL
+TH_FT - VENTILATIONPERC2 : NEUTRAL
+TH_FT - LAKEALARM : NEUTRAL
+TH_FT - LAKEARPS : NEUTRAL
+TH_FT - LAKENOISE : NEUTRAL
+TH_FT - LAKERADIO : NEUTRAL
+TH_FT - LAKEWATER : NEUTRAL
+
+
+Layer : {Mountain Railways}TH_FT - RAILKICK
+Layer : {Forsaken Station (Auxiliary Storage)|Forsaken Station}TH_FT - INDUSTRIALKICK
+Layer : {Deep Lake}TH_FT - LAKEWATER
+Layer : {Mountain Railways}TH_FT - RAILCHORDS
+Layer : {Forsaken Station (Auxiliary Storage)|Forsaken Station}TH_FT - INDUSTRIALLEAD, {Forsaken Station (Auxiliary Storage)}TH_FT - AUXILIARSHAKER, {Forsaken Station}TH_FT - VENTILATIONCRUSH
+Layer : {Deep Lake}TH_FT - LAKEARPS
+Layer : {Mountain Railways}TH_FT - RAILBASS
+Layer : {Forsaken Station (Auxiliary Storage)}TH_FT - AUXILIARPERC1, {Forsaken Station}TH_FT - VENTILATIONPERC2
+Layer : {Deep Lake}TH_FT - LAKEALARM
+Layer : {Mountain Railways}TH_FT - RAILARPS
+Layer : {Forsaken Station (Auxiliary Storage)|Forsaken Station}TH_FT - INDUSTRIALARPS, {Forsaken Station (Auxiliary Storage)}TH_FT - AUXILIARPIANO, {Forsaken Station}TH_FT - VENTILATIONCHORDS
+Layer : {Deep Lake}TH_FT - LAKERADIO
+Layer : {Mountain Railways}TH_FT - RAILNOISE
+Layer : {Forsaken Station (Auxiliary Storage)|Forsaken Station}TH_FT - INDUSTRIALSEQUENCE, {Forsaken Station (Auxiliary Storage)|Ventilation System}TH_FT - INDUSTRIALNOISE
+Layer : {Deep Lake}TH_FT - LAKENOISE

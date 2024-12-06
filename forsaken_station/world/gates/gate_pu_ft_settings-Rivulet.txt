@@ -1,0 +1,11 @@
+Clouds: 0.1521739
+Grime: 0
+BkgDroneVolume: 0
+Palette: 330
+Effects: SkyAndLightBloom-0.3043478-20-20, 
+PlacedObjects: ElectricGateData><479.4335><143.9386><-639~-320~True~False~False~True~True~True~True~False~0~1~False~0~1~0.5, CommonGateData><488.6106><433.9167><259~-84~False~False~False~False~False~False~False~True~0.6739131~0.7826087~1, NoSpearStickZone><483.6979><416.5288><-2~243, 
+AmbientSounds: SPOT><am_sub-blankstate.ogg><773.1518><447.3802><0.4021739><0.6086956><801.1518><415.3802><-246.3553><-90.35535><0><0.1, SPOT><am_ind-midsex01.ogg><569.8843><441.1018><0.4021739><1><151.8843><409.1018><256.6447><-38.35535><0><0.1, OMNI><mech active.wav><678.3026><159.9678><0.2065217><1, SPOT><am_ind-deephum.ogg><527.1323><287.4117><0.3586957><1><475.1323><156.4117><-158.3553><24.64465><0><0.2086958, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.8043478
+MorePalette1: 11, 0.1086956
+MorePalette2: 17, 0.1521739

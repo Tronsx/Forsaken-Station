@@ -1,0 +1,8 @@
+DangerType: Flood
+RumbleIntensity: 1
+Grime: 0.3043478
+Palette: 170
+Effects: Darkness-0.3043478-46-105, 
+PlacedObjects: InsectGroup><369.4684><395.6817><-7.683716~143.5413~-367.9663~52.9325~StandardFly~0.1752034, CGShelterRain><-51.76799><115.7503><, CGDrySpot><644.6853><162.4733><251.9677^298.07, LightSource><367.2773><395.0381><0.2019288~Environment~4.268738~228.0625~-294.0612~103.6776~1~0~None~0~0, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><120.5034><498.7982><0.2216034><1, OMNI><AM_SUB-BlankState.ogg><119.2461><412.0246><0.3886417><1, OMNI><AM_SUB-CaveTone.ogg><311.0514><498.5082><0.3700817><1, SPOT><AM_ENV-LightWind.ogg><738.9941><500.8298><0.5><1><371.2205><402.7273><-147.1966><-135.2441><0><0.2020794, 
+FadePalette: 172, 0.8030571

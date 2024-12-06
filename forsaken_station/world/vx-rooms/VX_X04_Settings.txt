@@ -1,0 +1,16 @@
+Template: VX_SettingsTemplate_HiddenJungle
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.3043478
+Effects: DirtyWater-1-20-20, WaterGlowworm-0.1086956-40-40, 
+PlacedObjects: CustomDecal><112.5571><193.5532><-3~135~771~137~781~-10~192~84.00002~0.3043478~0.4782609~0~BlueFace~0.7826087~0.6847826~0.3913043~0.09782609~0.5869565~0.4347826~0.5~0.7173913, 
+AmbientSounds: SPOT><SO_IND-Generator.ogg><698.7033><204.8055><0.3043478><0.3934783><476.7033><393.8055><-99.35535><-70.35535><0><0.1, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.4021739
+MorePalette1: 3345, 0.5652174

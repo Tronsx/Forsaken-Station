@@ -1,0 +1,7 @@
+Template: NONE
+WaveAmplitude: 0.02173913
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0
+Effects: SilenceWater-1-20-79, 
+AmbientSounds: SPOT><watergurgleloop3.wav><127.4488><385.0219><0.3043478><1><622.4488><76.02187><-99.35535><-84.35534><0><0.2086956, OMNI><so_sfx-deeplake.ogg><741.4987><568.2><0.2065217><1, OMNI><so_sfx-lakebottom.ogg><535.4455><376.7078><0.1086956><1, OMNI><so_wat-moredrips.ogg><498.636><191.6467><0.25><1, OMNI><so_wat-driptap.ogg><492.8893><280.1666><0.3586957><1, 
+FadePalette: 10, 0.9021739

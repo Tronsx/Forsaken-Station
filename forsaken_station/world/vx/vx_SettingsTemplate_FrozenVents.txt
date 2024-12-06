@@ -1,0 +1,21 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.8043478
+RumbleIntensity: 0.6086956
+WaveSpeed: 0.5364749
+WaveLength: 0.9817625
+WaveAmplitude: 7.012726E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8073505
+Grime: 0.2065217
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 0
+EffectColorA: 12
+EffectColorB: 0
+Effects: SkyAndLightBloom-0.25-30-30, 
+AmbientSounds: OMNI><am_sub-mysticcave1.ogg><363.3326><139.6095><0.2608696><0.7652174, OMNI><SO_WAT-LilDrips.ogg><359.3792><227.4915><0.3515217><1, OMNI><AM_IND-12thFloor.ogg><356.7219><307.298><0.2494431><1, OMNI><AM_IND-Utility04.ogg><354.7952><391.49><0.25><1, 

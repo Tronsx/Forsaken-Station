@@ -1,0 +1,21 @@
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0.8043478
+RumbleIntensity: 0.6086956
+WaveSpeed: 0.5042762
+WaveLength: 0.9978619
+WaveAmplitude: 9.040307E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1521739
+Grime: 0
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 330
+EffectColorA: 0
+EffectColorB: 0
+Effects: AboveCloudsView-1-281-23, Wasp-0.5-281-79, RockFlea-0.3043478-280-135, ReplaceEffectColorA-0.3043478-473-518-Color-1-1-0, ReplaceEffectColorB-0.1086956-708-388-Color-0.2717391-0-0.2826087, FairyParticles-0-18-87, LightRain-0.2065217-20-20, 
+AmbientSounds: OMNI><ft_env_echogrowth.ogg><795.3087><486.9416><0.2826087><0.5108696, OMNI><am_env-cricketswnd.ogg><746.5622><340.0688><0.4021739><1, OMNI><ft_env_unknownfactory.ogg><728.3652><415.0865><0.326087><0.4521739, OMNI><am_win_hilltop.ogg><463.8014><579.9764><0.6086956><1, OMNI><am_win-nicewnd.ogg><466.8903><494.1426><0.3043478><1, OMNI><am_win-strongwnd2.ogg><468.5568><405.5518><0.4565217><1, 

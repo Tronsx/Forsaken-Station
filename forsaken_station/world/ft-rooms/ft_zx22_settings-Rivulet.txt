@@ -1,0 +1,9 @@
+Template: FT_SettingsTemplate_DepotComplex
+WaveAmplitude: 0.06521739
+SecondWaveAmplitude: 0
+Clouds: 0.9021739
+Effects: Beetle-0.2065217-300-76, RockFlea-0.3043478-294-233, Fog-0.3586957-286-20, DirtyWater-1-32-130, 
+PlacedObjects: CustomDecal><89.28082><136.8024><-1~311~655~320~655~-8~0~0~0~1~0~bluesmoker~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, CustomDecal><763.9967><154.05><-22~237~-544~243~-500~-79~0~0~0.25~0.4130435~0~wowo~0.9456522~0.04347826~0.6847826~0.173913~0.326087~0.2173913~0.5978261~0.5434783, 
+FadePalette: 10, 0.5
+MorePalette0: 11, 0.3586957
+MorePalette1: 17, 0.4021739

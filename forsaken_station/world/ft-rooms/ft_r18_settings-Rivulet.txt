@@ -1,0 +1,11 @@
+Template: FT_SettingsTemplate_Coldtracks
+DangerType: None
+Clouds: 0.9021739
+Effects: LightRain-0.4021739-307-32, 
+PlacedObjects: FairyParticleSettings><129.5905><123.6294><5~8.660254~1~2.717391~0~0~1~1~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, CustomDecal><-176.4039><-31.87228><-5~748~2359~752~2359~-7~43~193~0~1~0~efflorescense2~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, CustomDecal><1688.683><348.0614><-7~146~-207~144~-204~0~0~0~0.3478261~1~0~barnacle~0.6413044~0.423913~0.7826087~0.2826087~0.2826087~0~0.5~0.3586957, LightBeam><-177.0269><47.19818><-4~-90~1992~-89~1995~-9~265~181~0.1826086~0~0~1~None~0~0, FlyLure><1833.157><378.6234><0~0~4~9, 
+AmbientSounds: OMNI><am_rain-mehthunder.ogg><700.6812><148.1654><0.4565217><1, 
+MorePalette0: 11, 0.1521739, 0.1521739
+MorePalette1: 17, 0.2065217, 0.2065217
+MorePalette2: 10, 0.1521739, 0.1521739
+BackgroundOffset: 0,217
+BackgroundType: atc_mountain_far

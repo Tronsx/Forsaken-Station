@@ -1,0 +1,8 @@
+Template: NONE
+BkgDroneVolume: 0
+Palette: 170
+Effects: RockFlea-0.25-20-20, Beetle-0.2065217-19-85, 
+PlacedObjects: TradeOutpost><449.5704><283.0628><-289~273, LanternOnStick><514.3715><254.0911><-61~-183, LanternOnStick><292.2527><292.45><36~-124, CustomDecal><115.3338><235.3184><-1~111~519~102~527~-15~-251~46~0.3152174~1~0~scav wedges2~0.7065217~0.3586957~0.8152174~0.08695652~0.2717391~0.6630435~0.8043478~0.173913, CustomDecal><107><113><3~83~611~81~615~-8~62~216~0~1~0~scav wedges~0.8695652~0.3586957~0.8152174~0.08695652~0~0.6630435~0~0.173913, LanternOnStick><583><292><62~-139, 
+AmbientSounds: OMNI><so_wat-lildrips.ogg><688.9217><184.934><0.4565217><1, OMNI><so_wat-driptap.ogg><687.8025><261.0313><0.3586957><1, OMNI><so_ind-weirdvent.ogg><685.8276><342.6486><0.2065217><1, OMNI><am_sub-cavetone.ogg><684.8351><424.6368><0.3804348><1, OMNI><am_sub-blankstate.ogg><687.332><505.1086><0.3695652><1, 
+FadePalette: 10, 0.8043478
+MorePalette0: 11, 0.1521739

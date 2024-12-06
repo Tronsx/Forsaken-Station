@@ -1,0 +1,5 @@
+Template: HI_SettingsTemplate_Inside
+Palette: 330
+AmbientSounds: SPOT><so_ind-boiler.ogg><706.9042><230.6756><0.4021739><0.7065217><648.9042><591.6755><-86.35535><-71.35535><0><0.1, 
+FadePalette: 5, 0.7065217
+MorePalette0: 20, 0.1086956

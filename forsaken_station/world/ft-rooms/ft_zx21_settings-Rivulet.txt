@@ -1,0 +1,11 @@
+Template: FT_SettingsTemplate_DepotComplex
+WaveAmplitude: 0.1195652
+SecondWaveAmplitude: 0
+Clouds: 0.9021739
+Grime: 0.1086956
+Effects: Beetle-0.2065217-324-49, RockFlea-0.3043478-299-225, Fog-0.3586957-312-109, DirtyWater-1-27-128, 
+PlacedObjects: CustomDecal><142.0863><102.1149><-1~526~701~514~710~-6~-317~123~0~1~0~blackrust6~0.7282609~1~0.5108696~1~0.25~1~0.09782609~1, CustomDecal><85.08063><51.89366><-9~598~792~609~806~0~0~0~0~1~0~bluesmoker~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, LightSource><236.8986><435.1724><1~EffectColor1~0~100~-312~-110.3975~1~0~None~0~0, LightSource><240><556><1~EffectColor1~0~100~-312~-110.3975~1~0~None~0~0, LightSource><743><556><1~EffectColor1~0~100~-312~-110.3975~1~0~None~0~0, 
+AmbientSounds: SPOT><am_ind-50hz.ogg><516.0698><581.9132><0.4565217><0.8630434><240.0698><498.9132><-107.3553><-103.3553><0><0.1, SPOT><am_ind-50hz.ogg><519.0699><462.087><0.4565217><0.8630434><749.0699><559.087><-73.35535><-74.35535><0><0.1, OMNI><am_ind-welder.ogg><522.3812><359.1509><0.1630435><0.7065217, 
+FadePalette: 10, 0.3043478
+MorePalette0: 11, 0.3586957
+MorePalette1: 17, 0.4021739

@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.9021739
+Grime: 0.2065217
+BkgDroneVolume: 0
+Palette: 173
+Effects: ReplaceEffectColorB-0.1630435-30-30-Color-0-0.3695652-0, Desaturation-0.3043478-298-70, RockFlea-0.3043478-293-136, Fog-0.3586957-29-135, 
+AmbientSounds: OMNI><FT_ENV_UnknownFactory.ogg><298.6826><415.3317><0.25><0.4521739, OMNI><am_ind-12thfloor.ogg><306.3568><491.3604><0.25><1, SPOT><watergurgleloop1.wav><736.1524><327.0754><0.25><1><284.1524><463.0754><-60.35535><-100.3553><0><0.1, 
+FadePalette: 10, 0.3043478
+MorePalette0: 11, 0.3586957
+MorePalette1: 17, 0.4021739

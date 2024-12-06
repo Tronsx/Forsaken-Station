@@ -1,0 +1,5 @@
+[MERGE]
+MorePalette1: 11, 0.05434782
+MorePalette2: 17, 0.1086956
+MorePalette3: 10, 0.1086956
+[ENDMERGE]

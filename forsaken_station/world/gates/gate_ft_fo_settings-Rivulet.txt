@@ -1,0 +1,17 @@
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04324574
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.9021739
+Grime: 0
+BkgDroneVolume: 0
+Palette: 174
+Effects: SkyAndLightBloom-0.1521739-53-83, DenseFog-0.1086956-20-20, SilenceWater-0.3043478-274-296, 
+PlacedObjects: CustomDecal><2.549988><-31.9987><-4~539~964~534~981~-13~-77~82.99998~0~1~0~fat tag~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, CustomDecal><83.57538><160.8475><1~155~130~149~132~-2~-305~90.99998~0.2065217~1~0~rust1~0.5~1~0.7282609~1~0.7934783~1~0.2934783~1, NoSpearStickZone><482.8967><247.0787><-4~209, 
+AmbientSounds: OMNI><am_rain-mehthunder.ogg><710.9243><180.6519><0.3586957><1, 
+FadePalette: 1, 0.5
+MorePalette0: 10, 0.3043478
+MorePalette1: 11, 0.1521739
+MorePalette2: 17, 0.2065217

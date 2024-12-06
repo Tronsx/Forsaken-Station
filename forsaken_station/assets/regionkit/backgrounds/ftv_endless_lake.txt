@@ -1,0 +1,14 @@
+PROTECTED
+Parent: none
+Type: RoofTopView
+OffsetX: 0
+OffsetY: 0
+---------------
+
+daySky: Ftv_Endless_Lake
+atmosphereColor: 000000
+origin: 0,0
+
+
+DistantBuilding: Ftv_Lake_Pillars_2, -600, -1000, 10, 0
+

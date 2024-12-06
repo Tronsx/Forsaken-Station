@@ -1,0 +1,18 @@
+GoalAmount - 5
+
+DenGroup - DENS - 5,6,7,8,9,10
+
+Creature - Green - dens:DENS - chance:0.4
+Creature - Pink - dens:DENS - chance:0.6
+Creature - Blue - dens:DENS - chance:0.6
+Creature - EggBug - dens:DENS - chance:0.05
+Creature - PoleMimic - dens:4 - chance:0.0 - spawnDataString:8
+
+CreatureGroup - YELLOWS - chance:0.75 - invSymbol:A1
+Creature - Yellow - dens:DENS - chance:1.0 - group:YELLOWS - amount:2-3
+
+CreatureGroup - CENTIS - invSymbol:A2
+Creature - Centipede - dens:DENS - chance:1.0 - group:CENTIS - amount:3
+
+CreatureGroup - CYANS - chance:0.1 - invSymbol:A3
+Creature - Cyan - dens:DENS - chance:0.5 - group:CYANS - amount:1-2

@@ -1,0 +1,5 @@
+Template: NONE
+BkgDroneVolume: 0
+Palette: 173
+AmbientSounds: SPOT><SO_IND-Humm.ogg><294.1862><304.5729><0.2065217><1><514.1862><218.5729><-60.35535><-48.35535><0><0.1, OMNI><AM_WIN-HowlingWnd.ogg><705.5952><539.3241><0.2065217><0.3347826, OMNI><AM_SUB-BlankState.ogg><710.3002><458.4909><0.25><1, OMNI><Weird Deep Hole.wav><517.6905><536.5609><0.1086956><0.7065217, 
+FadePalette: 10, 0.8043478

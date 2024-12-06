@@ -1,0 +1,4 @@
+Template: FT_SettingsTemplate_Deepside
+PlacedObjects: ColouredLightSource><484.5989><193.8689><100~50~FF5600~158^-124~0.3043474~False~1~0.7065216~0.5~Always~0~100, 
+AmbientSounds: SPOT><so_ind-humm.ogg><482.0515><549.0568><0.5><0.7065217><479.0515><194.0568><-105.3553><-113.3553><0><0.2086965, 
+FadePalette: 10, 1

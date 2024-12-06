@@ -1,0 +1,19 @@
+Template: VX_SettingsTemplate_HiddenJungle
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.5
+Grime: 0.1086956
+Effects: Beetle-0.2065217-324-49, RockFlea-0.3043478-299-225, Fog-0.3586957-312-109, DirtyWater-1-33-138, 
+PlacedObjects: CustomDecal><142.0863><102.1149><-1~526~701~514~710~-6~-317~123~0~1~0~blackrust6~0.7282609~1~0.5108696~1~0.25~1~0.09782609~1, InsectGroup><504.6949><399.4554><-350~161~0~0~GrassHopper~0.5, ColouredLightSource><239.4054><428.6259><-285~-399~FF0061~105^5~1~False~0.5~0.7065217~0.4673913~Always~0~100, ColouredLightSource><234.1221><554.3416><82~-289~FF0061~119^-26~1~False~0.5~0.75~0.5~Always~0~100, ColouredLightSource><740.0714><547.303><-375~-444.7037~FF0061~115^-65~1~False~0.5~0.6521739~0.5~Always~0~100, BlinkingFlower><274.1118><312.8341><, BlinkingFlower><614.3087><299.4417><, 
+AmbientSounds: SPOT><am_ind-50hz.ogg><516.0698><581.9132><0.2173913><0.5695652><240.0698><498.9132><-107.3553><-103.3553><0><0.1, SPOT><am_ind-50hz.ogg><519.0699><462.087><0.2173913><0.5695652><749.0699><559.087><-73.35535><-74.35535><0><0.1, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.2826087
+MorePalette1: 3345, 0.5217391

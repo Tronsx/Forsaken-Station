@@ -1,0 +1,11 @@
+Template: FT_SettingsTemplate_Deepside
+CeilingDrips: 1
+RumbleIntensity: 1
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: RockFlea-0.2065217-21-86, GlowingSwimmers-0-18-19, ReplaceEffectColorA-0-256-134-Color-1-0.3369565-0, 
+PlacedObjects: LightSource><1955.444><245.2033><0~EffectColor1~0~100~-1047~215.6025~0~0~None~0~0, LightSource><1483.121><440.4091><1~Environment~-311~134~50~86.60254~0~0~None~0~0, LightSource><1482.802><440.2215><0.4565217~Environment~0~100~50~86.60254~0~1~None~0~0, SlimeMold><1352.383><199.6498><-387~-19~2~3, LightFixture><1411.436><217.573><SlimeMoldLight~-206.6795~55~68, CosmeticSlimeMold2><1419.12><212.4024><0~100, SlimeMold><1466.432><214.4166><-508~-208~2~3, SlimeMold><1367.442><255.5556><-434~-337~2~3, SlimeMold><1373.256><192.6999><-427~-244~2~3, SlimeMold><1419.37><191.3398><-467~-212~2~3, GooieDuck><1760.056><478.7983><0~0~2~3, GooieDuck><1868.386><426.6641><0~0~2~3, 
+AmbientSounds: SPOT><OM.wav><58.38007><453.6601><0.5><0.6086956><478.3801><248.66><-209.3553><-139.3553><0><0.1, SPOT><AM_IND-50hz.ogg><243.8193><454.8357><0.5><0.6869565><1955.819><241.8357><-92.35535><-68.35535><0><0.1, SPOT><SO_IND-FlourLight.ogg><55.63147><320.0889><0.5><1><1485.631><451.0889><-122.3553><-89.35535><0><0.1, SPOT><OM.wav><248.3643><321.0858><0.5><0.6086956><2564.364><250.0858><-216.3553><-96.35535><0><0.1, OMNI><SO_SFX-RinseNFall.ogg><561.4592><488.3042><0><0.1782609, SPOT><so_wat-openflow.ogg><622.9097><180.8704><0.4565217><1><1480.91><447.8704><-365.3553><-212.3553><0><0.502174, 
+FadePalette: 10, 1, 1, 1

@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.2608696
+Clouds: 0.1630435
+Grime: 0
+RandomItemDensity: 0.6304348
+RandomItemSpearChance: 0.3195651
+Palette: 330
+Effects: ReplaceEffectColorA-0.3043478-1056-580-Color-1-1-0, ReplaceEffectColorB-0.1086956-1058-460-Color-0.2717391-0-0.2826087, SkyAndLightBloom-0.07608695-1059-389, 
+PlacedObjects: MultiplayerItem><512.2014><192.444><Spear~17.32051~-10~0.08695652, MultiplayerItem><184.1932><424.6982><Spear~17.32051~-10~0.4565217, MultiplayerItem><1115.446><346.2101><Spear~17.32051~-10~0.4565217, MultiplayerItem><264.1978><113.5297><ExplosiveSpear~17.32051~-10~0.06521739, MultiplayerItem><1143.366><87.39886><Spear~17.32051~-10~0.1086956, MultiplayerItem><712.5942><168.6245><Rock~17.32051~-10~0.5217391, MultiplayerItem><543.8002><425.2419><Spear~17.32051~-10~0.07608695, MultiplayerItem><832.0589><428.191><Spear~17.32051~-10~0.07608695, MultiplayerItem><1132.66><345.6786><ExplosiveSpear~17.32051~-10~0.0326087, MultiplayerItem><281.9445><112.7966><Spear~17.32051~-10~0.1086959, 
+AmbientSounds: OMNI><ft_env_ghostpath.ogg><452.8549><609.0797><0.3043478><0.2565217, OMNI><am_env-lightwind.ogg><646.3002><608.0085><0.2065217><1, OMNI><am_ind-factory02.ogg><443.5615><527.3097><0.5><0.4521739, OMNI><am_win-subwnd.ogg><643.2323><518.9492><0.3586957><1, SPOT><am_win-medwind.ogg><812.3016><433.2751><0.3586957><1><1149.302><427.2751><-124.3553><-86.35535><0><0.1, SPOT><am_win-medwind.ogg><315.0632><211.0714><0.3586957><1><307.0632><420.0714><129.6447><-61.35535><0><0.1, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.2065217

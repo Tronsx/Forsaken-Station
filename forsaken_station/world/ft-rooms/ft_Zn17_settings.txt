@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: None
+Clouds: 0.6086956
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 171
+EffectColorA: 9
+EffectColorB: 3
+Effects: RockFlea-0.2065217-20-20, Moth-0.3043478-20-77, FairyParticles-1-15-135, DenseFog-0.3586957-278-137, DenseFogSoundVolume-0.05434782-281-76, 
+PlacedObjects: FairyParticleSettings><92.80701><116.9417><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, CustomDecal><378.8021><227.279><-405~316~569~309~226~-1~-570~-167~0~1~0~bonetype~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, CustomDecal><218.6024><190.8282><-8~452~573~428~561~-3~419~-123~0.2608696~1~0~blackrust5~0.6521739~1~0.5~1~0.5543478~1~0.8043478~1, 
+AmbientSounds: OMNI><FT_ENV_UnknownFactory.ogg><840.8788><587.0909><0.2065217><0.4130435, OMNI><am_ind-factory02.ogg><658.566><584.5784><0.25><0.4717391, OMNI><msc-subtundra.ogg><467.5707><582.9113><0.3043478><0.55, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.6086956

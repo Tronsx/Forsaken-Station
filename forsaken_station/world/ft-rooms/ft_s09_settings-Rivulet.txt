@@ -1,0 +1,12 @@
+Template: NONE
+Clouds: 0.9021739
+Grime: 0
+BkgDroneVolume: 0
+Palette: 330
+Effects: SkyAndLightBloom-0.1521739-13-116, FairyParticles-0-50-50, ReplaceEffectColorA-0.3043478-750-364-Color-1-1-0, ReplaceEffectColorB-0.1086956-754-473-Color-0.2717391-0-0.2826087, RockFlea-0.3043478-20-20, Wasp-0.5-295-26, ExtraLoudThunder-0.1086956-302-115, Lightning-1-303-66, 
+PlacedObjects: CustomDecal><434.3331><351.3898><-68~-171~249~-178~189~23~0~0~0.3152174~1~0~blackrust4~1~1~0.3695652~1~0.7173913~1~0.3043478~1, 
+AmbientSounds: OMNI><am_win-howlingwnd.ogg><450.3214><246.1599><0.1521736><0.5108691, OMNI><am_sub-blankstate.ogg><450.1971><330.2838><0.4021741><0.608696, OMNI><am_env-lightwind.ogg><444.3129><174.8206><0.3043476><1, OMNI><am_rain-rumbles.ogg><722.1721><261.3519><0.4021739><1, 
+FadePalette: 10, 0.3043478
+MorePalette0: 11, 0.2065217
+MorePalette1: 17, 0.3586957
+MorePalette2: 10, 0.05434782

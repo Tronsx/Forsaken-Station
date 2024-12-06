@@ -1,0 +1,113 @@
+VX_F01: 1143><-861><460><-610><0><Forlorn Valley
+VX_F02: 219><-921><0><-150><0><Forlorn Valley
+VX_F03: 1215><-693><0><-148><0><Forlorn Valley
+VX_F04: 1215><-507><0><-70><0><Forlorn Valley
+VX_F05: 981><-504><0><-70><0><Forlorn Valley
+VX_F06: 1215><-270><0><-224><0><Forlorn Valley
+VX_F07: 981><-54><0><-148><0><Forlorn Valley
+VX_F10: 507><-507><0><-70><0><Forlorn Valley
+VX_F11: -111><-504><0><-70><0><Forlorn Valley
+VX_F12: -636><-861><0><-70><0><Forlorn Valley
+VX_F13: -1173><-861><0><-70><0><
+VX_F14: -1251><-744><0><-70><0><Underwood
+VX_F18: -480><951><0><-70><0><Summit Edge
+VX_F19: -15><951><0><-70><0><Summit Edge
+VX_F20: -120><837><0><-70><0><Summit Edge
+VX_F21: 369><1092><0><-224><0><Summit Edge
+VX_F22: -426><1116><0><-148><0><Summit Edge
+VX_F23: 519><972><0><-70><0><Summit Edge
+VX_F24: 516><1203><0><-148><0><Summit Edge
+VX_F25: 738><1272><0><-70><0><Summit Edge
+VX_F26: 60><1224><0><-70><0><Summit Edge
+VX_F27: 831><972><0><-70><0><Summit Edge
+VX_F33: -1473><198><0><-70><0><
+VX_F34: 1005><849><0><-70><0><Summit Edge
+VX_F38: -63><-576><0><-308><0><Forlorn Valley
+VX_F39: 519><-564><0><-308><0><Forlorn Valley
+VX_F42: -60><198><0><-148><0><
+VX_F43: 540><201><0><-148><0><
+VX_R05: -1821><234><0><-148><0><
+VX_R06: -1068><630><0><-70><0><Forlorn Valley
+VX_R07: -1611><636><0><-70><0><Forlorn Valley
+VX_R08: -1464><867><0><-224><0><Forlorn Valley
+VX_R09: -1614><981><0><-70><0><Forlorn Valley
+VX_R10: -1455><1095><0><-70><0><Forlorn Valley
+VX_R29: 1791><942><0><-70><0><Summit Edge
+VX_R32: 2034><792><1308><416><0><Summit Edge
+VX_R33: 2280><663><0><-70><0><Summit Edge
+VX_R34: 2358><927><0><-70><0><Summit Edge
+VX_R35: 2514><699><0><-224><0><Summit Edge
+VX_R36: 2751><699><0><-70><0><Summit Edge
+VX_R37: 1860><663><0><-70><0><Summit Edge
+VX_R39: 3345><297><0><-156><0><Summit Edge
+VX_R40: -705><375><0><-70><0><Forlorn Valley
+VX_R41: -783><507><0><-70><0><Forlorn Valley
+VX_X05: -1884><-795><0><-148><0><Underwood
+VX_X12: -2406><-570><0><-148><0><Underwood
+VX_X13: -1794><-630><0><-70><0><Underwood
+VX_X14: -1260><-573><0><-148><0><Underwood
+VX_X21: -2172><-606><0><-74><0><Underwood
+VX_S01: 1365><-288><0><-70><0><
+VX_S03: -1731><-786><0><-70><0><
+VX_S06: -1443><993><0><-70><0><
+VX_S07: 111><849><0><-70><0><
+VX_S08: -1653><198><0><-70><0><
+VX_S10: -1821><51><0><-70><0><
+VX_S11: 2514><480><0><-70><0><
+VX_S14: -348><-615><0><-70><0><
+GATE_FT_SB: 1671><-855><0><-70><0><
+GATE_FT_HI: 3663><387><0><-70><0><
+VX_Flat: -1659><63><0><-70><0><
+OffScreenDen_VX: -1311><30><0><-20><0><
+Connection: VX_F01,VX_F03,171,28,20,7,1,3
+Connection: VX_F01,GATE_FT_SB,279,14,6,9,0,2
+Connection: VX_F01,VX_F02,19,8,290,48,2,0
+Connection: VX_F02,VX_F38,34,72,27,13,1,3
+Connection: VX_F02,VX_F39,268,70,66,9,1,3
+Connection: VX_F02,VX_F12,19,48,239,8,2,0
+Connection: VX_F03,VX_F04,24,71,24,2,1,3
+Connection: VX_F04,VX_F06,25,31,25,4,1,3
+Connection: VX_F04,VX_F05,4,14,90,14,2,0
+Connection: VX_F05,VX_F10,7,21,195,21,2,0
+Connection: VX_F06,VX_F07,4,99,91,9,2,0
+Connection: VX_F06,VX_S01,40,58,14,25,0,2
+Connection: VX_F10,VX_F11,5,6,195,5,2,0
+Connection: VX_F10,VX_F39,111,8,63,96,3,3
+Connection: VX_F11,VX_S14,21,11,24,25,3,1
+Connection: VX_F11,VX_F38,83,8,38,96,3,3
+Connection: VX_F12,VX_F13,12,24,91,24,2,0
+Connection: VX_F13,VX_F14,20,30,20,5,1,3
+Connection: VX_F14,VX_X14,20,29,73,8,1,3
+Connection: VX_F18,VX_F22,72,27,26,7,1,3
+Connection: VX_F18,VX_F19,93,6,6,6,0,2
+Connection: VX_F19,VX_F21,194,20,5,10,0,2
+Connection: VX_F19,VX_F20,28,4,11,26,3,1
+Connection: VX_F20,VX_S07,93,15,10,8,0,2
+Connection: VX_F21,VX_F26,5,94,147,12,2,0
+Connection: VX_F21,VX_F24,43,62,10,6,0,2
+Connection: VX_F21,VX_F23,43,13,5,10,0,2
+Connection: VX_F23,VX_F24,30,29,33,5,0,3
+Connection: VX_F23,VX_F27,42,10,6,12,0,2
+Connection: VX_F24,VX_F25,43,59,6,15,0,2
+Connection: VX_F27,VX_F34,115,4,6,30,3,1
+Connection: VX_R06,VX_R07,8,27,145,27,2,0
+Connection: VX_R06,VX_R41,192,9,16,29,0,1
+Connection: VX_R07,VX_R08,126,28,23,10,1,3
+Connection: VX_R08,VX_R10,29,105,23,10,1,3
+Connection: VX_R08,VX_R09,5,91,43,16,2,0
+Connection: VX_R10,VX_S06,36,8,28,17,3,0
+Connection: VX_R29,VX_R32,89,7,4,95,3,2
+Connection: VX_R32,VX_R34,43,94,8,13,0,2
+Connection: VX_R32,VX_R37,9,18,42,21,2,0
+Connection: VX_R32,VX_R33,40,8,6,9,0,2
+Connection: VX_R33,VX_R35,93,21,4,46,3,2
+Connection: VX_R34,VX_R35,126,3,25,104,3,1
+Connection: VX_R35,VX_R36,36,52,5,14,0,2
+Connection: VX_R35,VX_S11,25,7,25,28,3,1
+Connection: VX_R39,GATE_FT_HI,144,60,2,9,0,2
+Connection: VX_R40,VX_R41,17,31,16,6,1,3
+Connection: VX_X05,VX_X13,41,63,87,3,0,3
+Connection: VX_X05,VX_S03,41,31,7,11,0,2
+Connection: VX_X12,VX_X21,93,16,6,9,0,2
+Connection: VX_X13,VX_X14,196,21,6,21,0,2
+Connection: VX_X13,VX_X21,7,16,41,9,2,0

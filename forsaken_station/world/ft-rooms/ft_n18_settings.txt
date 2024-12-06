@@ -1,0 +1,4 @@
+Template: FT_SettingsTemplate_Foghorizon
+BkgDroneVolume: 0
+Effects: DenseFog-0.4021739-281-17, DenseFogSoundVolume-0.4021739-265-134, 
+PlacedObjects: FairyParticleSettings><87.69936><112.266><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, InsectGroup><503.4016><203.8695><-171~328~0~0~GrassHopper~0.5, CustomDecal><463.8461><37.87769><-509~213~39~486~473~167~-547~91.00002~0~1~0~bonetype~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, FirecrackerPlant><512.4509><129.5561><0~0~2~3, FirecrackerPlant><550.6848><139.6734><0~0~2~3, 

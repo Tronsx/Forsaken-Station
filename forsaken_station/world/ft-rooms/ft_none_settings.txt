@@ -1,0 +1,10 @@
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 171
+EffectColorA: 9
+EffectColorB: 3
+Effects: DenseFog-0.3586957-16-74, RockFlea-0.2065217-20-20, Moth-0.3043478-15-133, FairyParticles-1-283-25, 
+PlacedObjects: CustomDecal><191.8142><84.32397><-268~576~845~556~437~13~0~0~0~1~0~bonetype~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, LanternOnStick><508.8652><346.1635><23~-151, LanternOnStick><605.8212><407.8131><68~-149, ScavengerTreasury><544.3784><312.3467><-169~165, FairyParticleSettings><113.7364><118.4495><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, CustomDecal><187.3979><123.6346><-23~177~573~258~537~57~-268~-143~0.1956522~1~0~scavmark hi_a27~0.9456522~0~0.6956522~0~0.7065217~0~0.5~0, 
+AmbientSounds: OMNI><FT_ENV_UnknownFactory.ogg><769.058><514.6938><0.2065217><0.4130435, OMNI><am_ind-factory02.ogg><587.45><511.4949><0.25><0.4717391, OMNI><msc-subtundra.ogg><769.0557><429.2028><0.3043478><0.55, OMNI><am_win-subwnd.ogg><588.7018><430.1941><0.4021739><1, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.6086956

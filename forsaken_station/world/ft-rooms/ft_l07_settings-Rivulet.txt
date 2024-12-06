@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 173
+Effects: RockFlea-0.2065217-20-20, Beetle-0.2065217-17-86, 
+PlacedObjects: GooieDuck><516.1356><291.664><0~0~2~3, GooieDuck><423.4689><273.0524><0~0~2~3, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><775.8994><372.367><0.3804348><1, OMNI><AM_WIN-HowlingWnd.ogg><761.9281><531.9089><0.3043478><0.3347826, OMNI><Weird Deep Hole.wav><777.5928><454.1237><0.2065217><0.7065217, OMNI><so_wat-splashes.ogg><769.4673><282.3027><0.2065217><1, 
+FadePalette: 10, 0.8804348

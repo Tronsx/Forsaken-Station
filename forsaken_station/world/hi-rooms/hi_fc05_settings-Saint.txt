@@ -1,0 +1,15 @@
+Template: HI_SettingsTemplate_Inside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.2391304
+RumbleIntensity: 0.25
+WaveSpeed: 0.5006866
+WaveLength: 0.9996567
+WaveAmplitude: 3.899088E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+AmbientSounds: SPOT><so_ind-boiler.ogg><706.9042><230.6756><0.4021739><0.7065217><648.9042><591.6755><-86.35535><-71.35535><0><0.1, 
+FadePalette: 3346, 0.2173913
+WetTerrain: OFF
+MorePalette0: 15, 0.4130435

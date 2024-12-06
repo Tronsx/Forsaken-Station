@@ -1,0 +1,10 @@
+FT_Landscape - 9 : 10
+FT_Landscape - 8 : 7
+FT_Landscape - 7 : 8
+FT_Landscape - 6 : 7
+FT_Landscape - 5 : 6
+FT_Landscape - 4 : 5
+FT_Landscape - 3 : 4
+FT_Landscape - 2 : 3
+FT_Landscape - 1 : 2
+FT_Landscape - 0 : 2

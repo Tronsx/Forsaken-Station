@@ -1,0 +1,8 @@
+DangerType: None
+Clouds: 0.1521739
+Grime: 0.2065217
+BkgDroneVolume: 0
+Palette: 330
+Effects: LightBurn-0.3043478-20-20, 
+PlacedObjects: CustomDecal><452.6475><-55.82825><2~766~272~767~287~-3~0~0~0~1~0~blackrust2~0.6847826~1~0.326087~1~0.3369565~1~0.5~1, CustomDecal><205.6926><93.80402><-16~472~278~466~270~-3~-360~-27~0~1~0~rustb4~0.5869565~1~0.1630435~1~0.4456522~1~0.1304348~1, 
+FadePalette: 174, 0.5

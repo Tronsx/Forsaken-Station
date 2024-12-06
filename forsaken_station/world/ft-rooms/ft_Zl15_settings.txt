@@ -1,0 +1,5 @@
+Template: FT_SettingsTemplate_Deepside
+CeilingDrips: 1
+PlacedObjects: ColouredLightSource><501.3456><299.9257><100~50~FFFFFF~122^53~0.4347826~False~0.5108696~1~0.1413043~Always~0~100, 
+AmbientSounds: SPOT><so_ind-flourlight.ogg><559.8655><204.398><0.5><0.4913043><498.8655><291.398><-75.35535><-60.35535><0><0.1, SPOT><so_wat-pour.ogg><556.0517><309.474><0.3586957><1><1648.052><195.474><-74.35535><-54.35535><0><0.1, 
+FadePalette: 10, 1, 1

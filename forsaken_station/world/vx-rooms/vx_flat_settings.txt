@@ -1,0 +1,9 @@
+Template: VX_SettingsTemplate_HiddenJungle
+RainIntensity: 0.8043478
+RumbleIntensity: 0.6086956
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+WetTerrain: OFF

@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: None
+Clouds: 0.9021739
+Grime: 0
+BkgDroneVolume: 0
+Palette: 171
+Effects: SkyAndLightBloom-0.3586957-273-307, ReplaceEffectColorA-0.7065217-672-511-Color-1-1-0, ReplaceEffectColorB-0.2065217-678-390-Color-0.2717391-0-0.2826087, RockFlea-0.3043478-20-20, Wasp-0.5-19-76, Desaturation-0.25-282-80, 
+AmbientSounds: OMNI><am_sub-blankstate.ogg><460.0751><396.347><0.4021739><0.6086956, OMNI><am_win-nicewnd.ogg><467.0693><314.5624><0.25><1, OMNI><am_rain-mehthunder.ogg><725.5805><310.1062><0.4021739><1, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.5
+MorePalette1: 11, 0.1521739
+MorePalette2: 17, 0.2065217

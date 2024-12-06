@@ -1,0 +1,5 @@
+Template: FT_SettingsTemplate_Deepside
+CeilingDrips: 1
+PlacedObjects: LightSource><3119.817><333.0833><1~Environment~3~220~50~86.60254~0~0~None~0~0, LightSource><3119.582><333.6822><0.4565217~Environment~0~105~55~-24.39746~0~1~None~0~0, LightSource><524><336><1~Environment~3~220~50~86.60254~1~0~None~0~0, LightSource><525><334><0.4565217~Environment~0~105~55~-24.39746~0~1~None~0~0, CustomEntranceSymbol><95.16312><367.8842><17.32051~-10~ShortcutDots~0.25, 
+AmbientSounds: SPOT><so_ind-flourlight.ogg><562.7856><285.1968><0.4565217><1><3120.785><332.1968><-68.35535><-70.35535><0><0.1, SPOT><so_ind-flourlight.ogg><565.8727><170.0957><0.4565217><1><522.8727><325.0957><-79.35535><-95.35535><0><0.1, 
+FadePalette: 10, 1, 1, 1, 1

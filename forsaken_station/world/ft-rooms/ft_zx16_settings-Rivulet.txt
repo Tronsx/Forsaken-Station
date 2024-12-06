@@ -1,0 +1,9 @@
+Template: FT_SettingsTemplate_DepotComplex
+Clouds: 0.9021739
+BkgDroneVolume: 0
+Effects: Desaturation-0.1521739-281-160, FairyParticles-1-295-99, Fog-0.3586957-287-41, DirtyWater-1-17-132, 
+PlacedObjects: CustomDecal><323.6977><84.78023><-1~503~362~505~367~14~0~0~0~1~0~bluesmoker~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, LightSource><364.1493><239.3272><0.4021739~Environment~1~180~50~86.60254~1~0~None~0~0, LightSource><630.207><407.6953><0.4021739~Environment~-3~164~50~86.60254~1~0~None~0~0, LightSource><511.053><703.5346><0.1086956~White~587~-703~-536~-359.3975~0~1~None~0~0, FairyParticleSettings><158.1989><118.2293><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+AmbientSounds: SPOT><so_ind-fridge.ogg><481.4235><406.8495><0.25><1.078261><360.4235><232.8495><-86.35535><-70.35535><0><0.1, SPOT><so_ind-winfan.ogg><685.0722><222.1584><0.2608696><0.7847826><627.0722><434.1584><-87.35535><-78.35535><0><0.1, OMNI><so_wat-runningwater.ogg><710.1475><385.1351><0.3586957><1, 
+FadePalette: 10, 0.5
+MorePalette0: 11, 0.3043478
+MorePalette1: 17, 0.4021739

@@ -1,0 +1,21 @@
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.75
+WaveLength: 0.5
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.6086956
+Grime: 0.1521739
+BkgDroneVolume: 0.3
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 171
+EffectColorA: 9
+EffectColorB: 3
+Effects: Fog-0.6086956-20-20, FairyParticles-0.25-14-79, Wasp-0.5-278-79, 
+AmbientSounds: OMNI><am_env-winterhum.ogg><742.9348><325.9391><0.4021739><1, OMNI><am_env-wintertrees.ogg><740.9213><244.5661><0.3043478><1, OMNI><am_win-wndtone.ogg><741.9869><400.9496><0.4565217><1, 

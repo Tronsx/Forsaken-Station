@@ -1,0 +1,17 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.423913
+RumbleIntensity: 0.2065217
+WaveSpeed: 0.4876348
+WaveLength: 0.9597803
+WaveAmplitude: 0.007934562
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.3043478
+Palette: 0
+Effects: Darkness-0.3043478-46-105, HeatWave-0.4021739-20-20, 
+PlacedObjects: InsectGroup><369.4684><395.6817><-7.683716~143.5413~-367.9663~52.9325~StandardFly~0.1752034, CGShelterRain><-51.76799><115.7503><, CGDrySpot><644.6853><162.4733><100~50~251.9677^298.07~True~None, LightSource><367.2773><395.0381><0.2019288~Environment~4.268738~228.0625~-294.0612~103.6776~1~0~None~0~0, SnowSource><340.8026><272.9675><Radial~0~100~141~36.60254~0.3369565~0.25, SnowSource><453.8922><314.6406><Radial~0~100~50~86.60254~0.4456522~0.3695652, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><120.5034><498.7982><0.2216034><1, OMNI><AM_SUB-BlankState.ogg><119.2461><412.0246><0.3886417><1, OMNI><AM_SUB-CaveTone.ogg><311.0514><498.5082><0.3700817><1, SPOT><AM_ENV-LightWind.ogg><738.9941><500.8298><0.5><1><371.2205><402.7273><-147.1966><-135.2441><0><0.2020794, 
+FadePalette: 3344, 0.8030571
+WetTerrain: OFF
+MorePalette0: 10, 0.4673913

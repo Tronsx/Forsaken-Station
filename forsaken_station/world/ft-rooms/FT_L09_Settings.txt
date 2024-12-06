@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.0480924
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.3043478
+BkgDroneVolume: 0
+Palette: 173
+AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><785.6048><532.6124><0.2065217><0.3347826, OMNI><AM_SUB-BlankState.ogg><705.6117><439.9159><0.3804348><1, OMNI><Weird Deep Hole.wav><601.9629><528.6965><0.2065217><0.7065217, 
+FadePalette: 10, 0.6086956, 0.7065217

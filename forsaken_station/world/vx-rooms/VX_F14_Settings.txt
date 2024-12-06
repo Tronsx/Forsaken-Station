@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.2065217
+BkgDroneVolume: 0
+Palette: 0
+Effects: Fog-0.2065217-20-20, ReplaceEffectColorB-0.1956522-275-41-Color-0.2934783-0.4130435-0, HeatWave-0.1086956-28-133, 
+PlacedObjects: InsectGroup><417.0704><209.1841><0~100~0~0~RockFlea~0.2030441, CustomDecal><578.7809><150.0384><8.537537~459.1913~143.3037~436.14~153.5487~-2.561234~-301.3738~-112.695~0~1~0~BlackRust2~0.6113586~1~0.6113586~1~0.6113586~1~0.6113586~1, InsectGroup><646.8929><197.2943><0~100~-607.8701~-176.7263~RockFlea~0.2030429, RainSensitiveLights><462.4745><391.0589><, RainSensitiveLights><653.1207><171.3426><, BlinkingFlower><396.712><458.3036><, BlinkingFlower><435.3602><492.6669><, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><89.13252><172.2542><0.3515214><1, OMNI><AM_IND-50hz.ogg><86.12125><251.1299><0.3515217><0.265032, SPOT><AM_WIN-SubWnd.ogg><98.49585><443.0103><0.3051222><1><401.7696><136.5928><-58.40656><-73.77409><0><0.1, SPOT><AM_IND-Warehouse03.ogg><98.59634><325.5558><0.3051224><1><413.8226><568.9534><-71.21283><-72.06665><0><0.1, OMNI><AM_SUB-BlankState.ogg><85.73572><88.56128><0.3051222><1, SPOT><am_env-cricketswnd.ogg><621.1752><455.3464><0.4021739><1><431.1752><558.3464><-104.3553><-92.35535><0><0.1, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.6847826
+MorePalette1: 3345, 0.3043478

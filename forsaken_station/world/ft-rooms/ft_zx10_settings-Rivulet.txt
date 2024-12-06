@@ -1,0 +1,7 @@
+Template: FT_SettingsTemplate_DepotComplex
+Effects: Beetle-0.3043478-304-293, RockFlea-0.3043478-298-98, Fog-0.3586957-293-33, DirtyWater-1-31-137, 
+PlacedObjects: CustomDecal><128.1338><101.5872><6~520~585~512~581~-13~0~0~0~1~0~bluesmoker~0.1521742~1~0.1521742~1~0.1521742~1~0.1521742~1, 
+AmbientSounds: OMNI><so_ind-humm.ogg><311.9444><318.5579><0.3043478><1, OMNI><so_wat-tubwater.ogg><694.9055><342.0737><0.3043478><1, 
+FadePalette: 10, 0.3043478
+MorePalette0: 11, 0.3586957
+MorePalette1: 17, 0.4021739
