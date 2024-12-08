@@ -1,0 +1,17 @@
+Template: VX_SettingsTemplate_HiddenJungle
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.1086956
+BkgDroneVolume: 0
+Effects: Darkness-0.25-23-131, FairyParticles-1-300-299, 
+PlacedObjects: CustomDecal><934.7914><193.9456><-6~379~85~375~91~-2~-339~-67.00002~0~1~0~blackrust3~0.5~1~0.8586956~1~0.1847826~1~0.7282609~1, CustomDecal><-48.26901><169.5499><3~370~118~374~121~0~182~49~0~1~0~blackrust5~0.3913046~1~0.7500001~1~0.7173914~1~0.3695654~1, CustomDecal><438.7136><161.5533><-6~351~117~357~119~-1~-526~-1.999985~0~1~0~rust5~0.3043478~1~0.3369565~1~0.6413044~1~0.5~1, FairyParticleSettings><135.4442><115.808><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, BlinkingFlower><523.9448><437.7952><, BlinkingFlower><462.0146><324.8005><, BlinkingFlower><246.8996><352.6172><, BlinkingFlower><-143.0788><205.8534><, BlinkingFlower><791.191><385.0589><, BlinkingFlower><1083.516><362.1993><, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.4565217
+MorePalette1: 0, 0
+MorePalette2: 3345, 0.5652174
+MorePalette3: 3347, 0.4565217

@@ -1,0 +1,13 @@
+Template: VX_SettingsTemplate_HiddenJungle
+CeilingDrips: 0
+WaveSpeed: 0.4903117
+WaveLength: 0.9951559
+WaveAmplitude: 9.007802E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: CustomDecal><392.5895><169.1194><5~340~149~338~151~16~-374~-37~0.1521739~1~0~rustb4~0.5~1~0.6847826~1~0.3478261~1~0.5~1, BlinkingFlower><446.5529><347.5571><, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.4565217
+MorePalette1: 3345, 0.5652174
+MorePalette2: 10, 0.423913

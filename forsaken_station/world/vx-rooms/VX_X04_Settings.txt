@@ -14,3 +14,4 @@ FadePalette: 3344, 0.4021739
 WetTerrain: OFF
 MorePalette0: 10, 0.4021739
 MorePalette1: 3345, 0.5652174
+MorePalette2: 10, 0.3478261
