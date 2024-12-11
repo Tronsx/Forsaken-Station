@@ -321,7 +321,7 @@ FT_N15 : 2-CicadaA, 2-CicadaA, 2-CicadaB
 (White,Yellow,Red)FT_R03 : 3-GreenLizard-{Ignorecycle}
 FT_R03 : 2-HoverFly-{Ignorecycle}
 (White,Yellow,Red)FT_R06 : 3-GreenLizard-{Ignorecycle}
-(White,Yellow)FT_R06 : 2-Centipede-{Ignorecycle}, 5-PoleMimic-{18}-{Ignorecycle}
+(White,Yellow)FT_R06 : 2-Centipede-{Ignorecycle}, 5-PoleMimic-{18}
 (White,Yellow,Red)FT_R08 : 5-BigSpider-{Ignorecycle}
 (White,Yellow,Rivulet)FT_R08 : 4-BigSpider-{Ignorecycle}
 FT_R04 : 3-HoverFly-{Ignorecycle}, 5-HoverFly-{Ignorecycle}, 4-SmallCentipede-2-{Ignorecycle}
@@ -352,7 +352,7 @@ FT_F25 : 3-BlueLizard-{Ignorecycle}
 FT_F29 : 2-YellowLizard-{Ignorecycle}, 3-BigNeedleWorm-{Ignorecycle}, 3-SmallNeedleWorm-2-{Ignorecycle}
 (White,Yellow,Rivulet)FT_F31 : 2-BigNeedleWorm-{Ignorecycle}
 (White,Yellow)FT_F31 : 2-SmallNeedleWorm-{Ignorecycle}
-FT_F31 : 3-PoleMimic-{14}-{Ignorecycle}
+FT_F31 : 3-PoleMimic-{14}
 FT_F30 : 6-YellowLizard-{Ignorecycle}, 7-YellowLizard-{Ignorecycle}, 5-YellowLizard-2-{Ignorecycle}
 FT_F24 : 3-PinkLizard-{Ignorecycle}
 FT_F35 : 2-DropBug-{Ignorecycle}

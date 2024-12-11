@@ -1,10 +1,18 @@
 Template: NONE
-DangerType: None
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.5
+RumbleIntensity: 0.3043478
+WaveSpeed: 0.5098006
+WaveLength: 0.9950997
+WaveAmplitude: 2.162943E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.1521739
 Grime: 0
 BkgDroneVolume: 0
-Palette: 171
-Effects: SkyAndLightBloom-0.3586957-273-307, ReplaceEffectColorA-0.7065217-672-511-Color-1-1-0, ReplaceEffectColorB-0.2065217-678-390-Color-0.2717391-0-0.2826087, RockFlea-0.3043478-20-20, Wasp-0.5-19-76, Desaturation-0.25-282-80, 
+Palette: 3347
+Effects: SkyAndLightBloom-0.3586957-273-307, ReplaceEffectColorA-0-672-511-Color-0-0-0, ReplaceEffectColorB-0.05434782-678-390-Color-0.09782609-0.2391304-0.2717391, RockFlea-0.3043478-20-20, Wasp-0.5-19-76, Desaturation-0.25-282-80, 
 AmbientSounds: OMNI><am_sub-blankstate.ogg><460.0751><396.347><0.4021739><0.6086956, OMNI><am_win-nicewnd.ogg><467.0693><314.5624><0.25><1, 
-FadePalette: 174, 0.5
-MorePalette0: 10, 0.5
+FadePalette: 10, 0.5
+WetTerrain: OFF

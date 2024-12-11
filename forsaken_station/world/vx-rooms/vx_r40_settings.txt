@@ -1,11 +1,21 @@
 Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.5
+RumbleIntensity: 0.3043478
+WaveSpeed: 0.4933388
+WaveLength: 0.9966694
+WaveAmplitude: 2.105171E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.3586957
 Grime: 0
 BkgDroneVolume: 0
 RandomItemDensity: 0
-Palette: 171
-Effects: Fog-0.6086956-20-20, ReplaceEffectColorA-0.6086956-722-530-Color-1-1-0, ReplaceEffectColorB-0.1086956-721-405-Color-0.2717391-0-0.2826087, Desaturation-0.25-23-81, Wasp-0.5-281-22, RockFlea-0.3043478-282-83, 
+Palette: 3347
+EffectColorB: 5
+Effects: Fog-0.6086956-20-20, ReplaceEffectColorA-0-722-530-Color-0-0-0, Desaturation-0.25-23-81, Wasp-0.5-281-22, RockFlea-0.3043478-282-83, ReplaceEffectColorB-0.05434782-708-403-Color-0.09782609-0.2391304-0.2717391, 
 PlacedObjects: FreeformDecalOrSprite><-177.3003><-38.30643><100~50~0;0^2357;-1^2359;758^-1;760~Futile_White~1~Bloom~Foreground~255~False~FFFFFF, CustomDecal><701.9637><117.6967><89~401~312~392~417~1~-412~-17~0.2826087~1~0~blackrust6~0.6739131~1~0.3804348~1~0.9021739~1~0.4347826~1, CustomDecal><1277.606><196.6698><7~117~463~125~467~17~-441~-82~0.3043478~1~0~braceface~0.6847826~0.2065217~0.2934783~0.423913~0.4130435~0.07608695~0.3043478~0.6521739, 
 AmbientSounds: OMNI><am_win-nicewnd.ogg><425.0405><232.9458><0.25><1, OMNI><am_sub-blankstate.ogg><425.3695><316.3484><0.4021737><0.6086952, SPOT><msc-wetconduits.ogg><71.60666><475.1395><0.25><1><1527.607><158.1395><-159.3553><-78.35535><0><0.1, 
-FadePalette: 174, 0.5, 0.5
-MorePalette0: 10, 0.3586957, 0.3586957
+FadePalette: 10, 0.3586957, 0.3586957
+WetTerrain: OFF

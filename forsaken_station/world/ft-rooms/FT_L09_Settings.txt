@@ -9,4 +9,5 @@ Grime: 0.3043478
 BkgDroneVolume: 0
 Palette: 173
 AmbientSounds: OMNI><AM_WIN-HowlingWnd.ogg><785.6048><532.6124><0.2065217><0.3347826, OMNI><AM_SUB-BlankState.ogg><705.6117><439.9159><0.3804348><1, OMNI><Weird Deep Hole.wav><601.9629><528.6965><0.2065217><0.7065217, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>ft_resurface<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>600<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>735.1411<tB>419.6082<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>382.1411<tB>294.6082<tA>handlePos<tB>-305.3553<tB>-61.35535, 
 FadePalette: 10, 0.6086956, 0.7065217

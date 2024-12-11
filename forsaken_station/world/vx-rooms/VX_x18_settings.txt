@@ -1,0 +1,17 @@
+Template: VX_SettingsTemplate_HiddenJungle
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Fog-0.6086956-296-228, FairyParticles-1-18-134, 
+PlacedObjects: ClimbablePole><510.4132><213.6344><-228~223~17.32051~-10~Black, ClimbablePole><449.2005><176.5562><-180~176~-165.6795~-112~Black, CustomDecal><162.6406><228.6078><-7~422~148~430~141~-7~-258~-17~0.2173913~1~0~rustb6~0.5~1~0.6413044~1~0.2717391~1~0.07608695~1, FairyParticleSettings><131.098><113.5757><-4~163.6603~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, BlinkingFlower><290.3007><345.2334><, BlinkingFlower><232.1737><551.1508><, BlinkingFlower><479.8><146.0042><, 
+AmbientSounds: OMNI><so_ind-generator.ogg><302.4371><326.0706><0.25><0.4521739, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.4565217
+MorePalette1: 3345, 0.5652174
+MorePalette2: 10, 0.08695652
+MorePalette3: 3347, 0.7282609

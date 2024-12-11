@@ -1,0 +1,18 @@
+Template: VX_SettingsTemplate_HiddenJungle
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.5
+Effects: Fog-0.3586957-19-132, RockFlea-0.3043478-278-98, Beetle-0.3043478-281-43, 
+PlacedObjects: CustomDecal><304.4483><1022.193><15~379~425~296~360~-81~-481~-64~0.1847826~1~0~rustb5~0.7717391~1~0.6630435~1~0.3913043~1~0.3586957~1, RubberBlossom><425.3068><1080.808><0~0~2~2~1~1~0~0~0~0~1~0.9891304~0.02173913~0.5217391~20~1~0~, RubberBlossom><287.4125><163.8834><0~0~2~2~1~1~1~0~0~1~1~0.9891304~0.02173913~0.5217391~25.73913~1~0~, RubberBlossom><783.0538><359.0388><0~0~2~2~1~1~2~0~0~1~1~0.9891304~0.02173913~0.5217391~30.43478~1~0~, CustomDecal><214.5799><16.31663><21~520~212~638~229~15~-253~1~0.2065217~1~0~rustb1~0.6195652~1~0.3695652~1~0.5~1~0.3152174~1, ClimbablePole><312.5517><428.2759><397~401~17.32051~-10~Black, ClimbablePole><400><439.0008><311~305~17.32051~-10~Black, BlinkingFlower><559.6666><1198.182><, BlinkingFlower><239.3708><1140.659><, BlinkingFlower><689.8892><897.8336><, BlinkingFlower><723.574><640.0951><, BlinkingFlower><367.0338><437.9471><, BlinkingFlower><784.6368><526.1041><, BlinkingFlower><354.411><256.6187><, BlinkingFlower><483.8176><243.4181><, BlinkingFlower><615.6478><330.0781><, 
+AmbientSounds: OMNI><so_ind-generator.ogg><483.1659><253.4315><0.25><0.4521739, 
+FadePalette: 3344, 0.4021739, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.4565217, 0.4565217
+MorePalette1: 3345, 0.5652174, 0.5652174
+MorePalette2: 10, 0.25, 0.3695652
+MorePalette3: 3347, 0.2934783, 0.08695652
