@@ -1,21 +1,21 @@
 DangerType: None
-CeilingDrips: 0.5
-RainIntensity: 1
-RumbleIntensity: 1
-WaveSpeed: 0.75
-WaveLength: 0.5
-WaveAmplitude: 0
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
+CeilingDrips: 0
+RainIntensity: 0.8043478
+RumbleIntensity: 0.6086956
+WaveSpeed: 0.4875151
+WaveLength: 0.9937575
+WaveAmplitude: 9E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.6086956
-Grime: 0.1521739
+Grime: 0
 BkgDroneVolume: 0.3
 BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 171
+Palette: 3347
 EffectColorA: 9
 EffectColorB: 3
-Effects: Fog-0.6086956-20-20, FairyParticles-0.25-14-79, Wasp-0.5-278-79, 
-AmbientSounds: OMNI><am_env-winterhum.ogg><742.9348><325.9391><0.4021739><1, OMNI><am_env-wintertrees.ogg><740.9213><244.5661><0.3043478><1, OMNI><am_win-wndtone.ogg><741.9869><400.9496><0.4565217><1, 
+Effects: ReplaceEffectColorB-0.05434782-776-360-Color-0.09782609-0.2391304-0.2717391, Fog-0.6086956-20-20, FairyParticles-0.25-14-79, Wasp-0.5-278-79, 
+AmbientSounds: OMNI><ft_env_dispairwind.ogg><414.8016><351.0256><0.2065217><1, OMNI><ft_env_horrorwind.ogg><301.4332><463.3303><0.3043478><1, OMNI><am_win-wndtone.ogg><741.9869><400.9496><0><1, OMNI><am_env-winterhum.ogg><742.9348><325.9391><0><1, OMNI><am_env-wintertrees.ogg><740.9213><244.5661><0.3043478><1, 

@@ -1,0 +1,21 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.5
+Grime: 0.2065217
+BkgDroneVolume: 0
+Palette: 0
+EffectColorB: 3
+Effects: Fog-1-294-241, Beetle-0.3043478-294-96, FairyParticles-1-12-129, DenseFog-0.2065217-20-20, DenseFogSoundVolume-0.3043478-303-22, 
+PlacedObjects: FreeformDecalOrSprite><-183.3456><398.1757><251~-11~0;0^123;-1^125;119^-1;121~Futile_White~1~DeepWater~Foreground~255~False~FFFFFF, FreeformDecalOrSprite><567.5534><380.9632><100~50~0;0^121;-2^121;121^0;119~Futile_White~1~DeepWater~Foreground~255~False~FFFFFF, CustomDecal><-190.4489><-28.47893><3~720~668~723~673~-16~270~9.999985~0~1~0~blackrust2~0.9021739~1~0.3913043~1~0.1304348~1~0.5434783~1, InsectGroup><668.1557><208.1255><-164~64~-495~105~RockFlea~0.1521745, CustomDecal><1026.874><305.8433><8~-126~-505~-124~-507~-6~-799~45~0.2717391~1~0~crudegrey~0.06521739~0.5543478~0.09782609~0.3152174~0.6847826~0.3804348~0.5~0.3043478, FairyParticleSettings><93.69958><117.5129><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+AmbientSounds: OMNI><msc-wetconduits.ogg><484.923><491.6495><0.2065217><1, OMNI><am_win-subwnd.ogg><486.1963><415.9618><0.3043478><1, 
+FadePalette: 3344, 0.4021739
+WetTerrain: OFF
+MorePalette0: 10, 0.1086956
+MorePalette1: 3345, 0.5652174
+MorePalette2: 3347, 0.8586956

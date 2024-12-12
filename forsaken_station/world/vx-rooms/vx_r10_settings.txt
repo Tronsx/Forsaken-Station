@@ -1,13 +1,16 @@
-Template: FT_SettingsTemplate_Coldtracks
-DangerType: None
-RainIntensity: 0.2065217
-WaveSpeed: 0.5003294
-WaveLength: 0.9998353
-WaveAmplitude: 2.829476E-05
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
+Template: VX_SettingsTemplate_FrigidPeak
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.6836472
+WaveLength: 0.9081764
+WaveAmplitude: 1.132213E-13
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Effects: LightRain-0-30-30, 
-PlacedObjects: FairyParticleSettings><140.5626><115.1803><5~8.660254~1~2.717391~0~0~1~1~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, SnowSource><821.1913><523.1917><Radial~2~136~50~86.60254~0.6739131~1, SnowSource><938.4453><122.3076><Radial~-13~204~-689~16.60254~0.7065217~1, SnowSource><608.3215><244.5903><Radial~0~199~50~86.60254~0.7065217~1, SnowSource><337.6807><384.4142><Radial~1~198~50~86.60254~0.6521739~1, SnowSource><1035.308><334.4431><Radial~-6~158~-487~152.6025~0.6739131~1, 
-AmbientSounds: OMNI><msc-structurestrain.ogg><695.6356><407.664><0><1, 
-BackgroundOffset: 0,216.9996
-BackgroundType: atc_forsaken_wall
+PlacedObjects: FairyParticleSettings><140.5626><115.1803><5~8.660254~1~2.717391~0~0~1~1~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, SnowSource><821.1913><523.1917><Radial~2~136~50~86.60254~0.6739131~1, SnowSource><938.4453><122.3076><Radial~-13~204~-689~16.60254~0.7065217~1, SnowSource><608.3215><244.5903><Radial~0~199~50~86.60254~0.7065217~1, SnowSource><337.6807><384.4142><Radial~1~198~50~86.60254~0.6521739~1, SnowSource><1035.308><334.4431><Radial~-6~158~-487~152.6025~0.6739131~1, SnowSource><195.931><636.585><Radial~68~-198~-255~-109.3974~0.6521739~0.4347826, SnowSource><539.3022><493.0298><Radial~247~-135~-367~-156.3975~0.6304348~0.4782609, SnowSource><1114.855><46.17035><Radial~-25~158~-360~71.60255~0.5978261~0.4347826, 
+AmbientSounds: OMNI><msc-structurestrain.ogg><695.6356><407.664><0><1, OMNI><am_win_hilltop.ogg><690.8013><486.5231><0><1, DIR><ft_env_horrorwind.ogg><310.4186><452.6076><0.3804348><1><127.3815><0, DIR><am_win-subwnd.ogg><328.1341><250.913><0.2826087><1><120.992><0, 
+WetTerrain: OFF
+BackgroundOffset: 0,-0.3913045
+BackgroundType: atc_forsaken_wall_saint
