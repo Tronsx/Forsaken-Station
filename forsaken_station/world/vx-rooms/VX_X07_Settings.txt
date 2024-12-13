@@ -1,8 +1,8 @@
 Template: VX_SettingsTemplate_HiddenJungle
 CeilingDrips: 0
-WaveSpeed: 0.4723873
-WaveLength: 0.9861937
-WaveAmplitude: 9.000001E-05
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.5
@@ -12,4 +12,4 @@ FadePalette: 3344, 0.4021739, 0.4021739
 WetTerrain: OFF
 MorePalette0: 10, 0.4565217, 0.4565217
 MorePalette1: 3345, 0.5652174, 0.5652174
-MorePalette2: 3347, 0.2608696, 0.4021739
+MorePalette2: 3347, 0.3804348, 0.5869565

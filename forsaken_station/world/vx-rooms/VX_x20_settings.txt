@@ -14,4 +14,4 @@ WetTerrain: OFF
 MorePalette0: 10, 0.4565217
 MorePalette1: 0, 0
 MorePalette2: 3345, 0.5652174
-MorePalette3: 3347, 0.4565217
+MorePalette3: 3347, 0.7065217
