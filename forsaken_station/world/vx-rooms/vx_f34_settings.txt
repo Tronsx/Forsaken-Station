@@ -1,7 +1,16 @@
-DangerType: None
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.25
+RumbleIntensity: 0.2065217
+WaveSpeed: 0.4996428
+WaveLength: 0.9373214
+WaveAmplitude: 0.01214707
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 BkgDroneVolume: 0
 Effects: SkyAndLightBloom-0.1521739-336-300, 
 PlacedObjects: CustomDecal><122.8344><161.1379><-10~399~273~398~280~1~-314~-112~0~1~0~rustb5~0.1521739~1~0.2934783~1~0.3369565~1~0.2608696~1, CustomDecal><459.8013><121.2271><-6~461~234~448~240~5~-263~-150~0~1~0~blackrust6~0.173913~1~0.3369565~1~0.5217391~1~0.2826087~1, 
 AmbientSounds: SPOT><so_ind-heatduct.ogg><154.1244><439.1566><0.3043478><1><246.1244><374.1566><-192.3553><-132.3553><0><0.1, SPOT><so_ind-mechhum02.ogg><149.1024><314.3849><0.25><1><609.1024><415.3849><-104.3553><-115.3553><0><0.1, SPOT><so_ind-winfan.ogg><339.2493><438.55><0.3043478><1><783.2493><151.55><-131.3553><-78.35535><0><0.1, 
-FadePalette: 174, 0.5
+FadePalette: 330, 0.326087
+WetTerrain: OFF
 MorePalette0: 10, 0.3043478

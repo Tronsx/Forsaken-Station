@@ -1,0 +1,16 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.1521739
+RumbleIntensity: 0.2065217
+WaveSpeed: 0.4995319
+WaveLength: 0.9997659
+WaveAmplitude: 3.700609E-08
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+BkgDroneVolume: 0
+Effects: SkyAndLightBloom-0.1521739-296-305, 
+PlacedObjects: CustomDecal><80.09708><195.1289><-10~221~834~216~834~-20~-165~36~0.3043478~1~0~rust5~0.4565217~1~0.2717391~1~0.5~1~0.4456522~1, CustomDecal><158.9432><173.6982><0~231~149~230~154~0~334~-9~0~1~0~blackrust1~0.8369565~1~0.5760869~1~0.3695652~1~0.5543478~1, InsectGroup><552.8691><258.3488><0~100~-145~-203~StandardFly~0.3043478, DangleFruit><468.6512><297.6308><0~0~2~3, DangleFruit><517.4193><317.683><0~0~2~3, 
+AmbientSounds: SPOT><am_win-medwind.ogg><506.0582><476.6932><0.4565217><1><829.0582><345.6932><-285.3553><-59.35535><0><0.2086951, 
+FadePalette: 330, 0.05434782
+WetTerrain: OFF
+MorePalette0: 10, 0.2065217

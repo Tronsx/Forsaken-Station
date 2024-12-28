@@ -1,11 +1,20 @@
-DangerType: None
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.2065217
+RumbleIntensity: 0.2065217
+WaveSpeed: 0.5002465
+WaveLength: 0.9998767
+WaveAmplitude: 0.00192993
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.1521739
-Grime: 0.2065217
+Grime: 0
 BkgDroneVolume: 0
-Palette: 330
+Palette: 3348
 Effects: ReplaceEffectColorA-0.3043478-20-20-Color-1-1-0, ReplaceEffectColorB-0.1086956-290-24-Color-0.2717391-0-0.2826087, AboveCloudsView-1-20-134, LightBurn-0.3043478-280-137, 
 PlacedObjects: CustomDecal><988.1593><185.371><9~455~692~463~694~5~0~0~0.2391304~1~0~blackrust5~0.4347826~1~0.8043478~1~0.8586956~1~0.4021739~1, 
-AmbientSounds: OMNI><ft_env_ghostpath.ogg><749.4358><397.4259><0.3043478><0.2565217, OMNI><am_env-lightwind.ogg><748.1744><318.1521><0.2065217><1, OMNI><am_win-subwnd.ogg><748.4432><240.5515><0.3586957><1, SPOT><so_ind-hvac.ogg><568.6292><112.9027><0.4565217><0.6086956><1313.629><422.9027><-18.35535><-132.3553><0><0.1, OMNI><am_ind-factory03.ogg><749.2859><474.8033><0.5><0.4521739, 
-FadePalette: 174, 0.5, 0.5
+AmbientSounds: OMNI><ft_env_ghostpath.ogg><749.4358><397.4259><0.3043478><0.2565217, OMNI><am_env-lightwind.ogg><748.1744><318.1521><0><1, OMNI><am_win-subwnd.ogg><748.4432><240.5515><0.3586957><1, SPOT><so_ind-hvac.ogg><568.6292><112.9027><0.4565217><0.6086956><1313.629><422.9027><-18.35535><-132.3553><0><0.1, OMNI><am_ind-factory03.ogg><749.2859><474.8033><0><0.4521739, 
+FadePalette: 330, 0.326087, 0.326087
+WetTerrain: OFF
 BackgroundOffset: 0,217.3913
-BackgroundType: atc_mountain_far
+BackgroundType: atc_mountain_sunset

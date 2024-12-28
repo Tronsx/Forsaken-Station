@@ -1,7 +1,12 @@
 DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.4889884
+WaveLength: 0.9944942
+WaveAmplitude: 8.220916E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 BkgDroneVolume: 0
 Effects: SkyAndLightBloom-0.1521739-299-301, 
-PlacedObjects: SuperStructureFuses><412.5215><193.5512><76~164, SuperStructureFuses><414.3137><407.8227><84~90, 
-AmbientSounds: SPOT><so_sfx-datatrans.ogg><411.4514><245.556><0.2065217><0.8043478><462.4514><348.556><-67.35535><-152.3553><0><0.1, 
-FadePalette: 174, 0.5
+FadePalette: 330, 0.2065217
+WetTerrain: OFF
 MorePalette0: 10, 0.5

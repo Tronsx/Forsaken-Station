@@ -1,0 +1,21 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.2065217
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Grime: 0
+BkgDroneVolume: 0
+Palette: 3348
+Effects: LightBurn-0.1086956-507-499, AboveCloudsView-1-325-300, FairyParticles-0-20-20, ReplaceEffectColorA-0.3043478-313-74-Color-1-1-0, ReplaceEffectColorB-0.1086956-47-68-Color-0.2717391-0-0.2826087, 
+PlacedObjects: EEGhostSpot><253.8365><1263.115><, 
+AmbientSounds: OMNI><msc-structurestrain.ogg><695.6356><407.664><0><1, OMNI><AM_WIN-StrongWnd2.ogg><493.4334><296.4203><0.4565217><1, OMNI><AM_WIN-NiceWnd.ogg><487.2203><219.5522><0.3043478><1, 
+FadePalette: 330, 0, 0.05434782
+WetTerrain: OFF
+BackgroundOffset: 0,217.3913
+BackgroundType: atc_mountain_sunset

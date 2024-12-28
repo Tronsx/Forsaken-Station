@@ -1,0 +1,22 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.6521739
+RumbleIntensity: 0.6521739
+WaveSpeed: 0.4789498
+WaveLength: 0.9894749
+WaveAmplitude: 0.001901117
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.6086956
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 3347
+EffectColorA: 9
+EffectColorB: 3
+Effects: RockFlea-0.2065217-20-20, Moth-0.3043478-20-77, FairyParticles-1-15-135, DenseFog-0.3586957-278-137, DenseFogSoundVolume-0.05434782-281-76, ReplaceEffectColorB-0.05434782-798-376-Color-0.09782609-0.2391304-0.2717391, 
+PlacedObjects: FairyParticleSettings><92.80701><116.9417><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, CustomDecal><218.6024><190.8282><-8~452~573~428~561~-3~419~-123~0.2608696~1~0~blackrust5~0.6521739~1~0.5~1~0.5543478~1~0.8043478~1, LightBeam><147.995><462.3><304~245~372~156~61~-25~-282~-124~0.4~0~0~1~None~0~0, LightBeam><242><367><304~245~334~221~116~-69~-282~-124~0.4~0~0~1~None~0~0, 
+AmbientSounds: OMNI><FT_ENV_UnknownFactory.ogg><436.8788><508.0909><0.2065217><0.4130435, OMNI><am_ind-factory02.ogg><658.566><584.5784><0><0.4717391, OMNI><msc-subtundra.ogg><467.5707><582.9113><0.3043478><0.55, OMNI><AM_WIN-SubWnd.ogg><628.5539><499.6926><0.4021739><0.3934783, 
+FadePalette: 3345, 0.0326087
+WetTerrain: OFF
+MorePalette0: 10, 0.6086956
