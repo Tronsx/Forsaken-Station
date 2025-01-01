@@ -1,7 +1,17 @@
-Template: FT_SettingsTemplate_ZeroCaves
-DangerType: Flood
-Effects: ReflectiveWater-0.6086956-19-79-LerpAngle:100-Alpha:120.1848-LerpAngle:100-Alpha:120.1848, 
+Template: VX_SettingsTemplate_Caverns
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.6086956
+RumbleIntensity: 0.7065217
+WaveSpeed: 0.5019885
+WaveLength: 0.9990057
+WaveAmplitude: 4.837947E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0
+Effects: ReflectiveWater-0.6086956-19-79-LerpAngle:100-Alpha:120.1848, 
 PlacedObjects: CustomDecal><249.4787><157.0511><20~326~387~380~412~-19~-371~-27.99998~0.05434782~1~0~blackrust3~0.6739131~1~0.173913~1~0.6630435~1~0.3152174~1, CustomDecal><570><284><5~322~523~368~459~-3~-371~-27.99998~0.0326087~1~0~blackrust6~0.8478261~1~0.4782609~1~0.3695652~1~0.7608696~1, CustomDecal><1980><242><5~322~523~368~459~-3~740~-204~0.05434782~1~0~blackrust5~0.6739131~1~0.8478261~1~0.5217391~1~0.7065217~1, CustomDecal><2351><237><5~322~655~368~557~-18~-211~-114~0.06521739~1~0~blackrust1~0.4782609~1~0.2717391~1~0.7608696~1~0.7065217~1, InsectGroup><426.9139><233.6355><-2~164~0~0~TinyDragonFly~0.3586957, InsectGroup><2655.986><426.1995><-219~95~0~0~GrassHopper~0.3043478, InsectGroup><913><504><-198~83~0~0~GrassHopper~0.3043478, InsectGroup><1402><484><-167~72~0~0~GrassHopper~0.3043478, InsectGroup><1878><462><-177~79~0~0~GrassHopper~0.3043478, CustomDecal><1222><292><5~322~835~300~857~3~-211~-114~0.06521739~1~0~blackrust3~0.4782609~1~0.2717391~1~0.7608696~1~0.7065217~1, InsectGroup><1219><257><-1~135~0~0~TinyDragonFly~0.25, 
 AmbientSounds: SPOT><so_wat-splashes.ogg><458.1952><501.9565><0.2065217><1><158.1952><269.9565><-113.3553><-134.3553><0><0.1, SPOT><so_wat-openflow.ogg><490.1665><156.4317><0.25><1><2527.167><50.43175><-206.3553><73.64466><0><0.1, SPOT><am_win-medwind.ogg><267.6328><373.1005><0.3586957><1><2928.633><475.1005><-151.3553><-72.35535><0><0.1, 
-FadePalette: 174, 0.5, 0.5, 0.5
+FadePalette: 3346, 0.5, 0.5, 0.5
+WetTerrain: OFF
 MorePalette0: 10, 0.3043478, 0.3043478, 0.3043478

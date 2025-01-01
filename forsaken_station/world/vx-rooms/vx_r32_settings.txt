@@ -1,7 +1,16 @@
-Template: FT_SettingsTemplate_ZeroCaves
-DangerType: Flood
-Effects: ReflectiveWater-0.6086956-27-79-LerpAngle:100-Alpha:120.1848-LerpAngle:100-Alpha:120.1848, 
+Template: VX_SettingsTemplate_Caverns
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.6086956
+RumbleIntensity: 0.7065217
+WaveSpeed: 0.5129598
+WaveLength: 0.9935201
+WaveAmplitude: 7.114099E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: ReflectiveWater-0.6086956-27-79-LerpAngle:100-Alpha:120.1848, 
 PlacedObjects: CustomDecal><69.80539><1498.296><14~544~820~535~847~3~0~0~0.05434782~1~0~blackrust4~0.6630435~1~0.3478261~1~0.6630435~1~0.5217391~1, CustomDecal><48><739><11~746~822~755~847~3~0~0~0.05434782~1~0~blackrust5~0.423913~1~0.7608696~1~0.5543478~1~0.3369565~1, CustomDecal><95><-23.99999><11~746~822~755~847~3~0~0~0.326087~1~0~blackrust3~0.423913~1~0.7608696~1~0.5543478~1~0.3369565~1, CustomDecal><602.9496><372.7625><-8~193~116~184~110~3~-524~-167~0~0.1521739~0~rustb3~0.3043478~1~0.5543478~1~0.326087~1~0.5~1, ExitSymbolHidden><197.3248><369.3465><, InsectGroup><521.55><360.2503><161~126~0~0~TinyDragonFly~0.4021739, InsectGroup><489.113><1826.396><-392~183~0~0~GrassHopper~0.3043478, InsectGroup><359.0472><888.6943><8~176~0~0~GrassHopper~0.3043478, 
 AmbientSounds: OMNI><so_wat-splashes.ogg><284.1825><504.3318><0.3043478><1, SPOT><so_wat-tapwater.ogg><278.523><383.9487><0.3586957><1><519.523><316.9487><-110.3553><-75.35535><0><0.2086958, 
-FadePalette: 174, 0.5, 0.5, 0.5
+FadePalette: 3346, 0.5, 0.5, 0.5
+WetTerrain: OFF
 MorePalette0: 10, 0.3043478, 0.3043478, 0.3043478

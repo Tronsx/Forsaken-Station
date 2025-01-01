@@ -1,0 +1,12 @@
+Template: VX_SettingsTemplate_FrozenVents
+CeilingDrips: 0
+WaveSpeed: 0.4804592
+WaveLength: 0.9902296
+WaveAmplitude: 4.614521E-08
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: CustomDecal><282.3348><340.1373><3~290~392~274~391~1~-297~-240~0.3043478~1~0~BlackRust4~0.1847826~1~0.4456522~1~0.5652174~1~0.5~1, CustomDecal><691.8668><444.3508><-5~173~-413~174~-413~-3~-435~-327~0.6413044~1~0~alienletterb&w~0.1630435~0.4021739~0.2173913~0.7282609~0.1521739~0.09782609~0.2717391~0.4673913, LightSource><343.5505><233.486><0.2065217~Environment~-6~198~50~86.60254~0~0~None~0~0, LightSource><719><339><0.2065217~Environment~1~116~50~86.60254~0~0~None~0~0, 
+AmbientSounds: DIR><SO_IND-HeatDuct.ogg><494.5626><246.3198><0.3586957><0.7652174><14.21585><0, 
+FadePalette: 3344, 0.4565217
+WetTerrain: OFF
+MorePalette0: 10, 0.8043478

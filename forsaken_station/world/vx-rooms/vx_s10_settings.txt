@@ -3,9 +3,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.1086956
 RumbleIntensity: 0.2065217
-WaveSpeed: 0.5003647
-WaveLength: 0.9998176
-WaveAmplitude: 2.659316E-06
+WaveSpeed: 0.4997764
+WaveLength: 0.9998882
+WaveAmplitude: 0.0001861201
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1521739
@@ -17,5 +17,5 @@ PlacedObjects: CustomDecal><366.4186><157.0673><-8~292~244~285~251~-1~-387~-21.9
 AmbientSounds: OMNI><am_win-nicewnd.ogg><700.7097><243.1959><0><1, OMNI><am_win-strongwnd2.ogg><700.2203><328.9478><0><1, OMNI><am_win_hilltop.ogg><690.8013><486.5231><0.3586957><1, SPOT><am_win-medwind.ogg><308.564><245.5736><0.4565217><1><474.564><319.5735><-91.35535><-107.3553><0><0.1, 
 FadePalette: 10, 0.2065217
 WetTerrain: OFF
-BackgroundOffset: 0,217
+BackgroundOffset: 0,325.6953
 BackgroundType: atc_mountain_sunset

@@ -1,0 +1,17 @@
+Template: VX_SettingsTemplate_StationEdge
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.4021739
+RumbleIntensity: 0.3043478
+WaveSpeed: 0.4995138
+WaveLength: 0.9997569
+WaveAmplitude: 3.137914E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1086956
+Palette: 3347
+PlacedObjects: FairyParticleSettings><-69.83759><295.3833><5~8.660254~1~2.717391~0~0~1~1~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, LightSource><217.5692><650.4144><1~EffectColor1~-151~20~-299~-198.3975~0~0~Fade~0.3043478~0, LightSource><654.4005><537.8818><0.6086956~EffectColor1~-112~116~-586~-288.3974~1~0~Fade~0.5~0, CustomDecal><-192.3484><-15.8696><-1~754~1357~761~1354~-3~65~210~0~1~0~efflorescense2~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, DeadTokenStalk><282.7631><488.9496><5~-59, DeadTokenStalk><323.1998><529.258><-9~-65, RedToken><340.5562><476.7005><-11~-47~0~0~0~FT~~0~0~1~0~0~0~1~0~0~0~1~0~0~0~1~0~0~0~1~0, DataPearl><651.5061><555.45><0~0~0~0~Misc~0, SnowSource><446.5644><476.9255><Radial~-635~-483~-4~-27.39743~0.5~0.6195652, 
+FadePalette: 3348, 0.9130435
+WetTerrain: OFF
+BackgroundOffset: 0,325.6953
+BackgroundType: atc_mountain_sunset

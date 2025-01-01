@@ -3,9 +3,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.1521739
 RumbleIntensity: 0.2065217
-WaveSpeed: 0.4996259
-WaveLength: 0.9903528
-WaveAmplitude: 0.004443908
+WaveSpeed: 0.5003785
+WaveLength: 0.9998108
+WaveAmplitude: 4.834597E-06
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Grime: 0
@@ -15,5 +15,5 @@ PlacedObjects: FairyParticleSettings><153.9078><129.6272><5~8.660254~1~2.717391~
 AmbientSounds: SPOT><am_win-howlingwnd.ogg><47.13385><478.1628><0.3586957><0.7065217><3758.134><-32.70493><43.64465><585.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><229.9468><478.7859><0.3586957><0.7065217><3258.947><-44.02583><-112.3553><182.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><231.45><357.9981><0.3586957><0.7065217><920.1785><-17.99553><-262.3553><543.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><414.2444><476.8001><0.3586957><0.7065217><1309.244><-37.21785><80.64471><645.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><46.43085><357.0854><0.3586957><0.7065217><1761.431><-33.93629><311.6447><400.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><429.3489><363.6311><0.3586957><0.7065217><-25.65106><2.635403><655.6447><578.6447><0><0.1, 
 FadePalette: 10, 0, 0, 0, 0
 WetTerrain: OFF
-BackgroundOffset: 0,217.3913
+BackgroundOffset: 0,326.0869
 BackgroundType: atc_mountain_sunset

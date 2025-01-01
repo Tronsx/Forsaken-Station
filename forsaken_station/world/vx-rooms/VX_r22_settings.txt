@@ -2,9 +2,9 @@ Template: VX_SettingsTemplate_StationEdge
 CeilingDrips: 0
 RainIntensity: 0.6086956
 RumbleIntensity: 0.6086956
-WaveSpeed: 0.4977953
-WaveLength: 0.9988977
-WaveAmplitude: 8.999999E-05
+WaveSpeed: 0.5011098
+WaveLength: 0.9994451
+WaveAmplitude: 9.235836E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.5
@@ -14,5 +14,5 @@ PlacedObjects: FairyParticleSettings><2131.138><122.605><5~8.660254~1~2.717391~0
 AmbientSounds: OMNI><am_rain-rumbles.ogg><689.3837><565.6488><0><1, SPOT><am_win-howlingwnd.ogg><72.18976><497.3131><0.3586957><0.7065217><2569.19><-38.68686><355.6447><760.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><271.4495><374.7646><0.3586957><0.7065217><1976.449><-38.23541><-129.3553><663.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><82.07312><368.6567><0.3586957><0.7065217><1498.073><-37.34332><77.64465><672.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><265.2029><490.4444><0.3586957><0.7065217><956.2029><-34.5556><46.64465><593.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><455.8746><372.9058><0.3586957><0.7065217><-106.1254><-41.09421><-2.355339><625.6447><0><0.1, SPOT><am_win-howlingwnd.ogg><458.9445><484.9422><0.3586957><0.7065217><401.9445><-36.05783><86.64471><612.6447><0><0.1, OMNI><am_rain-rollingthunder.ogg><865.5681><542.4169><0><1, OMNI><am_rain-quietthunder.ogg><866.1907><456.4396><0><1, 
 FadePalette: 10, 0, 0, 0
 WetTerrain: OFF
-BackgroundOffset: 0,217.3913
+BackgroundOffset: 0,326.0869
 BackgroundType: atc_mountain_sunset

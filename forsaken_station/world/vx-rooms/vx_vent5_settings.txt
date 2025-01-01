@@ -1,0 +1,12 @@
+Template: VX_SettingsTemplate_FrozenVents
+CeilingDrips: 0
+WaveSpeed: 0.544479
+WaveLength: 0.7766736
+WaveAmplitude: 0.04021738
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+PlacedObjects: LightSource><675.6827><538.5616><0.4021739~Environment~-23~-244~-788~-180.3975~0~0~None~0~0, LightSource><221.5745><174.9041><0.2065217~Environment~9~259~-329~313.6025~0~0~None~0~0, ColouredLightSource><700.3243><178.9044><100~50~BAC4FF~207^-77~0.25~False~0.5~0.5760869~0.5~Always~0~100, 
+AmbientSounds: DIR><SO_IND-HeatDuct.ogg><490.1335><250.1626><0.3586957><0.7652174><180><0, SPOT><SO_IND-Fridge.ogg><154.8003><349.0101><0.3043478><0.373913><685.8003><531.0101><-160.3553><-118.3553><0><0.1, 
+FadePalette: 3344, 0.4565217
+WetTerrain: OFF
+MorePalette0: 10, 0.8043478

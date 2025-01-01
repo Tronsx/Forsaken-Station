@@ -1,0 +1,14 @@
+Template: VX_SettingsTemplate_FrozenVents
+CeilingDrips: 0
+WaveSpeed: 0.4771961
+WaveLength: 0.988598
+WaveAmplitude: 0.000240795
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+EffectColorB: 4
+Effects: FairyParticles-1-31-93, DenseFog-0.01086957-300-97, RockFlea-0.3043478-300-43, ReplaceEffectColorB-0.05434782-711-337-Color-0.09782609-0.2391304-0.2717391, 
+PlacedObjects: FairyParticleSettings><158.6664><75.11093><5~8.660254~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, 
+AmbientSounds: DIR><SO_IND-HeatDuct.ogg><461.1969><243.9648><0.3586957><0.7652174><51.88172><0, 
+FadePalette: 3344, 0.4565217
+WetTerrain: OFF
+MorePalette0: 10, 0.8043478

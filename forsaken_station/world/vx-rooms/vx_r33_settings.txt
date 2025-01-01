@@ -1,7 +1,17 @@
-Template: FT_SettingsTemplate_ZeroCaves
-DangerType: Flood
+Template: VX_SettingsTemplate_Caverns
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.7065217
+RumbleIntensity: 0.8043478
+WaveSpeed: 0.5356142
+WaveLength: 0.9821929
+WaveAmplitude: 0.0004503525
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0
 Effects: ReflectiveWater-0.6086956-18-84-LerpAngle:100-Alpha:120.1848, 
 PlacedObjects: CustomDecal><702.5526><323.7188><-3~198~710~229~667~-21~-402~-186~0.04347826~1~0~blackrust2~0.5652174~1~0.2934783~1~0.6304348~1~0.5~1, InsectGroup><1066.929><406.6871><267~48~0~0~GrassHopper~0.3043478, InsectGroup><1716.504><362.8><0~100~0~0~TinyDragonFly~0.1521739, 
 AmbientSounds: SPOT><so_wat-pour.ogg><452.1939><568.799><0.3586957><1><1723.194><339.799><-79.35535><-84.35535><0><0.1, SPOT><so_wat-openflow.ogg><256.6786><431.5901><0.25><1><1881.679><523.5901><-92.35535><-58.35535><0><0.1, 
-FadePalette: 174, 0.5, 0.5
+FadePalette: 3346, 0.5, 0.5
+WetTerrain: OFF
 MorePalette0: 10, 0.3043478, 0.3043478

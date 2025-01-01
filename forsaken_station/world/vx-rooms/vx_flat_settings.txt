@@ -1,9 +1,14 @@
+Template: VX_SettingsTemplate_Caverns
+DangerType: None
+CeilingDrips: 0
 RainIntensity: 0.8043478
 RumbleIntensity: 0.6086956
-WaveSpeed: 0.5039184
-WaveLength: 0.9980408
-WaveAmplitude: 9.002888E-05
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Grime: 0
+Palette: 3348
+Effects: ReplaceEffectColorA-0.2065217-707-378-Color-0.6521739-0.4782609-1, 
 WetTerrain: OFF
