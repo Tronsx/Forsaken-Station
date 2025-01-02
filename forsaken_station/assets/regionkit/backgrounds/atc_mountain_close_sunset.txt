@@ -1,0 +1,60 @@
+PROTECTED
+Parent: none
+Type: AboveCloudsView
+OffsetX: 0
+OffsetY: 0
+---------------
+startAltitude: 20000
+endAltitude: 31400
+cloudsStartDepth: 5
+cloudsEndDepth: 40
+distantCloudsEndDepth: 200
+cloudsCount: 7
+curveCloudDepth: 1
+distantCloudsCount: 11
+overrideYStart: -1600
+overrideYEnd: 0
+daySky: atc_mountain_sunset
+(X-Rivulet)duskSky: AtC_DuskSky
+(Rivulet)duskSky: AtC_DuskSky-Rivulet
+nightSky: AtC_NightSky
+atmosphereColor: FFB7AA
+
+FlyingCloud: 0, 75, 355, 0.35, 0.5, 0.9
+FlyingCloud: 0, 43, 920, 0.15, 0.3, 0.95
+
+DistantBuilding: atc_mountain_sunset2, 2400, -640, 10, 10
+DistantBuilding: atc_mountain_sunset1, 1500, -700, 10, 10
+DistantBuilding: atc_mountain_sunset1, 1000, -750, 10, 10
+DistantBuilding: atc_mountain_sunset2, 2000, -600, 10, 10
+DistantBuilding: atc_mountain_sunset2, 1200, -790, 10, 50
+DistantBuilding: atc_mountain_sunset1, 2100, -800, 10, 50
+DistantBuilding: atc_mountain_sunset2, 2300, -800, 10, 50
+DistantBuilding: atc_mountain_sunset2, 1750, -810, 10, 80
+DistantBuilding: atc_mountain_sunset1, 1000, -890, 10, 100
+DistantBuilding: atc_mountain_sunset2, 1800, -930, 10, 100
+DistantBuilding: atc_mountain_sunset1, 2000, -900, 10, 200
+DistantBuilding: atc_mountain_sunset3, 1500, -900, 10, 150
+DistantBuilding: atc_mountain_sunset4, 2400, -850, 10, 150
+DistantBuilding: atc_mountain_sunset3, 2200, -930, 10, 200
+DistantBuilding: atc_mountain_sunset4, 1800, -930, 10, 200
+DistantBuilding: atc_mountain_sunset4, 1400, -950, 10, 170
+DistantBuilding: atc_mountain_sunset3, 1100, -980, 10, 200
+REMOVE_DistantBuilding: AtC_Structure1, -520, -85, 160, -20
+REMOVE_DistantLightning: AtC_Light1, -520, -119, 160, 55
+REMOVE_DistantBuilding: AtC_Structure2, 88, -37, 350, 0
+REMOVE_DistantLightning: AtC_Light2, 88, -53, 350, 250
+REMOVE_DistantBuilding: AtC_Structure3, -316, -24, 600, -100
+REMOVE_DistantLightning: AtC_Light3, -316, -32, 600, 80
+REMOVE_DistantBuilding: AtC_Structure4, -648, -21, 700, -200
+REMOVE_DistantBuilding: AtC_Structure5, 156, -22, 800, -350
+REMOVE_DistantBuilding: AtC_Structure6, -242, -20, 850, -350
+REMOVE_DistantBuilding: AtC_Spire1, -587, -134, 80, -60
+REMOVE_DistantBuilding: AtC_Spire2, -653, -57, 100, 10
+REMOVE_DistantBuilding: AtC_Spire3, 0, -46, 155, 0
+REMOVE_DistantBuilding: AtC_Spire4, -224, -20, 190, 80
+REMOVE_DistantBuilding: AtC_Spire5, -276, -24, 360, -100
+REMOVE_DistantBuilding: AtC_Spire6, -39, -33, 280, 0
+REMOVE_DistantBuilding: AtC_Spire7, 155, -7, 370, -85
+REMOVE_DistantBuilding: AtC_Spire8, -380, 3, 380, -50
+REMOVE_DistantBuilding: AtC_Spire9, -207, -1, 395, -50

@@ -1,0 +1,12 @@
+Template: VX_SettingsTemplate_BrightBasin
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+BkgDroneVolume: 0
+EffectColorB: 3
+PlacedObjects: LightSource><573.0057><394.0501><0.3478261~EffectColor2~376~-239~-270~-147.3975~0~0~None~0~0, LightSource><558.688><389.5682><0.2173913~EffectColor2~-1~114~-749~-167.3975~0~1~None~0~0, 
+FadePalette: 10, 0.9021739
+WetTerrain: OFF

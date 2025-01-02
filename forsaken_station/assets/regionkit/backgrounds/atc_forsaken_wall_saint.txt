@@ -14,7 +14,7 @@ curveCloudDepth: 1
 distantCloudsCount: 11
 overrideYStart: -1600
 overrideYEnd: 0
-daySky: atc_mountain_sky
+daySky: atc_mountain_saint
 (X-Rivulet)duskSky: AtC_DuskSky
 (Rivulet)duskSky: AtC_DuskSky-Rivulet
 nightSky: AtC_NightSky
