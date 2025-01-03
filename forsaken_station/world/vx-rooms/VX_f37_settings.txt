@@ -1,8 +1,8 @@
 DangerType: None
 CeilingDrips: 0
-WaveSpeed: 0.508371
-WaveLength: 0.9958145
-WaveAmplitude: 9.000058E-05
+WaveSpeed: 0.5216326
+WaveLength: 0.9891837
+WaveAmplitude: 8.999999E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 BkgDroneVolume: 0
@@ -12,4 +12,4 @@ AmbientSounds: SPOT><so_ind-mechhum01.ogg><53.6991><342.7311><0.3586957><1><1225
 FadePalette: 330, 0.326087, 0.326087, 0.326087, 0.326087
 WetTerrain: OFF
 BackgroundOffset: 0,326.0869
-BackgroundType: atc_mountain_far
+BackgroundType: atc_mountain_sunset

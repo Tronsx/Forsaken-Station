@@ -4,9 +4,9 @@ CeilingDrips: 0
 RumbleIntensity: 1
 WaveSpeed: 0.7926085
 WaveLength: 0.2173913
-WaveAmplitude: 0.0326087
-SecondWaveLength: 1
-SecondWaveAmplitude: 0.0001
+WaveAmplitude: 0.03270887
+SecondWaveLength: 0
+SecondWaveAmplitude: 0.6087958
 Palette: 173
 EffectColorA: 0
 Effects: GlowingSwimmers-0.2065217-20-20, SkyBloom-1-32-73, ReplaceEffectColorA-0-684-399-Color-1-0.3369565-0, 

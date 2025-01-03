@@ -2,11 +2,11 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.8043478
 RumbleIntensity: 0.6086956
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
-SecondWaveLength: 1
-SecondWaveAmplitude: 0.0001
+WaveSpeed: 0.7926085
+WaveLength: 0.2173913
+WaveAmplitude: 0.04357844
+SecondWaveLength: 0
+SecondWaveAmplitude: 0.6087958
 Clouds: 0
 Grime: 0
 BkgDroneVolume: 0.3
@@ -17,5 +17,5 @@ WaterReflectionAlpha: 1
 Palette: 3348
 EffectColorA: 18
 EffectColorB: 0
-Effects: ReflectiveWater-1-317-65-Alpha:61.97824-LerpAngle:100, ReplaceEffectColorA-0.2065217-707-378-Color-0.6521739-0.4782609-1, GlowingSwimmers-0.3043478-20-20, 
+Effects: ReplaceEffectColorA-0-777-334-Color-1-0.3369565-0, ReflectiveWater-1-317-65-Alpha:61.97824-LerpAngle:100, GlowingSwimmers-0.3043478-20-20, 
 AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><556.8252><321.4028><0.4021739><1, OMNI><so_sfx-rinsenfall.ogg><561.4592><488.3042><0.4021739><0.1782609, OMNI><am_win-howlingwnd.ogg><741.7081><413.6956><0.3804348><0.3347826, OMNI><am_wat-shoreline.ogg><560.5577><568.5585><0.3586957><0.2565217, OMNI><so_wat-moredrips.ogg><560.6902><409.1884><0.3043478><1, OMNI><so_sfx-deeplake.ogg><741.4987><568.2><0.3043478><1, OMNI><so_sfx-lakebottom.ogg><741.0821><491.8176><0.3043478><1, OMNI><so_wat-driptap.ogg><738.9376><324.1808><0.4565217><1, 

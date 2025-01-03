@@ -1,10 +1,10 @@
 Template: VX_SettingsTemplate_BrightBasin
 RainIntensity: 0.8043478
 RumbleIntensity: 0.6086956
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
-SecondWaveLength: 1
-SecondWaveAmplitude: 0.0001
+WaveSpeed: 0.7926085
+WaveLength: 0.2173913
+WaveAmplitude: 0.04357844
+SecondWaveLength: 0
+SecondWaveAmplitude: 0.6087958
 Grime: 0
 WetTerrain: OFF

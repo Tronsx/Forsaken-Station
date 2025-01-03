@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+WaveSpeed: 0.5398606
+WaveLength: 0.9800697
+WaveAmplitude: 6.57281E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0
+Palette: 3347
+Effects: ReplaceEffectColorB-0.3043478-20-20-Color-0.2717391-0-0.2826087, ReplaceEffectColorA-0.3043478-307-25-Color-1-1-0, SkyBloom-1-133-139, 
+PlacedObjects: ElectricGateData><1484.347><143.371><351~217~True~False~False~True~True~True~True~False~0~1~False~0~1~0.5, CommonGateData><1485.699><450.739><-459~-252~False~False~False~False~False~False~False~True~1~0.5543478~1, ExitSymbolShelter><905.5654><106.0771><, LightSource><1661.391><51.85867><1~EffectColor1~-2~114~50~86.60254~0~0~None~0~0, LightSource><1476.082><44.1091><1~EffectColor1~1~116~50~86.60254~0~0~None~0~0, LightSource><1299.428><45.90906><0.5~EffectColor1~-2~107~50~86.60254~0~0~None~0~0, LightBeam><1520.197><334.5326><8~348~36~347~40~0~0~0~0.497826~0~0~1~None~0~0, LightBeam><1343.18><236.5881><-9~446~91~448~93~-2~121~46~0.497826~0~0~1~None~0~0, LightBeam><1572.944><266.058><-7~424~45~421~54~0~-465~-31~0.497826~0~0~1~None~0~0, CustomDecal><527.3599><371.8329><11~219~229~223~231~1~-515~-158~0~1~0~deadkid~1~0.6086956~0.7826087~0~0.7065217~0.4565217~0.5~0.2173913, CustomDecal><1067.1><568.8682><16~-186~-333~-187~-343~4~-718~-564~0~1~0~albinooctopus~0.6521739~0.5760869~0.2282609~0.1521739~0.07608695~0.6195652~0.1847826~0.8586956, CustomDecal><1009.616><322.8369><-51~250~-579~259~-582~5~-1015~-253~0~0.3804348~0~bigscaryblueface~0~0.4130435~0.4565217~0.9130435~0.4456522~0.4347826~0~0.4565217, 
+AmbientSounds: OMNI><am_sub-blankstate.ogg><709.2466><444.05><0.4021739><0.6086956, OMNI><am_win-nicewnd.ogg><710.4286><368.66><0.2065217><1, OMNI><am_sub-cavetone.ogg><703.4446><524.1921><0.3043478><1, SPOT><am_ind-deephum.ogg><578.6806><424.1876><0.3586957><1><1480.681><151.1876><-151.3553><67.64465><0><0.154348, 
+FadePalette: 3348, 0.6521739, 0.6521739, 0.6521739
+WetTerrain: OFF
+MorePalette0: 10, 0.3043478, 0.3043478, 0.3043478

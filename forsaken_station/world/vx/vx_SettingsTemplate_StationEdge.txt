@@ -2,9 +2,9 @@ DangerType: Rain
 CeilingDrips: 0
 RainIntensity: 0.8043478
 RumbleIntensity: 0.6086956
-WaveSpeed: 0.522358
-WaveLength: 0.988821
-WaveAmplitude: 0.0001116548
+WaveSpeed: 0.4670335
+WaveLength: 0.9835168
+WaveAmplitude: 8.503043E-09
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1521739
@@ -17,5 +17,5 @@ WaterReflectionAlpha: 1
 Palette: 330
 EffectColorA: 0
 EffectColorB: 0
-Effects: LightRain-0-13-16, FairyParticles-1-16-81, AboveCloudsView-1-281-23, Wasp-0.5-281-79, RockFlea-0.3043478-280-135, ReplaceEffectColorA-0.3043478-473-518-Color-1-1-0, ReplaceEffectColorB-0.1086956-708-388-Color-0.2717391-0-0.2826087, 
+Effects: Coldness-1-5-138, LightRain-0-13-16, FairyParticles-1-16-81, AboveCloudsView-1-281-23, Wasp-0.5-281-79, RockFlea-0.3043478-280-135, ReplaceEffectColorA-0.3043478-473-518-Color-1-1-0, ReplaceEffectColorB-0.1086956-708-388-Color-0.2717391-0-0.2826087, 
 AmbientSounds: OMNI><am_win-nicewnd.ogg><466.8903><494.1426><0.3043478><1, OMNI><am_win-strongwnd2.ogg><468.5568><405.5518><0.4565217><1, 

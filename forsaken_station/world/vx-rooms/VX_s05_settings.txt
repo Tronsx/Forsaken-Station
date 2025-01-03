@@ -1,12 +1,12 @@
 Template: NONE
 DangerType: None
 CeilingDrips: 0
-WaveSpeed: 0.5398877
-WaveLength: 0.9800562
-WaveAmplitude: 7.3214E-05
+WaveSpeed: 0.4303172
+WaveLength: 0.9651586
+WaveAmplitude: 0.0003542699
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-Grime: 0.1521739
+Grime: 0
 BkgDroneVolume: 0
 Palette: 3347
 EffectColorB: 3

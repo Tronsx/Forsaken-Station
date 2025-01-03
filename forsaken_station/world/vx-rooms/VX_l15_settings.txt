@@ -1,0 +1,13 @@
+Template: VX_SettingsTemplate_BrightBasin
+CeilingDrips: 0
+WaveSpeed: 0.7926085
+WaveLength: 0.2173913
+WaveAmplitude: 0.04357844
+SecondWaveLength: 0
+SecondWaveAmplitude: 0.6087958
+EffectColorB: 3
+Effects: SkyBloom-1-35-71, 
+PlacedObjects: LightSource><677.7864><591.3033><0.5652174~Environment~32~-209~-294~-277.3975~0~0~None~0~0, LightSource><696><260><0.5869565~Environment~251~-133~-294~-277.3975~0~0~None~0~0, LightSource><673.6973><588.3071><0.1195652~Environment~-35~-200~-254~-177.3975~0~1~None~0~0, LightSource><726><253><0.1195652~Environment~-35~-200~-254~-177.3975~0~1~None~0~0, LightBeam><674.8><236.7482><-95~423~67~443~182~4~-268~-71~0.421739~0~0~0~None~0~0, LightBeam><739><266><-95~423~-34~438~87~9~-268~-71~0.4652173~0~0~0~None~0~0, LightBeam><682><241><-95~423~-76~435~52~21~-268~-71~0.4652173~0~0~0~None~0~0, LightBeam><752><189><-127~491~-87~493~52~21~-268~-71~0.4652173~0~0~0~None~0~0, LightBeam><807><235><-127~491~-110~497~16~7~-268~-71~0.4652173~0~0~0~None~0~0, LightSource><1492.196><380.8073><0.3043478~EffectColor2~119~-268~-244~-139.3975~0~0~None~0~0, LightSource><1493><378><0.1521739~EffectColor2~46~-106~-342~28.60248~0~1~None~0~0, 
+AmbientSounds: SPOT><so_wat-pour.ogg><556.0517><309.474><0.3586957><1><1648.052><195.474><-74.35535><-54.35535><0><0.1, 
+FadePalette: 10, 1, 1
+WetTerrain: OFF
