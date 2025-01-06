@@ -1,15 +1,15 @@
 Template: NONE
 CeilingDrips: 0
-WaveSpeed: 0.5762843
-WaveLength: 0.9618578
-WaveAmplitude: 0.000517467
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1521739
 Grime: 0
 BkgDroneVolume: 0
 Palette: 3347
-Effects: SkyAndLightBloom-0.1521739-281-83, RockFlea-0.3043478-20-20, Wasp-0.5-14-86, ReplaceEffectColorA-0-529-554-Color-0-0-0, ReplaceEffectColorB-0.05434782-701-414-Color-0.09782609-0.2391304-0.2717391, 
+Effects: SkyAndLightBloom-0.1521739-281-83, RockFlea-0.3043478-20-20, Wasp-0.5-14-86, ReplaceEffectColorA-0-529-554-Color-0-0-0, ReplaceEffectColorB-0.05434782-701-414-Color-0.09782609-0.2391304-0.2717391, Coldness-1-282-23, 
 AmbientSounds: OMNI><am_sub-blankstate.ogg><703.1745><163.9023><0.4021739><0.6478261, OMNI><am_win-nicewnd.ogg><700.7097><243.1959><0.25><1, 
 FadePalette: 10, 0.3043478
 WetTerrain: OFF

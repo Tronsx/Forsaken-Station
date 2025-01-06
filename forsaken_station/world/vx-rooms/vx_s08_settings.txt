@@ -1,12 +1,12 @@
 DangerType: None
 CeilingDrips: 0
-WaveSpeed: 0.4889884
-WaveLength: 0.9944942
-WaveAmplitude: 8.220916E-05
+WaveSpeed: 0.4957058
+WaveLength: 0.9978529
+WaveAmplitude: 9.006025E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 BkgDroneVolume: 0
-Effects: SkyAndLightBloom-0.1521739-299-301, 
+Effects: SkyAndLightBloom-0.1521739-299-301, Coldness-1-304-69, 
 FadePalette: 330, 0.2065217
 WetTerrain: OFF
 MorePalette0: 10, 0.5

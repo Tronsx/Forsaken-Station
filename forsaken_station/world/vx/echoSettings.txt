@@ -1,0 +1,9 @@
+(White,Yellow, Red)priming : true
+(Saint)priming : saint
+size : 1
+minkarma : 0
+minkarmacap : 1
+radius : 4
+echosong : FT
+room : VX_F32
+defaultflip : -1

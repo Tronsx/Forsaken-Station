@@ -172,4 +172,105 @@ VX_Flat : DISCONNECTED
 END ROOMS
 CREATURES
 
+OFFSCREEN : 0-Blizzor-30, 0-Vulture-3, 0-MirosVulture-5, 0-BigEel-3, 0-Scavenger
+VX_L02 : 4-Mole Salamander-2, 3-Mole Salamander
+VX_L10 : 3-Mole Salamander
+VX_L11 : 2-Mole Salamander
+VX_L04 : 4-Mole Salamander, 5-Mole Salamander-2
+VX_L06 : 3-Mole Salamander
+VX_L16 : 2-Mole Salamander, 3-Mole Salamander, 5-AquaCenti, 4-Snail
+GATE_TX_FT : 4-Mole Salamander, 3-TentaclePlant
+VX_L15 : 2-TentaclePlant, 3-Snail
+VX_L05 : 2-TentaclePlant
+VX_L01 : 4-Mole Salamander, 3-MotherSpider
+VX_L08 : 2-MotherSpider
+VX_X02 : 3-MotherSpider
+VX_X01 : 3-Eel
+VX_X05 : 3-Eel
+VX_X13 : 3-Eel
+VX_X14 : 4-Eel, 3-BigSpider
+VX_F02 : 4-Eel, 5-Snail, 6-JetFish-2
+VX_F01 : 3-Snail, 4-Snail-2
+VX_X07 : 2-BlueLizard
+VX_X23 : 2-BlueLizard
+VX_X25 : 5-BlueLizard, 4-TentaclePlant
+VX_N02 : 3-ZoopLizard
+VX_X19 : 5-ZoopLizard, 7-WhiteLizard, 4-HoverFly, 6-HoverFly
+VX_X09 : 2-BigSpider
+VX_X24 : 2-BigSpider
+VX_X26 : 2-BigSpider
+VX_R05 : 2-Cicada, 2-CicadaA, 2-CicadaA
+VX_R04 : 2-Centiwing
+VX_R08 : 4-Centiwing, 3-HoverFly, 5-ZoopLizard
+VX_R10 : 2-CicadaA, 2-CicadaB, 2-CicadaB
+VX_R07 : 5-Snail, 5-Snail, 4-TentaclePlant
+VX_R06 : 5-PoleMimic-{18}, 4-WhiteLizard, 3-Yeek-2
+VX_R40 : 2-Centiwing
+VX_R17 : 2-HoverFly, 2-HoverFly
+VX_R16 : 1-CicadaA, 1-CicadaA, 1-CicadaB
+VX_R02 : 2-CyanLizard
+VX_X18 : 3-Yeek
+VX_N08 : 5-Yeek, 4-Yeek, 6-ZoopLizard, 7-SpitLizard
+VX_N09 : 3-Yeek
+VX_X21 : 2-BigSpider
+VX_Long1 : 3-MotherSpider
+VX_Long2 : 3-BigSpider
+VX_R01 : 6-Centiwing, 5-CicadaA, 4-CicadaB, 7-ZoopLizard
+VX_R12 : 5-Centiwing, 6-HoverFly
+VX_R11 : 2-HoverFly, 3-WhiteLizard
+VX_R22 : 1-CyanLizard
+VX_R25 : 6-ZoopLizard, 4-WhiteLizard
+VX_F06 : 3-MotherSpider, 4-Spider-7
+VX_Vent2 : 2-SpitterSpider
+VX_F04 : 3-BigSpider
+VX_F10 : 6-BigSpider, 5-Spider-6
+VX_Vent5 : 2-BigSpider
+VX_Vent3 : 4-BigSpider
+VX_F11 : 6-Spider-7, 4-MotherSpider
+VX_Vent4 : 2-Spider-4
+VX_F03 : 2-Spider-5
+VX_Vent1 : 4-BigSpider
+VX_F07 : 2-Spider-6
+VX_N10 : 2-SpitterSpider
+VX_F37 : 2-SpitLizard
+VX_F17 : 3-SpitLizard
+VX_N14 : 3-SpitLizard
+VX_F45 : 3-WhiteLizard
+VX_F19 : 5-SpitLizard, 4-Scutigera, 3-YellowLizard-2
+VX_F27 : 2-Scutigera, 3-SpitLizard
+VX_F22 : 3-Scutigera, 2-CicadaA-2
+VX_F28 : 3-Scutigera, 5-ZoopLizard
+VX_F29 : 2-Scutigera, 3-CicadaA, 3-CicadaB
+VX_F42 : 3-BigSpider
+VX_F43 : 2-BigSpider
+VX_R33 : 2-Eel
+VX_R34 : 4-Eel, 3-TentaclePlant
+VX_R29 : 2-Eel
+VX_F30 : 5-YellowLizard-2, 6-YellowLizard, 7-YellowLizard
+VX_F21 : 5-YellowLizard, 4-YellowLizard, 6-YellowLizard
+VX_F18 : 4-YellowLizard, 3-YellowLizard-2
+VX_F26 : 2-WhiteLizard
+VX_F35 : 2-YellowLizard-2
+VX_F25 : 4-YellowLizard, 3-YellowLizard
+VX_F31 : 2-HoverFly-2, 3-PoleMimic-{24}
+VX_F41 : 3-Spider-6
+VX_F40 : 4-Spider-7
+VX_X17 : 1-Yeek-2
+VX_R35 : 4-Snail-2
+VX_R32 : 4-Snail-2
+VX_R36 : 2-Snail-2
+VX_R27 : 3-WhiteLizard
+VX_R24 : 4-SpitLizard
+VX_R26 : 3-ZoopLizard, 2-CicadaA, 2-CicadaB, 2-CicadaB
+VX_R21 : 4-Centiwing
+VX_R30 : 4-BlueLizard
+VX_R31 : 4-BlueLizard
+VX_R38 : 3-PoleMimic-{20}, 2-SpitLizard
+VX_R19 : 1-HoverFly-2
+VX_F24 : 3-ZoopLizard
+VX_R28 : 2-ZoopLizard
+VX_R39 : 3-BlueLizard
+VX_F13 : 5-TentaclePlant, 4-Eel
+VX_F12 : 3-Eel, 2-Snail-2
+VX_F14 : 2-Snail-2
 END CREATURES
