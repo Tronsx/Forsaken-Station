@@ -1,12 +1,16 @@
-Template: FT_SettingsTemplate_Deepside
-CeilingDrips: 0.8043478
+Template: NONE
+DangerType: None
+CeilingDrips: 0
 RumbleIntensity: 1
-WaveSpeed: 0.5652174
-WaveLength: 0.6630435
-WaveAmplitude: 0.1413043
-SecondWaveLength: 0.1666667
-SecondWaveAmplitude: 0
-Effects: GlowingSwimmers-0-30-30, Beetle-0.2065217-32-94, RockFlea-0.2065217-287-97, ReplaceEffectColorA-0-267-187-Color-1-0.3369565-0, 
-PlacedObjects: SlimeMold><547.5966><1164.129><-567~-21~2~3, SlimeMold><546.6187><1091.849><-566~-33~2~3, SlimeMold><492.5649><1087.081><-511~-116~2~3, SlimeMold><474.5807><1090.74><-494~-208~2~3, CosmeticSlimeMold><516.6958><1128.558><-4~84, LightSource><344.1475><300.1717><0.4565217~Environment~0~100~50~86.60254~0~1~None~0~0, ColouredLightSource><342.545><301.0551><60~-120~FFFFFF~-325^34~1~False~1~0.7173913~0.5~Always~0~100, LightFixture><518.388><1123.334><SlimeMoldLight~-311.6795~226~10, 
-AmbientSounds: SPOT><SO_SFX-DeepLake.ogg><114.0566><153.3082><0.3043478><1><442.0566><196.3082><-418.3553><-94.35535><0><0.1, SPOT><SO_SFX-LakeBottom.ogg><108.4738><265.4483><0.3043478><1><448.4738><189.4483><-399.3553><-162.3553><0><0.1, SPOT><SO_SFX-RinseNFall.ogg><110.5505><379.4435><0.4021739><0.1782609><451.5504><186.4435><-398.3553><-153.3553><0><0.1, OMNI><AM_WAT-Shoreline.ogg><560.5577><568.5585><0><1, OMNI><SO_SFX-DeepLake.ogg><741.4987><568.2><0><1, OMNI><SO_SFX-LakeBottom.ogg><741.0821><491.8176><0><1, OMNI><SO_SFX-RinseNFall.ogg><561.4592><488.3042><0><1, OMNI><AM_WIN-HowlingWnd.ogg><741.7081><413.6956><0.3043478><0.3347826, SPOT><AM_SUB-BlankState.ogg><110.6979><496.0287><0.3804348><1><529.698><1375.029><-591.3553><-587.3553><0><0.1, SPOT><Weird Deep Hole.wav><295.6448><500.1379><0.2065217><0.7065217><529.6448><1375.138><-556.3553><-625.3553><0><0.1, SPOT><SO_IND-FlourLight.ogg><303.8634><378.1648><0.5><0.8043478><341.8634><301.1648><-103.3553><-101.3553><0><0.1, SPOT><SO_IND-WeirdVent.ogg><303.3173><270.9186><0.2065217><1><571.3173><1777.919><-398.3553><-160.3553><0><0.1, SPOT><AM_IND-50hz.ogg><302.9467><154.1928><0.4021739><1><506.9467><1131.193><-72.35535><-59.35535><0><0.1, OMNI><so_wat-moredrips.ogg><542.6902><80.18839><0><1, OMNI><so_wat-driptap.ogg><738.9376><324.1808><0><1, OMNI><so_sfx-lakebottom.ogg><725.0821><76.8176><0><1, OMNI><so_sfx-deeplake.ogg><713.4987><241.2><0><1, OMNI><am_wat-shoreline.ogg><485.5577><261.5585><0><1, OMNI><am_win-howlingwnd.ogg><713.7081><177.6956><0><1, OMNI><so_sfx-rinsenfall.ogg><524.4592><180.3042><0><1, 
-FadePalette: 10, 0.8043478, 0.9021739, 1
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 3345
+EffectColorB: 4
+Effects: GlowingSwimmers-0-30-30, Beetle-0.2065217-32-94, RockFlea-0.2065217-287-97, ReplaceEffectColorA-0-703-382-Color-1-0.3369565-0, ReflectiveWater-1-298-21-Alpha:61.97824-LerpAngle:100, 
+PlacedObjects: SlimeMold><547.5966><1164.129><-567~-21~2~3, SlimeMold><546.6187><1091.849><-566~-33~2~3, SlimeMold><492.5649><1087.081><-511~-116~2~3, SlimeMold><474.5807><1090.74><-494~-208~2~3, CosmeticSlimeMold><516.6958><1128.558><-4~84, LightSource><266.1475><358.1717><0.1521739~EffectColor2~6~125~9~26.60254~0~1~None~0~0, LightFixture><518.388><1123.334><SlimeMoldLight~-311.6795~226~10, LightSource><258.5521><354.6931><0.4456522~EffectColor2~314~-235~7~154.6026~0~0~None~0~0, LightSource><676.5658><1756.672><0.2173913~EffectColor2~-67~-123~-480~-101.3975~0~1~None~0~0, LightSource><677.3279><1748.898><0.5217391~EffectColor2~-483~-42~50~86.60254~0~0~None~0~1, 
+AmbientSounds: SPOT><SO_SFX-DeepLake.ogg><126.0566><168.3082><0.3043478><1><442.0566><196.3082><-591.3553><412.6447><0><0.1, SPOT><SO_SFX-LakeBottom.ogg><108.4738><265.4483><0.3043478><1><448.4738><189.4483><-616.3553><451.6447><0><0.1, SPOT><SO_SFX-RinseNFall.ogg><110.5505><379.4435><0.4021739><0.1782609><451.5504><186.4435><-596.3553><377.6447><0><0.1, OMNI><AM_WAT-Shoreline.ogg><560.5577><568.5585><0><1, OMNI><SO_SFX-DeepLake.ogg><741.4987><568.2><0><1, OMNI><SO_SFX-LakeBottom.ogg><741.0821><491.8176><0><1, OMNI><SO_SFX-RinseNFall.ogg><561.4592><488.3042><0><1, OMNI><AM_WIN-HowlingWnd.ogg><741.7081><413.6956><0.3043478><0.3347826, SPOT><AM_SUB-BlankState.ogg><110.6979><496.0287><0.3804348><1><529.698><1375.029><-591.3553><-587.3553><0><0.1, SPOT><Weird Deep Hole.wav><295.6448><500.1379><0.2065217><0.7065217><529.6448><1375.138><-556.3553><-625.3553><0><0.1, SPOT><SO_IND-WeirdVent.ogg><303.3173><270.9186><0.2065217><1><571.3173><1777.919><-398.3553><-160.3553><0><0.1, SPOT><AM_IND-50hz.ogg><302.9467><154.1928><0.4021739><1><506.9467><1131.193><-72.35535><-59.35535><0><0.1, OMNI><so_wat-moredrips.ogg><542.6902><80.18839><0><1, OMNI><so_wat-driptap.ogg><738.9376><324.1808><0><1, OMNI><so_sfx-lakebottom.ogg><725.0821><76.8176><0><1, OMNI><so_sfx-deeplake.ogg><713.4987><241.2><0><1, OMNI><am_wat-shoreline.ogg><485.5577><261.5585><0><1, OMNI><am_win-howlingwnd.ogg><713.7081><177.6956><0><1, OMNI><so_sfx-rinsenfall.ogg><524.4592><180.3042><0><1, OMNI><AM_ENV-SubTerr.ogg><553.3069><404.302><0.4021739><1, 
+FadePalette: 10, 0.9456522, 0.9782609, 1
+WetTerrain: OFF

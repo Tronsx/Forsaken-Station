@@ -1,5 +1,14 @@
 Template: NONE
-Palette: 173
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 3345
+EffectColorB: 4
 Effects: RockFlea-0.2065217-20-20, Beetle-0.2065217-17-86, 
-AmbientSounds: OMNI><AM_SUB-BlankState.ogg><775.8994><372.367><0.3804348><1, OMNI><AM_WIN-HowlingWnd.ogg><761.9281><531.9089><0.3043478><0.3347826, OMNI><Weird Deep Hole.wav><777.5928><454.1237><0.2065217><0.7065217, 
-FadePalette: 10, 0.8804348
+PlacedObjects: LightSource><441.0188><327.5509><0.4565217~EffectColor2~-403~127~50~86.60254~0~0~None~0~0, LightSource><442.3569><320.4191><0.1847826~EffectColor2~0~100~50~86.60254~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><775.8994><372.367><0.3804348><1, OMNI><AM_WIN-HowlingWnd.ogg><761.9281><531.9089><0.3043478><0.3347826, OMNI><Weird Deep Hole.wav><777.5928><454.1237><0.2065217><0.7065217, OMNI><AM_ENV-SubTerr.ogg><710.6332><234.8376><0.4021739><1, 
+FadePalette: 10, 0.9782609
+WetTerrain: OFF
