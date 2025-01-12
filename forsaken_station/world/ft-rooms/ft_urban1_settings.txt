@@ -1,0 +1,5 @@
+Template: FT_SettingsTemplate_Behindworks
+Grime: 0.2065217
+Effects: Darkness-0.3586957-34-80, 
+PlacedObjects: FanLight><544.4188><415.6428><17.32051~-10~39~1~0~0~50~FanLightMask1~0~155~0~0, 
+FadePalette: 174, 0.25, 0.173913
