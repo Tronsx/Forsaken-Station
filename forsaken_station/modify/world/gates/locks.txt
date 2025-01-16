@@ -6,4 +6,5 @@ GATE_GC_FT : Forbidden : Forbidden
 GATE_FT_NC : Forbidden : Forbidden
 GATE_FT_HI : 2 : 5
 GATE_TX_FT : 4 : 2
+GATE_FT_0H : 3 : 3
 [ENDMERGE]
