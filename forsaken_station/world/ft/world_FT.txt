@@ -516,4 +516,15 @@ FT_R40 : 2-SmallCentipede-{Ignorecycle}
 (Rivulet)FT_L11 : 2-Snail-2
 (Rivulet)FT_L01 : 3-Mole Salamander
 (Rivulet)FT_R27 : 4-Salamander
+
+FT_Urban5 : 4-TentaclePlant, 3-DropBug
+FT_Urban2 : 6-BigSpider, 5-SmallCentipede-2
+(White,Yellow,Rivulet)FT_Urban3 : 2-BlueLizard
+(White,Yellow,Rivulet)FT_Urban2 : 4-Centipede
+FT_Urban1 : 2-BigSpider
+FT_Urban4 : 2-SmallCentipede
+(Red,Gourmand,Artificer,Spear)FT_Urban2 : 7-SpitterSpider, 4-Scutigera
+(Red,Artificer,Spear,Rivulet)GATE_FT_0H : 4-TentaclePlant
+(Red,Gourmand,Artificer,Spear)FT_Urban3 : 2-WhiteLizard
+(Red,Gourmand,Artificer,Spear)GATE_FT_0H : 3-SpitterSpider
 END CREATURES
