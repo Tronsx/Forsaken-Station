@@ -521,6 +521,7 @@ FT_Urban5 : 4-TentaclePlant, 3-DropBug
 FT_Urban2 : 6-BigSpider, 5-SmallCentipede-2
 (White,Yellow,Rivulet)FT_Urban3 : 2-BlueLizard
 (White,Yellow,Rivulet)FT_Urban2 : 4-Centipede
+(White,Yellow)GATE_FT_0H : 4-PoleMimic-{17}
 FT_Urban1 : 2-BigSpider
 FT_Urban4 : 2-SmallCentipede
 (Red,Gourmand,Artificer,Spear)FT_Urban2 : 7-SpitterSpider, 4-Scutigera

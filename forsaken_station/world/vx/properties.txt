@@ -1,5 +1,8 @@
 Palette: 125
 kelpColor: 0.1, 0.9, 0.7
+scavMainTradeItem: Lantern
+scavTradeItems: PureCrystal-0.055, RockFruit-0.09
+scavGearItems: PureCrystal-0.05, RockFruit-0.07
 batDepleteCyclesMin: 2
 batDepleteCyclesMax: 7
 batDepleteCyclesMaxIfLessThanTwoLeft: 3

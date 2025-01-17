@@ -15,11 +15,20 @@ VX_F14 : VX_X14, VX_F13
 VX_F16 : VX_Vent3, VX_N10
 VX_F17 : VX_F20, VX_F44
 
-VX_Vent1 : DISCONNECTED, VX_F07, VX_Vent2
+VX_Vent1 : VX_Urban6, VX_F07, VX_Vent2
 VX_Vent2 : VX_Vent1, VX_Vent3
 VX_Vent3 : VX_F45, VX_F16, VX_Vent2
 VX_Vent4 : VX_N10, VX_Vent5
 VX_Vent5 : VX_Vent4, VX_F11
+
+VX_Urban6 : VX_Urban2, VX_Vent1
+VX_Urban2 : VX_Urban3, VX_Urban6, VX_Urban5
+VX_Urban3 : VX_Urban2, VX_Urban4
+VX_Urban4 : VX_Urban3, GATE_FT_0H
+VX_Urban5 : VX_Urban2, GATE_FT_0H, VX_SUrban
+VX_SUrban : VX_Urban5 : SHELTER
+GATE_FT_0H : VX_Urban4, VX_Urban5, DISCONNECTED : GATE
+
 
 VX_FishSwallower : VX_F21
 
@@ -274,4 +283,9 @@ VX_R39 : 3-BlueLizard
 VX_F13 : 5-TentaclePlant, 4-Eel
 VX_F12 : 3-Eel, 2-Snail-2
 VX_F14 : 2-Snail-2
+GATE_FT_0H : 4-PoleMimic-{17}
+VX_Urban5 : 4-TentaclePlant, 3-SpitLizard
+VX_Urban3 : 2-MotherSpider
+VX_Urban2 : 3-BigSpider
+VX_Urban4 : 2-Spider-8
 END CREATURES
