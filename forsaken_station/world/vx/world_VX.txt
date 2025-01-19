@@ -1,3 +1,8 @@
+CONDITIONAL LINKS
+
+TrynsEvergreen : REPLACEROOM : VX_Ever2B : VX_Ever2A
+
+END CONDITIONAL LINKS
 
 ROOMS
 VX_F01 : VX_F03, GATE_FT_SB, VX_F02
@@ -48,7 +53,12 @@ VX_F30 : VX_F31, VX_F29, VX_F28, VX_F33, VX_S08
 VX_F31 : VX_F32, VX_F30
 VX_F32 : VX_F31
 VX_F33 : VX_F30
-VX_F34 : VX_F27, VX_F37
+
+VX_F34 : VX_F27, VX_Ever1, VX_F37
+
+VX_Ever1 : VX_Ever2B, VX_F34
+VX_Ever2B : VX_Ever1
+
 VX_F35 : VX_F36, VX_F25
 VX_F36 : VX_F35, VX_R20
 VX_F37 : VX_F34, VX_F44
@@ -288,4 +298,6 @@ VX_Urban5 : 4-TentaclePlant, 3-SpitLizard
 VX_Urban3 : 2-MotherSpider
 VX_Urban2 : 3-BigSpider
 VX_Urban4 : 2-Spider-8
+VX_Ever2B : 1-SpitLizard
+VX_Ever1 : 2-ZoopLizard
 END CREATURES
