@@ -1,0 +1,17 @@
+VX_landscape_11 : 10
+VX_landscape_10 : 9
+VX_landscape_9 : 8
+VX_landscape_8 : 7
+VX_landscape_7 : 6
+VX_landscape_6 : 5
+VX_landscape_5 : 4
+VX_landscape_4 : 3
+VX_landscape_3 : 2
+VX_landscape_2 : 1 
+VX_landscape_1 : 0.5 
+
+blurMin : 0.2
+blurMax : 0.8
+idleDepths : 4
+idleDepths : 5
+idleDepths : 7
