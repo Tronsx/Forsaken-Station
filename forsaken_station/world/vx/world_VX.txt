@@ -224,7 +224,7 @@ VX_R05 : 2-Cicada, 2-CicadaA, 2-CicadaA
 VX_R04 : 2-Centiwing
 VX_R08 : 4-Centiwing, 3-HoverFly, 5-ZoopLizard
 VX_R10 : 2-CicadaA, 2-CicadaB, 2-CicadaB
-VX_R07 : 5-Snail, 5-Snail, 4-TentaclePlant
+VX_R07 : 4-Snail-2
 VX_R06 : 5-PoleMimic-{18}, 4-WhiteLizard, 3-Yeek-2
 VX_R40 : 2-Centiwing
 VX_R17 : 2-HoverFly, 2-HoverFly
