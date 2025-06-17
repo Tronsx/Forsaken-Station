@@ -1,4 +1,4 @@
-Template: FT_SettingsTemplate_Coldtracks
+Template: ft_settingstemplate_coldtracks
 DangerType: None
 RainIntensity: 0
 RumbleIntensity: 0

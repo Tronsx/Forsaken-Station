@@ -1,0 +1,47 @@
+PROTECTED
+Parent: none
+Type: AboveCloudsView
+OffsetX: 0
+OffsetY: 0
+---------------
+startAltitude: 20000
+endAltitude: 31400
+cloudsStartDepth: 39
+cloudsEndDepth: 40
+distantCloudsEndDepth: 1000
+cloudsCount: 80
+curveCloudDepth: 10
+distantCloudsCount: 100
+overrideYStart: -1600
+overrideYEnd: 0
+daySky: atc_fog_sky
+(X-Rivulet)duskSky: AtC_DuskSky
+(Rivulet)duskSky: AtC_DuskSky-Rivulet
+nightSky: AtC_NightSky
+atmosphereColor: 6794b2
+windDir: 1
+
+FlyingCloud: 0, 75, 355, 0.35, 0.5, 0.9
+FlyingCloud: 0, 43, 920, 0.15, 0.3, 0.95
+
+DistantBuilding: atc_mountain_far1, 30, -340, 140, 1000
+DistantBuilding: atc_mountain_far2, 1000, -220, 100, 1000
+DistantBuilding: atc_mountain_far2, 200, -200, 60, 1000
+DistantBuilding: AtC_Structure1, 520, -85, 160, 1000
+DistantLightning: AtC_Light1, 520, -119, 160, 1000
+DistantBuilding: AtC_Structure2, 88, -37, 350, 1000
+DistantLightning: AtC_Light2, 88, 53, 350, 1000
+DistantBuilding: AtC_Structure3, 316, -24, 600, 1000
+DistantLightning: AtC_Light3, 316, -32, 600, 1000
+DistantBuilding: AtC_Structure4, 548, -21, 700, 1000
+DistantBuilding: AtC_Structure5, 356, -22, 800, 1000
+DistantBuilding: AtC_Structure6, 242, -20, 850, 1000
+DistantBuilding: AtC_Spire1, 587, -134, 80, 1000
+DistantBuilding: AtC_Spire2, 453, -57, 100, 1000
+DistantBuilding: AtC_Spire3, 0, -46, 155, 1000
+DistantBuilding: AtC_Spire4, 224, -20, 190, 1000
+DistantBuilding: AtC_Spire5, 276, -24, 360, 1000
+DistantBuilding: AtC_Spire6, 139, -33, 280, 1000
+DistantBuilding: AtC_Spire7, 155, -7, 370, 1000
+DistantBuilding: AtC_Spire8, 380, 3, 380, 1000
+DistantBuilding: AtC_Spire9, 207, -1, 395, 1000

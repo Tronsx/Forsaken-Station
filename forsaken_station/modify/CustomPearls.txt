@@ -3,3 +3,4 @@
 [ADD] FT_Network_Pearl : ed28bf : e31080 : FT_Fog
 [ADD] FT_Underground_Pearl : ff7b00 : e3b009 : FT_Extraction
 [ADD] FT_Waterfalls_Pearl : 6f4ecf : 7a0de0 : FT_Map
+[ADD] FT_Language_Pearl : 1b16ff : f60000 : FT_Alive

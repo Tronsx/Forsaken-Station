@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.1521739
+Grime: 0
+BkgDroneVolume: 0
+Palette: 330
+Effects: FairyParticles-0-20-20, SkyAndLightBloom-0.1521739-31-75, ReplaceEffectColorA-0.3043478-494-503-Color-1-1-0, ReplaceEffectColorB-0.1086956-725-366-Color-0.2717391-0-0.2826087, RockFlea-0.3043478-308-78, Wasp-0.5-301-27, AboveCloudsView-1-30-131, 
+PlacedObjects: CustomDecal><366.4186><157.0673><-8~292~244~285~251~-1~-387~-21.99998~0.3152174~1~0~rust5~0.6956522~1~0.4130435~1~0.6086956~1~0.4565217~1, 
+AmbientSounds: OMNI><am_win-nicewnd.ogg><700.7097><243.1959><0><1, OMNI><am_win-strongwnd2.ogg><700.2203><328.9478><0><1, OMNI><am_win_hilltop.ogg><690.8013><486.5231><0.3586957><1, SPOT><am_win-medwind.ogg><308.564><245.5736><0.4565217><1><474.564><319.5735><-91.35535><-107.3553><0><0.1, 
+FadePalette: 10, 0.2065217
+BackgroundOffset: 0,217
+BackgroundType: atc_mountain_fog
