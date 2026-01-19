@@ -1,3 +1,4 @@
+Template: NONE
 Clouds: 0.1521739
 Grime: 0
 BkgDroneVolume: 0

@@ -1,4 +1,4 @@
-Template: FT_SettingsTemplate_Deepside
+Template: ft_settingstemplate_deepside
 DangerType: Flood
 CeilingDrips: 1
 RumbleIntensity: 1
@@ -15,4 +15,3 @@ AmbientSounds: OMNI><SO_SFX-RinseNFall.ogg><770.9731><335.1122><0><0.1815138, OM
 Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>ft_barotrauma<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>613.8636<tB>358.6646<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB>, 
 FadePalette: 10, 1, 1, 1, 1, 0.9558286, 1, 1, 1, 1
 BackgroundOffset: -1956.522,217.3913
-BackgroundType: ftv_endless_lake
