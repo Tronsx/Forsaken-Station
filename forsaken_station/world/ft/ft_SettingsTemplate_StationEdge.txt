@@ -17,5 +17,5 @@ WaterReflectionAlpha: 1
 Palette: 330
 EffectColorA: 0
 EffectColorB: 0
-Effects: AboveCloudsView-1-281-23, Wasp-0.5-281-79, RockFlea-0.3043478-280-135, ReplaceEffectColorA-0.3043478-473-518-Color-1-1-0, ReplaceEffectColorB-0.1086956-708-388-Color-0.2717391-0-0.2826087, FairyParticles-0-18-87, LightRain-0.2065217-20-20, 
+Effects: AboveCloudsView-1-293-17, DenseFog-0.4021739-269-138, DenseFogSoundVolume-0.1086956-11-137, Wasp-0.5-281-79, RockFlea-0.3043478-280-135, ReplaceEffectColorA-0.3043478-473-518-Color-1-1-0, ReplaceEffectColorB-0.1086956-708-388-Color-0.2717391-0-0.2826087, FairyParticles-0-18-87, LightRain-0.2065217-20-20, 
 AmbientSounds: OMNI><am_win_hilltop.ogg><463.8014><579.9764><0.6086956><1, OMNI><am_win-nicewnd.ogg><466.8903><494.1426><0.3043478><1, OMNI><am_win-strongwnd2.ogg><468.5568><405.5518><0.4565217><1, 

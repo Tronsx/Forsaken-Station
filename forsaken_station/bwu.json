@@ -1,12 +1,13 @@
 {
   "WorkshopID": 3304867363,
   "LatestGameVersion": "v1.11.5",
-  "UpdateTitle": true,
-  "UpdateDescription": true,
+  "UpdateTitle": false,
+  "UpdateDescription": false,
   "MarkAsPublic": true,
   "Tags": [
     "Regions",
     "Creatures",
-    "Game Mechanics"
+    "Game Mechanics",
+    "Base"
   ]
 }

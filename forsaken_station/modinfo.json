@@ -1,11 +1,25 @@
 {
-	"id": "forsaken_station",
-	"name": "Forsaken Station",
-	"version": "3.2",
-	"hide_version": false,
-	"authors": "Tronsx",
-	"description": "A expansive region where all tracks meet a common place, lost through the time.",
-	"requirements": ["regionkit", "crs", "lb-fgf-m4r-ik.modpack"],
-	"requirements_names": ["RegionKit", "Custom Regions Support", "The M4rblelous Entity Pack"],
-	"checksum_override_version": true
+  "id": "forsaken_station",
+  "name": "Forsaken Station",
+  "version": "3.2",
+  "hide_version": false,
+  "authors": "Tronsx",
+  "description": "A expansive region where all tracks meet a common place, lost through the time.",
+  "requirements": [
+    "regionkit",
+    "crs",
+    "lb-fgf-m4r-ik.modpack"
+  ],
+  "requirements_names": [
+    "RegionKit",
+    "Custom Regions Support",
+    "The M4rblelous Entity Pack"
+  ],
+  "checksum_override_version": true,
+  "tags": [
+    "Regions",
+    "Creatures",
+    "Game Mechanics",
+    "Base"
+  ]
 }
