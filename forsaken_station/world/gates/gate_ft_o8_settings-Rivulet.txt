@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+Clouds: 0.9021739
+Grime: 0
+Palette: 171
+EffectColorA: 9
+EffectColorB: 3
+Effects: Wasp-0.5-20-20, Fog-0.6086956-17-72, DenseFog-0.3586957-280-63, DenseFogSoundVolume-0.1086956-281-10, 
+PlacedObjects: ExitSymbolShelter><729.8745><107.0935><, NoSpearStickZone><479.0994><253.8816><-1~158, ElectricGateData><480.969><562.1976><-433~-643~True~False~False~False~False~False~False~False~0~1~False~0~1~0.5, 
+AmbientSounds: OMNI><noise wind.wav><721.05><465.9955><0.2065217><1.391304, OMNI><am_env-wintertrees.ogg><692.5616><288.1828><0.3043478><1, OMNI><am_env-winterhum.ogg><688.1198><216.4018><0.4021739><1, OMNI><am_win-wndtone.ogg><688.6868><376.5714><0.4565217><1, OMNI><am_rain-mehthunder.ogg><683.4483><130.4742><0.4565217><1, OMNI><rwtw_lightrain_loop.ogg><483.0188><456.4491><0.1086956><0.7065217, 
+FadePalette: 174, 0.5
+MorePalette0: 10, 0.5
+MorePalette1: 11, 0.1521739
+MorePalette2: 17, 0.2065217

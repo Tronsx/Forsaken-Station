@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.6939343
+WaveLength: 0.9030328
+WaveAmplitude: 9.985982E-07
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8043478
+Grime: 0
+Palette: 3347
+EffectColorA: 9
+EffectColorB: 3
+Effects: Wasp-0.5-20-20, Fog-0.6086956-17-72, DenseFog-0.3586957-280-63, DenseFogSoundVolume-0.1086956-281-10, ReplaceEffectColorB-0.05434782-748-349-Color-0.09782609-0.2391304-0.2717391, 
+PlacedObjects: ExitSymbolShelter><729.8745><107.0935><, NoSpearStickZone><479.0994><253.8816><-1~158, ElectricGateData><480.969><562.1976><-433~-643~True~False~False~False~False~False~False~False~0~1~False~0~1~0.5, SnowSource><759.9376><193.5694><Radial~3~132~50~86.60254~0.3695652~1, SnowSource><385><143><Radial~3~142~50~86.60254~0.3695652~1, SnowSource><568><143><Radial~3~142~50~86.60254~0.3695652~1, 
+AmbientSounds: OMNI><am_env-wintertrees.ogg><692.5616><288.1828><0.3043478><1, OMNI><am_env-winterhum.ogg><688.1198><216.4018><0><1, OMNI><am_win-wndtone.ogg><688.6868><376.5714><0><1, OMNI><ft_env_dispairwind.ogg><405.301><250.7701><0.2065217><1, OMNI><ft_env_horrorwind.ogg><355.3615><326.166><0.3043478><1, 
+FadePalette: 10, 0.3043478
+WetTerrain: OFF

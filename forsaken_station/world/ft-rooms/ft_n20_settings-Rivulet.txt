@@ -1,7 +1,7 @@
-Template: FT_SettingsTemplate_Foghorizon
+Template: ft_settingstemplate_foghorizon
 Clouds: 0.9021739
 BkgDroneVolume: 0
-Effects: DenseFog-0.4021739-262-139, DenseFogSoundVolume-0.1086956-1-135, AboveCloudsView-1-297-22, LightRain-0.6086956-274-311, 
+Effects: DenseFog-0.4021739-262-139, DenseFogSoundVolume-0.1086956-1-135, LightRain-0.6086956-274-311, 
 PlacedObjects: FairyParticleSettings><73.1715><113.5661><5~8.660254~1~2.717391~0~0~1~2.877452~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, CustomDecal><-197.9175><-44.93217><-1~755~1356~755~1357~-3~0~0~0~1~0~bonetype~0.1521739~1~0.1521739~1~0.1521739~1~0.1521739~1, 
 AmbientSounds: OMNI><noise wind.wav><742.1699><483.6444><0.2065217><1.391304, OMNI><am_rain-mehthunder.ogg><735.1009><157.6333><0.4565217><1, 
 MorePalette0: 11, 0.1521739

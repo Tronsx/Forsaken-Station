@@ -7,4 +7,6 @@ GATE_FT_NC : Forbidden : Forbidden
 GATE_FT_HI : 2 : 5
 GATE_TX_FT : 4 : 2
 GATE_FT_0H : 3 : 3
+GATE_FT_O8 : 2 : 4
+GATE_VX_O8 : 2 : 4
 [ENDMERGE]

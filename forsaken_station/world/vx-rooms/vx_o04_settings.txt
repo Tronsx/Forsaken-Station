@@ -1,0 +1,11 @@
+Template: vx_settingstemplate_uncanny
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.454799
+WaveLength: 0.9773995
+WaveAmplitude: 2.465853E-09
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: DenseFog-0.4021739-28-138, DenseFogSoundVolume-0.5-305-142, 
+PlacedObjects: SnowSource><-26.34271><670.3765><Radial~301~288~-281~-136.3975~0.5~1, SnowSource><415><376><Radial~301~288~-281~-136.3975~0.5~1, SnowSource><812><423><Radial~301~288~-281~-136.3975~0.5~1, SnowSource><1251><383><Radial~354~354~-281~-136.3975~0.5~1, FairyParticleSettings><223.6404><268.9173><5~8.660254~1~2.717391~0~0~1~2.877452~434.9999~206.5217~40~97.82609~0~0~215.2174~136.9565~1~1~1~1~0.8043478~1~1~0.1521739~10~Circle~EXP~SIN_IO~10.86957~1~0, 
+WetTerrain: OFF
