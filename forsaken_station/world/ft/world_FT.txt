@@ -572,4 +572,7 @@ FT_Urban4 : 2-SmallCentipede
 (Red,Artificer,Spear,Rivulet)GATE_FT_0H : 4-TentaclePlant
 (Red,Gourmand,Artificer,Spear)FT_Urban3 : 2-WhiteLizard
 (Red,Gourmand,Artificer,Spear)GATE_FT_0H : 3-SpitterSpider
+
+FT_O01 : 2-BigNeedleWorm, 3-CicadaA, 4-CicadaB
+(Red,Gourmand,Artificer,Spear)FT_O02 : 2-CyanLizard
 END CREATURES
